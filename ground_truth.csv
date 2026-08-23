@@ -1,0 +1,546 @@
+invoice_id,transaction_id,ground_truth_status,ground_truth_reason
+INV-1001,TXN-5001,MATCH,"Exact match on vendor, amount, and date."
+INV-1002,TXN-5002,MATCH,"Exact match on vendor, amount, and date."
+INV-1003,TXN-5003,MATCH,"Exact match on vendor, amount, and date."
+INV-1004,TXN-5004,MATCH,"Exact match on vendor, amount, and date."
+INV-1005,TXN-5005,MATCH,"Exact match on vendor, amount, and date."
+INV-1006,TXN-5006,MATCH,"Exact match on vendor, amount, and date."
+INV-1007,TXN-5007,MATCH,"Exact match on vendor, amount, and date."
+INV-1008,TXN-5008,MATCH,"Exact match on vendor, amount, and date."
+INV-1009,TXN-5009,MATCH,"Exact match on vendor, amount, and date."
+INV-1010,TXN-5010,MATCH,"Exact match on vendor, amount, and date."
+INV-1011,TXN-5011,MATCH,"Exact match on vendor, amount, and date."
+INV-1012,TXN-5012,MATCH,"Exact match on vendor, amount, and date."
+INV-1013,TXN-5013,MATCH,"Exact match on vendor, amount, and date."
+INV-1014,TXN-5014,MATCH,"Exact match on vendor, amount, and date."
+INV-1015,TXN-5015,MATCH,"Exact match on vendor, amount, and date."
+INV-1016,TXN-5016,MATCH,"Exact match on vendor, amount, and date."
+INV-1017,TXN-5017,MATCH,"Exact match on vendor, amount, and date."
+INV-1018,TXN-5018,MATCH,"Exact match on vendor, amount, and date."
+INV-1019,TXN-5019,MATCH,"Exact match on vendor, amount, and date."
+INV-1020,TXN-5020,MATCH,"Exact match on vendor, amount, and date."
+INV-1021,TXN-5021,MATCH,"Exact match on vendor, amount, and date."
+INV-1022,TXN-5022,MATCH,"Exact match on vendor, amount, and date."
+INV-1023,TXN-5023,MATCH,"Exact match on vendor, amount, and date."
+INV-1024,TXN-5024,MATCH,"Exact match on vendor, amount, and date."
+INV-1025,TXN-5025,MATCH,"Exact match on vendor, amount, and date."
+INV-1026,TXN-5026,MATCH,"Exact match on vendor, amount, and date."
+INV-1027,TXN-5027,MATCH,"Exact match on vendor, amount, and date."
+INV-1028,TXN-5028,MATCH,"Exact match on vendor, amount, and date."
+INV-1029,TXN-5029,MATCH,"Exact match on vendor, amount, and date."
+INV-1030,TXN-5030,MATCH,"Exact match on vendor, amount, and date."
+INV-1031,TXN-5031,MATCH,"Exact match on vendor, amount, and date."
+INV-1032,TXN-5032,MATCH,"Exact match on vendor, amount, and date."
+INV-1033,TXN-5033,MATCH,"Exact match on vendor, amount, and date."
+INV-1034,TXN-5034,MATCH,"Exact match on vendor, amount, and date."
+INV-1035,TXN-5035,MATCH,"Exact match on vendor, amount, and date."
+INV-1036,TXN-5036,MATCH,"Exact match on vendor, amount, and date."
+INV-1037,TXN-5037,MATCH,"Exact match on vendor, amount, and date."
+INV-1038,TXN-5038,MATCH,"Exact match on vendor, amount, and date."
+INV-1039,TXN-5039,MATCH,"Exact match on vendor, amount, and date."
+INV-1040,TXN-5040,MATCH,"Exact match on vendor, amount, and date."
+INV-1041,TXN-5041,MATCH,"Exact match on vendor, amount, and date."
+INV-1042,TXN-5042,MATCH,"Exact match on vendor, amount, and date."
+INV-1043,TXN-5043,MATCH,"Exact match on vendor, amount, and date."
+INV-1044,TXN-5044,MATCH,"Exact match on vendor, amount, and date."
+INV-1045,TXN-5045,MATCH,"Exact match on vendor, amount, and date."
+INV-1046,TXN-5046,MATCH,"Exact match on vendor, amount, and date."
+INV-1047,TXN-5047,MATCH,"Exact match on vendor, amount, and date."
+INV-1048,TXN-5048,MATCH,"Exact match on vendor, amount, and date."
+INV-1049,TXN-5049,MATCH,"Exact match on vendor, amount, and date."
+INV-1050,TXN-5050,MATCH,"Exact match on vendor, amount, and date."
+INV-1051,TXN-5051,MATCH,"Exact match on vendor, amount, and date."
+INV-1052,TXN-5052,MATCH,"Exact match on vendor, amount, and date."
+INV-1053,TXN-5053,MATCH,"Exact match on vendor, amount, and date."
+INV-1054,TXN-5054,MATCH,"Exact match on vendor, amount, and date."
+INV-1055,TXN-5055,MATCH,"Exact match on vendor, amount, and date."
+INV-1056,TXN-5056,MATCH,"Exact match on vendor, amount, and date."
+INV-1057,TXN-5057,MATCH,"Exact match on vendor, amount, and date."
+INV-1058,TXN-5058,MATCH,"Exact match on vendor, amount, and date."
+INV-1059,TXN-5059,MATCH,"Exact match on vendor, amount, and date."
+INV-1060,TXN-5060,MATCH,"Exact match on vendor, amount, and date."
+INV-1061,TXN-5061,MATCH,"Exact match on vendor, amount, and date."
+INV-1062,TXN-5062,MATCH,"Exact match on vendor, amount, and date."
+INV-1063,TXN-5063,MATCH,"Exact match on vendor, amount, and date."
+INV-1064,TXN-5064,MATCH,"Exact match on vendor, amount, and date."
+INV-1065,TXN-5065,MATCH,"Exact match on vendor, amount, and date."
+INV-1066,TXN-5066,MATCH,"Exact match on vendor, amount, and date."
+INV-1067,TXN-5067,MATCH,"Exact match on vendor, amount, and date."
+INV-1068,TXN-5068,MATCH,"Exact match on vendor, amount, and date."
+INV-1069,TXN-5069,MATCH,"Exact match on vendor, amount, and date."
+INV-1070,TXN-5070,MATCH,"Exact match on vendor, amount, and date."
+INV-1071,TXN-5071,MATCH,"Exact match on vendor, amount, and date."
+INV-1072,TXN-5072,MATCH,"Exact match on vendor, amount, and date."
+INV-1073,TXN-5073,MATCH,"Exact match on vendor, amount, and date."
+INV-1074,TXN-5074,MATCH,"Exact match on vendor, amount, and date."
+INV-1075,TXN-5075,MATCH,"Exact match on vendor, amount, and date."
+INV-1076,TXN-5076,MATCH,"Exact match on vendor, amount, and date."
+INV-1077,TXN-5077,MATCH,"Exact match on vendor, amount, and date."
+INV-1078,TXN-5078,MATCH,"Exact match on vendor, amount, and date."
+INV-1079,TXN-5079,MATCH,"Exact match on vendor, amount, and date."
+INV-1080,TXN-5080,MATCH,"Exact match on vendor, amount, and date."
+INV-1081,TXN-5081,MATCH,"Exact match on vendor, amount, and date."
+INV-1082,TXN-5082,MATCH,"Exact match on vendor, amount, and date."
+INV-1083,TXN-5083,MATCH,"Exact match on vendor, amount, and date."
+INV-1084,TXN-5084,MATCH,"Exact match on vendor, amount, and date."
+INV-1085,TXN-5085,MATCH,"Exact match on vendor, amount, and date."
+INV-1086,TXN-5086,MATCH,"Exact match on vendor, amount, and date."
+INV-1087,TXN-5087,MATCH,"Exact match on vendor, amount, and date."
+INV-1088,TXN-5088,MATCH,"Exact match on vendor, amount, and date."
+INV-1089,TXN-5089,MATCH,"Exact match on vendor, amount, and date."
+INV-1090,TXN-5090,MATCH,"Exact match on vendor, amount, and date."
+INV-1091,TXN-5091,MATCH,"Exact match on vendor, amount, and date."
+INV-1092,TXN-5092,MATCH,"Exact match on vendor, amount, and date."
+INV-1093,TXN-5093,MATCH,"Exact match on vendor, amount, and date."
+INV-1094,TXN-5094,MATCH,"Exact match on vendor, amount, and date."
+INV-1095,TXN-5095,MATCH,"Exact match on vendor, amount, and date."
+INV-1096,TXN-5096,MATCH,"Exact match on vendor, amount, and date."
+INV-1097,TXN-5097,MATCH,"Exact match on vendor, amount, and date."
+INV-1098,TXN-5098,MATCH,"Exact match on vendor, amount, and date."
+INV-1099,TXN-5099,MATCH,"Exact match on vendor, amount, and date."
+INV-1100,TXN-5100,MATCH,"Exact match on vendor, amount, and date."
+INV-1101,TXN-5101,MATCH,"Exact match on vendor, amount, and date."
+INV-1102,TXN-5102,MATCH,"Exact match on vendor, amount, and date."
+INV-1103,TXN-5103,MATCH,"Exact match on vendor, amount, and date."
+INV-1104,TXN-5104,MATCH,"Exact match on vendor, amount, and date."
+INV-1105,TXN-5105,MATCH,"Exact match on vendor, amount, and date."
+INV-1106,TXN-5106,MATCH,"Exact match on vendor, amount, and date."
+INV-1107,TXN-5107,MATCH,"Exact match on vendor, amount, and date."
+INV-1108,TXN-5108,MATCH,"Exact match on vendor, amount, and date."
+INV-1109,TXN-5109,MATCH,"Exact match on vendor, amount, and date."
+INV-1110,TXN-5110,MATCH,"Exact match on vendor, amount, and date."
+INV-1111,TXN-5111,MATCH,"Exact match on vendor, amount, and date."
+INV-1112,TXN-5112,MATCH,"Exact match on vendor, amount, and date."
+INV-1113,TXN-5113,MATCH,"Exact match on vendor, amount, and date."
+INV-1114,TXN-5114,MATCH,"Exact match on vendor, amount, and date."
+INV-1115,TXN-5115,MATCH,"Exact match on vendor, amount, and date."
+INV-1116,TXN-5116,MATCH,"Exact match on vendor, amount, and date."
+INV-1117,TXN-5117,MATCH,"Exact match on vendor, amount, and date."
+INV-1118,TXN-5118,MATCH,"Exact match on vendor, amount, and date."
+INV-1119,TXN-5119,MATCH,"Exact match on vendor, amount, and date."
+INV-1120,TXN-5120,MATCH,"Exact match on vendor, amount, and date."
+INV-1121,TXN-5121,MATCH,"Exact match on vendor, amount, and date."
+INV-1122,TXN-5122,MATCH,"Exact match on vendor, amount, and date."
+INV-1123,TXN-5123,MATCH,"Exact match on vendor, amount, and date."
+INV-1124,TXN-5124,MATCH,"Exact match on vendor, amount, and date."
+INV-1125,TXN-5125,MATCH,"Exact match on vendor, amount, and date."
+INV-1126,TXN-5126,MATCH,"Exact match on vendor, amount, and date."
+INV-1127,TXN-5127,MATCH,"Exact match on vendor, amount, and date."
+INV-1128,TXN-5128,MATCH,"Exact match on vendor, amount, and date."
+INV-1129,TXN-5129,MATCH,"Exact match on vendor, amount, and date."
+INV-1130,TXN-5130,MATCH,"Exact match on vendor, amount, and date."
+INV-1131,TXN-5131,MATCH,"Exact match on vendor, amount, and date."
+INV-1132,TXN-5132,MATCH,"Exact match on vendor, amount, and date."
+INV-1133,TXN-5133,MATCH,"Exact match on vendor, amount, and date."
+INV-1134,TXN-5134,MATCH,"Exact match on vendor, amount, and date."
+INV-1135,TXN-5135,MATCH,"Exact match on vendor, amount, and date."
+INV-1136,TXN-5136,MATCH,"Exact match on vendor, amount, and date."
+INV-1137,TXN-5137,MATCH,"Exact match on vendor, amount, and date."
+INV-1138,TXN-5138,MATCH,"Exact match on vendor, amount, and date."
+INV-1139,TXN-5139,MATCH,"Exact match on vendor, amount, and date."
+INV-1140,TXN-5140,MATCH,"Exact match on vendor, amount, and date."
+INV-1141,TXN-5141,MATCH,"Exact match on vendor, amount, and date."
+INV-1142,TXN-5142,MATCH,"Exact match on vendor, amount, and date."
+INV-1143,TXN-5143,MATCH,"Exact match on vendor, amount, and date."
+INV-1144,TXN-5144,MATCH,"Exact match on vendor, amount, and date."
+INV-1145,TXN-5145,MATCH,"Exact match on vendor, amount, and date."
+INV-1146,TXN-5146,MATCH,"Exact match on vendor, amount, and date."
+INV-1147,TXN-5147,MATCH,"Exact match on vendor, amount, and date."
+INV-1148,TXN-5148,MATCH,"Exact match on vendor, amount, and date."
+INV-1149,TXN-5149,MATCH,"Exact match on vendor, amount, and date."
+INV-1150,TXN-5150,MATCH,"Exact match on vendor, amount, and date."
+INV-1151,TXN-5151,MATCH,"Exact match on vendor, amount, and date."
+INV-1152,TXN-5152,MATCH,"Exact match on vendor, amount, and date."
+INV-1153,TXN-5153,MATCH,"Exact match on vendor, amount, and date."
+INV-1154,TXN-5154,MATCH,"Exact match on vendor, amount, and date."
+INV-1155,TXN-5155,MATCH,"Exact match on vendor, amount, and date."
+INV-1156,TXN-5156,MATCH,"Exact match on vendor, amount, and date."
+INV-1157,TXN-5157,MATCH,"Exact match on vendor, amount, and date."
+INV-1158,TXN-5158,MATCH,"Exact match on vendor, amount, and date."
+INV-1159,TXN-5159,MATCH,"Exact match on vendor, amount, and date."
+INV-1160,TXN-5160,MATCH,"Exact match on vendor, amount, and date."
+INV-1161,TXN-5161,MATCH,"Exact match on vendor, amount, and date."
+INV-1162,TXN-5162,MATCH,"Exact match on vendor, amount, and date."
+INV-1163,TXN-5163,MATCH,"Exact match on vendor, amount, and date."
+INV-1164,TXN-5164,MATCH,"Exact match on vendor, amount, and date."
+INV-1165,TXN-5165,MATCH,"Exact match on vendor, amount, and date."
+INV-1166,TXN-5166,MATCH,"Exact match on vendor, amount, and date."
+INV-1167,TXN-5167,MATCH,"Exact match on vendor, amount, and date."
+INV-1168,TXN-5168,MATCH,"Exact match on vendor, amount, and date."
+INV-1169,TXN-5169,MATCH,"Exact match on vendor, amount, and date."
+INV-1170,TXN-5170,MATCH,"Exact match on vendor, amount, and date."
+INV-1171,TXN-5171,MATCH,"Exact match on vendor, amount, and date."
+INV-1172,TXN-5172,MATCH,"Exact match on vendor, amount, and date."
+INV-1173,TXN-5173,MATCH,"Exact match on vendor, amount, and date."
+INV-1174,TXN-5174,MATCH,"Exact match on vendor, amount, and date."
+INV-1175,TXN-5175,MATCH,"Exact match on vendor, amount, and date."
+INV-1176,TXN-5176,MATCH,"Exact match on vendor, amount, and date."
+INV-1177,TXN-5177,MATCH,"Exact match on vendor, amount, and date."
+INV-1178,TXN-5178,MATCH,"Exact match on vendor, amount, and date."
+INV-1179,TXN-5179,MATCH,"Exact match on vendor, amount, and date."
+INV-1180,TXN-5180,MATCH,"Exact match on vendor, amount, and date."
+INV-1181,TXN-5181,MATCH,"Exact match on vendor, amount, and date."
+INV-1182,TXN-5182,MATCH,"Exact match on vendor, amount, and date."
+INV-1183,TXN-5183,MATCH,"Exact match on vendor, amount, and date."
+INV-1184,TXN-5184,MATCH,"Exact match on vendor, amount, and date."
+INV-1185,TXN-5185,MATCH,"Exact match on vendor, amount, and date."
+INV-1186,TXN-5186,MATCH,"Exact match on vendor, amount, and date."
+INV-1187,TXN-5187,MATCH,"Exact match on vendor, amount, and date."
+INV-1188,TXN-5188,MATCH,"Exact match on vendor, amount, and date."
+INV-1189,TXN-5189,MATCH,"Exact match on vendor, amount, and date."
+INV-1190,TXN-5190,MATCH,"Exact match on vendor, amount, and date."
+INV-1191,TXN-5191,MATCH,"Exact match on vendor, amount, and date."
+INV-1192,TXN-5192,MATCH,"Exact match on vendor, amount, and date."
+INV-1193,TXN-5193,MATCH,"Exact match on vendor, amount, and date."
+INV-1194,TXN-5194,MATCH,"Exact match on vendor, amount, and date."
+INV-1195,TXN-5195,MATCH,"Exact match on vendor, amount, and date."
+INV-1196,TXN-5196,MATCH,"Exact match on vendor, amount, and date."
+INV-1197,TXN-5197,MATCH,"Exact match on vendor, amount, and date."
+INV-1198,TXN-5198,MATCH,"Exact match on vendor, amount, and date."
+INV-1199,TXN-5199,MATCH,"Exact match on vendor, amount, and date."
+INV-1200,TXN-5200,MATCH,"Exact match on vendor, amount, and date."
+INV-1201,TXN-5201,MATCH,"Exact match on vendor, amount, and date."
+INV-1202,TXN-5202,MATCH,"Exact match on vendor, amount, and date."
+INV-1203,TXN-5203,MATCH,"Exact match on vendor, amount, and date."
+INV-1204,TXN-5204,MATCH,"Exact match on vendor, amount, and date."
+INV-1205,TXN-5205,MATCH,"Exact match on vendor, amount, and date."
+INV-1206,TXN-5206,MATCH,"Exact match on vendor, amount, and date."
+INV-1207,TXN-5207,MATCH,"Exact match on vendor, amount, and date."
+INV-1208,TXN-5208,MATCH,"Exact match on vendor, amount, and date."
+INV-1209,TXN-5209,MATCH,"Exact match on vendor, amount, and date."
+INV-1210,TXN-5210,MATCH,"Exact match on vendor, amount, and date."
+INV-1211,TXN-5211,MATCH,"Exact match on vendor, amount, and date."
+INV-1212,TXN-5212,MATCH,"Exact match on vendor, amount, and date."
+INV-1213,TXN-5213,MATCH,"Exact match on vendor, amount, and date."
+INV-1214,TXN-5214,MATCH,"Exact match on vendor, amount, and date."
+INV-1215,TXN-5215,MATCH,"Exact match on vendor, amount, and date."
+INV-1216,TXN-5216,MATCH,"Exact match on vendor, amount, and date."
+INV-1217,TXN-5217,MATCH,"Exact match on vendor, amount, and date."
+INV-1218,TXN-5218,MATCH,"Exact match on vendor, amount, and date."
+INV-1219,TXN-5219,MATCH,"Exact match on vendor, amount, and date."
+INV-1220,TXN-5220,MATCH,"Exact match on vendor, amount, and date."
+INV-1221,TXN-5221,MATCH,"Exact match on vendor, amount, and date."
+INV-1222,TXN-5222,MATCH,"Exact match on vendor, amount, and date."
+INV-1223,TXN-5223,MATCH,"Exact match on vendor, amount, and date."
+INV-1224,TXN-5224,MATCH,"Exact match on vendor, amount, and date."
+INV-1225,TXN-5225,MATCH,"Exact match on vendor, amount, and date."
+INV-1226,TXN-5226,MATCH,"Exact match on vendor, amount, and date."
+INV-1227,TXN-5227,MATCH,"Exact match on vendor, amount, and date."
+INV-1228,TXN-5228,MATCH,"Exact match on vendor, amount, and date."
+INV-1229,TXN-5229,MATCH,"Exact match on vendor, amount, and date."
+INV-1230,TXN-5230,MATCH,"Exact match on vendor, amount, and date."
+INV-1231,TXN-5231,MATCH,"Exact match on vendor, amount, and date."
+INV-1232,TXN-5232,MATCH,"Exact match on vendor, amount, and date."
+INV-1233,TXN-5233,MATCH,"Exact match on vendor, amount, and date."
+INV-1234,TXN-5234,MATCH,"Exact match on vendor, amount, and date."
+INV-1235,TXN-5235,MATCH,"Exact match on vendor, amount, and date."
+INV-1236,TXN-5236,MATCH,"Exact match on vendor, amount, and date."
+INV-1237,TXN-5237,MATCH,"Exact match on vendor, amount, and date."
+INV-1238,TXN-5238,MATCH,"Exact match on vendor, amount, and date."
+INV-1239,TXN-5239,MATCH,"Exact match on vendor, amount, and date."
+INV-1240,TXN-5240,MATCH,"Exact match on vendor, amount, and date."
+INV-1241,TXN-5241,MATCH,"Exact match on vendor, amount, and date."
+INV-1242,TXN-5242,MATCH,"Exact match on vendor, amount, and date."
+INV-1243,TXN-5243,MATCH,"Exact match on vendor, amount, and date."
+INV-1244,TXN-5244,MATCH,"Exact match on vendor, amount, and date."
+INV-1245,TXN-5245,MATCH,"Exact match on vendor, amount, and date."
+INV-1246,TXN-5246,MATCH,"Exact match on vendor, amount, and date."
+INV-1247,TXN-5247,MATCH,"Exact match on vendor, amount, and date."
+INV-1248,TXN-5248,MATCH,"Exact match on vendor, amount, and date."
+INV-1249,TXN-5249,MATCH,"Exact match on vendor, amount, and date."
+INV-1250,TXN-5250,MATCH,"Exact match on vendor, amount, and date."
+INV-1251,TXN-5251,MATCH,"Exact match on vendor, amount, and date."
+INV-1252,TXN-5252,MATCH,"Exact match on vendor, amount, and date."
+INV-1253,TXN-5253,MATCH,"Exact match on vendor, amount, and date."
+INV-1254,TXN-5254,MATCH,"Exact match on vendor, amount, and date."
+INV-1255,TXN-5255,MATCH,"Exact match on vendor, amount, and date."
+INV-1256,TXN-5256,MATCH,"Exact match on vendor, amount, and date."
+INV-1257,TXN-5257,MATCH,"Exact match on vendor, amount, and date."
+INV-1258,TXN-5258,MATCH,"Exact match on vendor, amount, and date."
+INV-1259,TXN-5259,MATCH,"Exact match on vendor, amount, and date."
+INV-1260,TXN-5260,MATCH,"Exact match on vendor, amount, and date."
+INV-1261,TXN-5261,MATCH,"Exact match on vendor, amount, and date."
+INV-1262,TXN-5262,MATCH,"Exact match on vendor, amount, and date."
+INV-1263,TXN-5263,MATCH,"Exact match on vendor, amount, and date."
+INV-1264,TXN-5264,MATCH,"Exact match on vendor, amount, and date."
+INV-1265,TXN-5265,MATCH,"Exact match on vendor, amount, and date."
+INV-1266,TXN-5266,MATCH,"Exact match on vendor, amount, and date."
+INV-1267,TXN-5267,MATCH,"Exact match on vendor, amount, and date."
+INV-1268,TXN-5268,MATCH,"Exact match on vendor, amount, and date."
+INV-1269,TXN-5269,MATCH,"Exact match on vendor, amount, and date."
+INV-1270,TXN-5270,MATCH,"Exact match on vendor, amount, and date."
+INV-1271,TXN-5271,MATCH,"Exact match on vendor, amount, and date."
+INV-1272,TXN-5272,MATCH,"Exact match on vendor, amount, and date."
+INV-1273,TXN-5273,MATCH,"Exact match on vendor, amount, and date."
+INV-1274,TXN-5274,MATCH,"Exact match on vendor, amount, and date."
+INV-1275,TXN-5275,MATCH,"Exact match on vendor, amount, and date."
+INV-1276,TXN-5276,MATCH,"Exact match on vendor, amount, and date."
+INV-1277,TXN-5277,MATCH,"Exact match on vendor, amount, and date."
+INV-1278,TXN-5278,MATCH,"Exact match on vendor, amount, and date."
+INV-1279,TXN-5279,MATCH,"Exact match on vendor, amount, and date."
+INV-1280,TXN-5280,MATCH,"Exact match on vendor, amount, and date."
+INV-1281,TXN-5281,MATCH,"Exact match on vendor, amount, and date."
+INV-1282,TXN-5282,MATCH,"Exact match on vendor, amount, and date."
+INV-1283,TXN-5283,MATCH,"Exact match on vendor, amount, and date."
+INV-1284,TXN-5284,MATCH,"Exact match on vendor, amount, and date."
+INV-1285,TXN-5285,MATCH,"Exact match on vendor, amount, and date."
+INV-1286,TXN-5286,MATCH,"Exact match on vendor, amount, and date."
+INV-1287,TXN-5287,MATCH,"Exact match on vendor, amount, and date."
+INV-1288,TXN-5288,MATCH,"Exact match on vendor, amount, and date."
+INV-1289,TXN-5289,MATCH,"Exact match on vendor, amount, and date."
+INV-1290,TXN-5290,MATCH,"Exact match on vendor, amount, and date."
+INV-1291,TXN-5291,MATCH,"Exact match on vendor, amount, and date."
+INV-1292,TXN-5292,MATCH,"Exact match on vendor, amount, and date."
+INV-1293,TXN-5293,MATCH,"Exact match on vendor, amount, and date."
+INV-1294,TXN-5294,MATCH,"Exact match on vendor, amount, and date."
+INV-1295,TXN-5295,MATCH,"Exact match on vendor, amount, and date."
+INV-1296,TXN-5296,MATCH,"Exact match on vendor, amount, and date."
+INV-1297,TXN-5297,MATCH,"Exact match on vendor, amount, and date."
+INV-1298,TXN-5298,MATCH,"Exact match on vendor, amount, and date."
+INV-1299,TXN-5299,MATCH,"Exact match on vendor, amount, and date."
+INV-1300,TXN-5300,MATCH,"Exact match on vendor, amount, and date."
+INV-1301,TXN-5301,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1302,TXN-5302,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1303,TXN-5303,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1304,TXN-5304,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1305,TXN-5305,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1306,TXN-5306,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1307,TXN-5307,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1308,TXN-5308,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1309,TXN-5309,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1310,TXN-5310,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1311,TXN-5311,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1312,TXN-5312,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1313,TXN-5313,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1314,TXN-5314,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1315,TXN-5315,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1316,TXN-5316,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1317,TXN-5317,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1318,TXN-5318,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1319,TXN-5319,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1320,TXN-5320,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1321,TXN-5321,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1322,TXN-5322,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1323,TXN-5323,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1324,TXN-5324,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1325,TXN-5325,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1326,TXN-5326,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1327,TXN-5327,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1328,TXN-5328,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1329,TXN-5329,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1330,TXN-5330,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1331,TXN-5331,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1332,TXN-5332,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1333,TXN-5333,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1334,TXN-5334,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1335,TXN-5335,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1336,TXN-5336,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1337,TXN-5337,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1338,TXN-5338,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1339,TXN-5339,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1340,TXN-5340,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1341,TXN-5341,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1342,TXN-5342,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1343,TXN-5343,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1344,TXN-5344,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1345,TXN-5345,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1346,TXN-5346,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1347,TXN-5347,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1348,TXN-5348,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1349,TXN-5349,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1350,TXN-5350,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1351,TXN-5351,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1352,TXN-5352,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1353,TXN-5353,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1354,TXN-5354,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1355,TXN-5355,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1356,TXN-5356,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1357,TXN-5357,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1358,TXN-5358,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1359,TXN-5359,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1360,TXN-5360,MATCH,Fuzzy vendor match; payment description uses abbreviation/variant.
+INV-1361,TXN-5361,MATCH,Match with date offset due to settlement lag.
+INV-1362,TXN-5362,MATCH,Match with date offset due to settlement lag.
+INV-1363,TXN-5363,MATCH,Match with date offset due to settlement lag.
+INV-1364,TXN-5364,MATCH,Match with date offset due to settlement lag.
+INV-1365,TXN-5365,MATCH,Match with date offset due to settlement lag.
+INV-1366,TXN-5366,MATCH,Match with date offset due to settlement lag.
+INV-1367,TXN-5367,MATCH,Match with date offset due to settlement lag.
+INV-1368,TXN-5368,MATCH,Match with date offset due to settlement lag.
+INV-1369,TXN-5369,MATCH,Match with date offset due to settlement lag.
+INV-1370,TXN-5370,MATCH,Match with date offset due to settlement lag.
+INV-1371,TXN-5371,MATCH,Match with date offset due to settlement lag.
+INV-1372,TXN-5372,MATCH,Match with date offset due to settlement lag.
+INV-1373,TXN-5373,MATCH,Match with date offset due to settlement lag.
+INV-1374,TXN-5374,MATCH,Match with date offset due to settlement lag.
+INV-1375,TXN-5375,MATCH,Match with date offset due to settlement lag.
+INV-1376,TXN-5376,MATCH,Match with date offset due to settlement lag.
+INV-1377,TXN-5377,MATCH,Match with date offset due to settlement lag.
+INV-1378,TXN-5378,MATCH,Match with date offset due to settlement lag.
+INV-1379,TXN-5379,MATCH,Match with date offset due to settlement lag.
+INV-1380,TXN-5380,MATCH,Match with date offset due to settlement lag.
+INV-1381,TXN-5381,MATCH,Match with date offset due to settlement lag.
+INV-1382,TXN-5382,MATCH,Match with date offset due to settlement lag.
+INV-1383,TXN-5383,MATCH,Match with date offset due to settlement lag.
+INV-1384,TXN-5384,MATCH,Match with date offset due to settlement lag.
+INV-1385,TXN-5385,MATCH,Match with date offset due to settlement lag.
+INV-1386,TXN-5386,MATCH,Match with date offset due to settlement lag.
+INV-1387,TXN-5387,MATCH,Match with date offset due to settlement lag.
+INV-1388,TXN-5388,MATCH,Match with date offset due to settlement lag.
+INV-1389,TXN-5389,MATCH,Match with date offset due to settlement lag.
+INV-1390,TXN-5390,MATCH,Match with date offset due to settlement lag.
+INV-1391,TXN-5391,MATCH,Match with date offset due to settlement lag.
+INV-1392,TXN-5392,MATCH,Match with date offset due to settlement lag.
+INV-1393,TXN-5393,MATCH,Match with date offset due to settlement lag.
+INV-1394,TXN-5394,MATCH,Match with date offset due to settlement lag.
+INV-1395,TXN-5395,MATCH,Match with date offset due to settlement lag.
+INV-1396,TXN-5396,MATCH,Match with date offset due to settlement lag.
+INV-1397,TXN-5397,MATCH,Match with date offset due to settlement lag.
+INV-1398,TXN-5398,MATCH,Match with date offset due to settlement lag.
+INV-1399,TXN-5399,MATCH,Match with date offset due to settlement lag.
+INV-1400,TXN-5400,MATCH,Match with date offset due to settlement lag.
+INV-1401,TXN-5401,AMOUNT_MISMATCH,Transaction amount ₹476435.79 differs from invoice amount ₹486158.97 (possible bank fee/deduction).
+INV-1402,TXN-5402,AMOUNT_MISMATCH,Transaction amount ₹147288.41 differs from invoice amount ₹150294.3 (possible bank fee/deduction).
+INV-1403,TXN-5403,AMOUNT_MISMATCH,Transaction amount ₹407399.76 differs from invoice amount ₹428841.85 (possible bank fee/deduction).
+INV-1404,TXN-5404,AMOUNT_MISMATCH,Transaction amount ₹264921.5 differs from invoice amount ₹278864.74 (possible bank fee/deduction).
+INV-1405,TXN-5405,AMOUNT_MISMATCH,Transaction amount ₹307353.09 differs from invoice amount ₹323529.57 (possible bank fee/deduction).
+INV-1406,TXN-5406,AMOUNT_MISMATCH,Transaction amount ₹127866.73 differs from invoice amount ₹134596.56 (possible bank fee/deduction).
+INV-1407,TXN-5407,AMOUNT_MISMATCH,Transaction amount ₹355044.66 differs from invoice amount ₹362290.47 (possible bank fee/deduction).
+INV-1408,TXN-5408,AMOUNT_MISMATCH,Transaction amount ₹454604.8 differs from invoice amount ₹478531.37 (possible bank fee/deduction).
+INV-1409,TXN-5409,AMOUNT_MISMATCH,Transaction amount ₹330567.06 differs from invoice amount ₹347965.33 (possible bank fee/deduction).
+INV-1410,TXN-5410,AMOUNT_MISMATCH,Transaction amount ₹186827.73 differs from invoice amount ₹190640.54 (possible bank fee/deduction).
+INV-1411,TXN-5411,AMOUNT_MISMATCH,Transaction amount ₹397318.11 differs from invoice amount ₹441464.57 (possible bank fee/deduction).
+INV-1412,TXN-5412,AMOUNT_MISMATCH,Transaction amount ₹167100.4 differs from invoice amount ₹185667.11 (possible bank fee/deduction).
+INV-1413,TXN-5413,AMOUNT_MISMATCH,Transaction amount ₹117681.0 differs from invoice amount ₹130756.67 (possible bank fee/deduction).
+INV-1414,TXN-5414,AMOUNT_MISMATCH,Transaction amount ₹88648.02 differs from invoice amount ₹98497.8 (possible bank fee/deduction).
+INV-1415,TXN-5415,AMOUNT_MISMATCH,Transaction amount ₹320927.15 differs from invoice amount ₹327476.68 (possible bank fee/deduction).
+INV-1416,TXN-5416,AMOUNT_MISMATCH,Transaction amount ₹348193.74 differs from invoice amount ₹366519.73 (possible bank fee/deduction).
+INV-1417,TXN-5417,AMOUNT_MISMATCH,Transaction amount ₹412642.12 differs from invoice amount ₹458491.25 (possible bank fee/deduction).
+INV-1418,TXN-5418,AMOUNT_MISMATCH,Transaction amount ₹23496.29 differs from invoice amount ₹24732.94 (possible bank fee/deduction).
+INV-1419,TXN-5419,AMOUNT_MISMATCH,Transaction amount ₹74420.52 differs from invoice amount ₹75939.31 (possible bank fee/deduction).
+INV-1420,TXN-5420,AMOUNT_MISMATCH,Transaction amount ₹287140.89 differs from invoice amount ₹319045.43 (possible bank fee/deduction).
+INV-1421,TXN-5421,AMOUNT_MISMATCH,Transaction amount ₹253023.13 differs from invoice amount ₹266340.14 (possible bank fee/deduction).
+INV-1422,TXN-5422,AMOUNT_MISMATCH,Transaction amount ₹439875.84 differs from invoice amount ₹488750.93 (possible bank fee/deduction).
+INV-1423,TXN-5423,AMOUNT_MISMATCH,Transaction amount ₹436112.13 differs from invoice amount ₹459065.4 (possible bank fee/deduction).
+INV-1424,TXN-5424,AMOUNT_MISMATCH,Transaction amount ₹124051.23 differs from invoice amount ₹126582.89 (possible bank fee/deduction).
+INV-1425,TXN-5425,AMOUNT_MISMATCH,Transaction amount ₹225173.98 differs from invoice amount ₹229769.37 (possible bank fee/deduction).
+INV-1426,TXN-5426,AMOUNT_MISMATCH,Transaction amount ₹198877.78 differs from invoice amount ₹202936.51 (possible bank fee/deduction).
+INV-1427,TXN-5427,AMOUNT_MISMATCH,Transaction amount ₹344539.73 differs from invoice amount ₹351571.15 (possible bank fee/deduction).
+INV-1428,TXN-5428,AMOUNT_MISMATCH,Transaction amount ₹425075.8 differs from invoice amount ₹447448.21 (possible bank fee/deduction).
+INV-1429,TXN-5429,AMOUNT_MISMATCH,Transaction amount ₹21381.93 differs from invoice amount ₹23757.7 (possible bank fee/deduction).
+INV-1430,TXN-5430,AMOUNT_MISMATCH,Transaction amount ₹441197.86 differs from invoice amount ₹464418.8 (possible bank fee/deduction).
+INV-1431,TXN-5431,AMOUNT_MISMATCH,Transaction amount ₹390013.7 differs from invoice amount ₹410540.74 (possible bank fee/deduction).
+INV-1432,TXN-5432,AMOUNT_MISMATCH,Transaction amount ₹409059.79 differs from invoice amount ₹417407.95 (possible bank fee/deduction).
+INV-1433,TXN-5433,AMOUNT_MISMATCH,Transaction amount ₹344108.71 differs from invoice amount ₹362219.7 (possible bank fee/deduction).
+INV-1434,TXN-5434,AMOUNT_MISMATCH,Transaction amount ₹377476.19 differs from invoice amount ₹419417.99 (possible bank fee/deduction).
+INV-1435,TXN-5435,AMOUNT_MISMATCH,Transaction amount ₹14992.06 differs from invoice amount ₹15298.02 (possible bank fee/deduction).
+INV-1436,NONE,MISSING_PAYMENT,No corresponding bank transaction recorded.
+INV-1437,NONE,MISSING_PAYMENT,No corresponding bank transaction recorded.
+INV-1438,NONE,MISSING_PAYMENT,No corresponding bank transaction recorded.
+INV-1439,NONE,MISSING_PAYMENT,No corresponding bank transaction recorded.
+INV-1440,NONE,MISSING_PAYMENT,No corresponding bank transaction recorded.
+INV-1441,NONE,MISSING_PAYMENT,No corresponding bank transaction recorded.
+INV-1442,NONE,MISSING_PAYMENT,No corresponding bank transaction recorded.
+INV-1443,NONE,MISSING_PAYMENT,No corresponding bank transaction recorded.
+INV-1444,NONE,MISSING_PAYMENT,No corresponding bank transaction recorded.
+INV-1445,NONE,MISSING_PAYMENT,No corresponding bank transaction recorded.
+INV-1446,NONE,MISSING_PAYMENT,No corresponding bank transaction recorded.
+INV-1447,NONE,MISSING_PAYMENT,No corresponding bank transaction recorded.
+INV-1448,NONE,MISSING_PAYMENT,No corresponding bank transaction recorded.
+INV-1449,NONE,MISSING_PAYMENT,No corresponding bank transaction recorded.
+INV-1450,NONE,MISSING_PAYMENT,No corresponding bank transaction recorded.
+INV-1451,NONE,MISSING_PAYMENT,No corresponding bank transaction recorded.
+INV-1452,NONE,MISSING_PAYMENT,No corresponding bank transaction recorded.
+INV-1453,NONE,MISSING_PAYMENT,No corresponding bank transaction recorded.
+INV-1454,NONE,MISSING_PAYMENT,No corresponding bank transaction recorded.
+INV-1455,NONE,MISSING_PAYMENT,No corresponding bank transaction recorded.
+INV-1456,TXN-5456,MATCH,Primary valid payment transaction.
+INV-1456,TXN-5457,DUPLICATE,Duplicate transaction processed by bank/customer.
+INV-1457,TXN-5458,MATCH,Primary valid payment transaction.
+INV-1457,TXN-5459,DUPLICATE,Duplicate transaction processed by bank/customer.
+INV-1458,TXN-5460,MATCH,Primary valid payment transaction.
+INV-1458,TXN-5461,DUPLICATE,Duplicate transaction processed by bank/customer.
+INV-1459,TXN-5462,MATCH,Primary valid payment transaction.
+INV-1459,TXN-5463,DUPLICATE,Duplicate transaction processed by bank/customer.
+INV-1460,TXN-5464,MATCH,Primary valid payment transaction.
+INV-1460,TXN-5465,DUPLICATE,Duplicate transaction processed by bank/customer.
+INV-1461,TXN-5466,MATCH,Primary valid payment transaction.
+INV-1461,TXN-5467,DUPLICATE,Duplicate transaction processed by bank/customer.
+INV-1462,TXN-5468,MATCH,Primary valid payment transaction.
+INV-1462,TXN-5469,DUPLICATE,Duplicate transaction processed by bank/customer.
+INV-1463,TXN-5470,MATCH,Primary valid payment transaction.
+INV-1463,TXN-5471,DUPLICATE,Duplicate transaction processed by bank/customer.
+INV-1464,TXN-5472,MATCH,Primary valid payment transaction.
+INV-1464,TXN-5473,DUPLICATE,Duplicate transaction processed by bank/customer.
+INV-1465,TXN-5474,MATCH,Primary valid payment transaction.
+INV-1465,TXN-5475,DUPLICATE,Duplicate transaction processed by bank/customer.
+INV-1466,TXN-5476,MATCH,Primary valid payment transaction.
+INV-1466,TXN-5477,DUPLICATE,Duplicate transaction processed by bank/customer.
+INV-1467,TXN-5478,MATCH,Primary valid payment transaction.
+INV-1467,TXN-5479,DUPLICATE,Duplicate transaction processed by bank/customer.
+INV-1468,TXN-5480,MATCH,Primary valid payment transaction.
+INV-1468,TXN-5481,DUPLICATE,Duplicate transaction processed by bank/customer.
+INV-1469,TXN-5482,MATCH,Primary valid payment transaction.
+INV-1469,TXN-5483,DUPLICATE,Duplicate transaction processed by bank/customer.
+INV-1470,TXN-5484,MATCH,Primary valid payment transaction.
+INV-1470,TXN-5485,DUPLICATE,Duplicate transaction processed by bank/customer.
+INV-1471,TXN-5486,MATCH,Primary valid payment transaction.
+INV-1471,TXN-5487,DUPLICATE,Duplicate transaction processed by bank/customer.
+INV-1472,TXN-5488,MATCH,Primary valid payment transaction.
+INV-1472,TXN-5489,DUPLICATE,Duplicate transaction processed by bank/customer.
+INV-1473,TXN-5490,MATCH,Primary valid payment transaction.
+INV-1473,TXN-5491,DUPLICATE,Duplicate transaction processed by bank/customer.
+INV-1474,TXN-5492,MATCH,Primary valid payment transaction.
+INV-1474,TXN-5493,DUPLICATE,Duplicate transaction processed by bank/customer.
+INV-1475,TXN-5494,MATCH,Primary valid payment transaction.
+INV-1475,TXN-5495,DUPLICATE,Duplicate transaction processed by bank/customer.
+INV-1476,TXN-5496,MATCH,Target match for ambiguous pair.
+INV-1477,TXN-5496,AMBIGUOUS,"Ambiguous match candidate due to identical vendor, amount, and close dates."
+INV-1478,TXN-5497,MATCH,Target match for ambiguous pair.
+INV-1479,TXN-5497,AMBIGUOUS,"Ambiguous match candidate due to identical vendor, amount, and close dates."
+INV-1480,TXN-5498,MATCH,Target match for ambiguous pair.
+INV-1481,TXN-5498,AMBIGUOUS,"Ambiguous match candidate due to identical vendor, amount, and close dates."
+INV-1482,TXN-5499,MATCH,Target match for ambiguous pair.
+INV-1483,TXN-5499,AMBIGUOUS,"Ambiguous match candidate due to identical vendor, amount, and close dates."
+INV-1484,TXN-5500,MATCH,Target match for ambiguous pair.
+INV-1485,TXN-5500,AMBIGUOUS,"Ambiguous match candidate due to identical vendor, amount, and close dates."
+INV-1486,TXN-5501,MATCH,Target match for ambiguous pair.
+INV-1487,TXN-5501,AMBIGUOUS,"Ambiguous match candidate due to identical vendor, amount, and close dates."
+INV-1488,TXN-5502,MATCH,Target match for ambiguous pair.
+INV-1489,TXN-5502,AMBIGUOUS,"Ambiguous match candidate due to identical vendor, amount, and close dates."
+INV-1490,TXN-5503,MATCH,Target match for ambiguous pair.
+INV-1491,TXN-5503,AMBIGUOUS,"Ambiguous match candidate due to identical vendor, amount, and close dates."
+INV-1492,TXN-5504,MATCH,Target match for ambiguous pair.
+INV-1493,TXN-5504,AMBIGUOUS,"Ambiguous match candidate due to identical vendor, amount, and close dates."
+INV-1494,TXN-5505,MATCH,Target match for ambiguous pair.
+INV-1495,TXN-5505,AMBIGUOUS,"Ambiguous match candidate due to identical vendor, amount, and close dates."
+INV-1496,TXN-5506,MATCH,Target match for ambiguous pair.
+INV-1497,TXN-5506,AMBIGUOUS,"Ambiguous match candidate due to identical vendor, amount, and close dates."
+INV-1498,TXN-5507,MATCH,Target match for ambiguous pair.
+INV-1499,TXN-5507,AMBIGUOUS,"Ambiguous match candidate due to identical vendor, amount, and close dates."
+INV-1500,TXN-5508,MATCH,Target match for ambiguous pair.
+INV-1501,TXN-5508,AMBIGUOUS,"Ambiguous match candidate due to identical vendor, amount, and close dates."
+INV-1502,TXN-5509,MATCH,Target match for ambiguous pair.
+INV-1503,TXN-5509,AMBIGUOUS,"Ambiguous match candidate due to identical vendor, amount, and close dates."
+INV-1504,TXN-5510,MATCH,Target match for ambiguous pair.
+INV-1505,TXN-5510,AMBIGUOUS,"Ambiguous match candidate due to identical vendor, amount, and close dates."
+INV-1506,TXN-5511,MATCH,Target match for ambiguous pair.
+INV-1507,TXN-5511,AMBIGUOUS,"Ambiguous match candidate due to identical vendor, amount, and close dates."
+INV-1508,TXN-5512,MATCH,Target match for ambiguous pair.
+INV-1509,TXN-5512,AMBIGUOUS,"Ambiguous match candidate due to identical vendor, amount, and close dates."
+INV-1510,TXN-5513,MATCH,Target match for ambiguous pair.
+INV-1511,TXN-5513,AMBIGUOUS,"Ambiguous match candidate due to identical vendor, amount, and close dates."
+INV-1512,TXN-5514,MATCH,Target match for ambiguous pair.
+INV-1513,TXN-5514,AMBIGUOUS,"Ambiguous match candidate due to identical vendor, amount, and close dates."
+INV-1514,TXN-5515,MATCH,Target match for ambiguous pair.
+INV-1515,TXN-5515,AMBIGUOUS,"Ambiguous match candidate due to identical vendor, amount, and close dates."
+INV-1516,TXN-5516,MATCH,Target match for ambiguous pair.
+INV-1517,TXN-5516,AMBIGUOUS,"Ambiguous match candidate due to identical vendor, amount, and close dates."
+INV-1518,TXN-5517,MATCH,Target match for ambiguous pair.
+INV-1519,TXN-5517,AMBIGUOUS,"Ambiguous match candidate due to identical vendor, amount, and close dates."
+INV-1520,TXN-5518,MATCH,Target match for ambiguous pair.
+INV-1521,TXN-5518,AMBIGUOUS,"Ambiguous match candidate due to identical vendor, amount, and close dates."
+INV-1522,TXN-5519,MATCH,Target match for ambiguous pair.
+INV-1523,TXN-5519,AMBIGUOUS,"Ambiguous match candidate due to identical vendor, amount, and close dates."
+INV-1524,TXN-5520,MATCH,Target match for ambiguous pair.
+INV-1525,TXN-5520,AMBIGUOUS,"Ambiguous match candidate due to identical vendor, amount, and close dates."

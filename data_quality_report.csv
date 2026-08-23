@@ -1,0 +1,10 @@
+metric,value
+total_invoices,525
+total_transactions,500
+exact_matches,300
+fuzzy_matches,60
+date_variation_cases,40
+amount_mismatch_cases,35
+missing_payment_cases,20
+duplicate_cases,20
+ambiguous_cases,25

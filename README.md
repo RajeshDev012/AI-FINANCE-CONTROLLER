@@ -1,0 +1,2 @@
+Project Status: Prototype / WIP
+The current dataset is synthetic and is being refined for ground-truth consistency. The current reconciliation engine is a baseline implementation and is evaluated separately from the final benchmark dataset.
