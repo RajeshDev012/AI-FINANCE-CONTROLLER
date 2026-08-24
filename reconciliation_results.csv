@@ -1,501 +1,468 @@
-transaction_id,predicted_invoice_id,confidence,decision,amount_difference,date_difference_days,vendor_similarity,reference_match,reason
-TXN-5001,INV-1001,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5002,INV-1002,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5003,INV-1003,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5004,INV-1004,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5005,INV-1005,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5006,INV-1006,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5007,INV-1007,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5008,INV-1008,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5009,INV-1009,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5010,INV-1010,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5011,INV-1011,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5012,INV-1012,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5013,INV-1013,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5014,INV-1014,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5015,INV-1015,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5016,INV-1016,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5017,INV-1017,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5018,INV-1018,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5019,INV-1019,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5020,INV-1020,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5021,INV-1021,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5022,INV-1022,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5023,INV-1023,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5024,INV-1024,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5025,INV-1025,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5026,INV-1026,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5027,INV-1027,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5028,INV-1028,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5029,INV-1029,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5030,INV-1030,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5031,INV-1031,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5032,INV-1032,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5033,INV-1033,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5034,INV-1034,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5035,INV-1035,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5036,INV-1036,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5037,INV-1037,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5038,INV-1038,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5039,INV-1039,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5040,INV-1040,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5041,INV-1041,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5042,INV-1042,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5043,INV-1043,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5044,INV-1044,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5045,INV-1045,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5046,INV-1046,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5047,INV-1047,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5048,INV-1048,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5049,INV-1049,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5050,INV-1050,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5051,INV-1051,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5052,INV-1052,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5053,INV-1053,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5054,INV-1054,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5055,INV-1055,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5056,INV-1056,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5057,INV-1057,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5058,INV-1058,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5059,INV-1059,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5060,INV-1060,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5061,INV-1061,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5062,INV-1062,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5063,INV-1063,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5064,INV-1064,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5065,INV-1065,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5066,INV-1066,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5067,INV-1067,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5068,INV-1068,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5069,INV-1069,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5070,INV-1070,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5071,INV-1071,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5072,INV-1072,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5073,INV-1073,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5074,INV-1074,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5075,INV-1075,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5076,INV-1076,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5077,INV-1077,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5078,INV-1078,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5079,INV-1079,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5080,INV-1080,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5081,INV-1081,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5082,INV-1082,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5083,INV-1083,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5084,INV-1084,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5085,INV-1085,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5086,INV-1086,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5087,INV-1087,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5088,INV-1088,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5089,INV-1089,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5090,INV-1090,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5091,INV-1091,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5092,INV-1092,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5093,INV-1093,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5094,INV-1094,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5095,INV-1095,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5096,INV-1096,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5097,INV-1097,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5098,INV-1098,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5099,INV-1099,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5100,INV-1100,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5101,INV-1101,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5102,INV-1102,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5103,INV-1103,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5104,INV-1104,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5105,INV-1105,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5106,INV-1106,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5107,INV-1107,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5108,INV-1108,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5109,INV-1109,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5110,INV-1110,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5111,INV-1111,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5112,INV-1112,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5113,INV-1113,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5114,INV-1114,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5115,INV-1115,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5116,INV-1116,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5117,INV-1117,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5118,INV-1118,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5119,INV-1119,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5120,INV-1120,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5121,INV-1121,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5122,INV-1122,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5123,INV-1123,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5124,INV-1124,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5125,INV-1125,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5126,INV-1126,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5127,INV-1127,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5128,INV-1128,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5129,INV-1129,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5130,INV-1130,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5131,INV-1131,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5132,INV-1132,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5133,INV-1133,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5134,INV-1134,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5135,INV-1135,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5136,INV-1136,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5137,INV-1137,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5138,INV-1138,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5139,INV-1139,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5140,INV-1140,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5141,INV-1141,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5142,INV-1142,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5143,INV-1143,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5144,INV-1144,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5145,INV-1145,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5146,INV-1146,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5147,INV-1147,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5148,INV-1148,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5149,INV-1149,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5150,INV-1150,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5151,INV-1151,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5152,INV-1152,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5153,INV-1153,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5154,INV-1154,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5155,INV-1155,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5156,INV-1156,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5157,INV-1157,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5158,INV-1158,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5159,INV-1159,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5160,INV-1160,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5161,INV-1161,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5162,INV-1162,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5163,INV-1163,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5164,INV-1164,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5165,INV-1165,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5166,INV-1166,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5167,INV-1167,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5168,INV-1168,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5169,INV-1169,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5170,INV-1170,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5171,INV-1171,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5172,INV-1172,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5173,INV-1173,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5174,INV-1174,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5175,INV-1175,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5176,INV-1176,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5177,INV-1177,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5178,INV-1178,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5179,INV-1179,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5180,INV-1180,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5181,INV-1181,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5182,INV-1182,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5183,INV-1183,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5184,INV-1184,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5185,INV-1185,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5186,INV-1186,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5187,INV-1187,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5188,INV-1188,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5189,INV-1189,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5190,INV-1190,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5191,INV-1191,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5192,INV-1192,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5193,INV-1193,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5194,INV-1194,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5195,INV-1195,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5196,INV-1196,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5197,INV-1197,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5198,INV-1198,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5199,INV-1199,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5200,INV-1200,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5201,INV-1201,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5202,INV-1202,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5203,INV-1203,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5204,INV-1204,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5205,INV-1205,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5206,INV-1206,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5207,INV-1207,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5208,INV-1208,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5209,INV-1209,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5210,INV-1210,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5211,INV-1211,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5212,INV-1212,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5213,INV-1213,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5214,INV-1214,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5215,INV-1215,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5216,INV-1216,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5217,INV-1217,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5218,INV-1218,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5219,INV-1219,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5220,INV-1220,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5221,INV-1221,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5222,INV-1222,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5223,INV-1223,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5224,INV-1224,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5225,INV-1225,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5226,INV-1226,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5227,INV-1227,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5228,INV-1228,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5229,INV-1229,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5230,INV-1230,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5231,INV-1231,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5232,INV-1232,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5233,INV-1233,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5234,INV-1234,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5235,INV-1235,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5236,INV-1236,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5237,INV-1237,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5238,INV-1238,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5239,INV-1239,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5240,INV-1240,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5241,INV-1241,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5242,INV-1242,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5243,INV-1243,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5244,INV-1244,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5245,INV-1245,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5246,INV-1246,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5247,INV-1247,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5248,INV-1248,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5249,INV-1249,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5250,INV-1250,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5251,INV-1251,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5252,INV-1252,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5253,INV-1253,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5254,INV-1254,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5255,INV-1255,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5256,INV-1256,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5257,INV-1257,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5258,INV-1258,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5259,INV-1259,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5260,INV-1260,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5261,INV-1261,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5262,INV-1262,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5263,INV-1263,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5264,INV-1264,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5265,INV-1265,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5266,INV-1266,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5267,INV-1267,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5268,INV-1268,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5269,INV-1269,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5270,INV-1270,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5271,INV-1271,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5272,INV-1272,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5273,INV-1273,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5274,INV-1274,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5275,INV-1275,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5276,INV-1276,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5277,INV-1277,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5278,INV-1278,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5279,INV-1279,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5280,INV-1280,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5281,INV-1281,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5282,INV-1282,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5283,INV-1283,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5284,INV-1284,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5285,INV-1285,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5286,INV-1286,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5287,INV-1287,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5288,INV-1288,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5289,INV-1289,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5290,INV-1290,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5291,INV-1291,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5292,INV-1292,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5293,INV-1293,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5294,INV-1294,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5295,INV-1295,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5296,INV-1296,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5297,INV-1297,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5298,INV-1298,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5299,INV-1299,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5300,INV-1300,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5301,INV-1301,71.76,REVIEW,0.0,0,67.06,False,exact amount + weak vendor similarity + same/near date
-TXN-5302,INV-1302,69.86,UNMATCHED,0.0,0,59.46,False,exact amount + weak vendor similarity + same/near date
-TXN-5303,INV-1303,71.76,REVIEW,0.0,0,67.06,False,exact amount + weak vendor similarity + same/near date
-TXN-5304,INV-1304,69.74,UNMATCHED,0.0,0,58.97,False,exact amount + weak vendor similarity + same/near date
-TXN-5305,INV-1305,74.23,REVIEW,0.0,0,76.92,False,exact amount + moderate vendor similarity + same/near date
-TXN-5306,INV-1306,69.86,UNMATCHED,0.0,0,59.46,False,exact amount + weak vendor similarity + same/near date
-TXN-5307,INV-1307,69.47,UNMATCHED,0.0,0,57.89,False,exact amount + weak vendor similarity + same/near date
-TXN-5308,INV-1308,75.45,REVIEW,0.0,0,81.82,False,exact amount + moderate vendor similarity + same/near date
-TXN-5309,INV-1309,71.96,REVIEW,0.0,0,67.86,False,exact amount + weak vendor similarity + same/near date
-TXN-5310,INV-1310,73.29,REVIEW,0.0,0,73.17,False,exact amount + moderate vendor similarity + same/near date
-TXN-5311,INV-1311,95.0,MATCH,0.0,0,90.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5312,INV-1312,69.86,UNMATCHED,0.0,0,59.46,False,exact amount + weak vendor similarity + same/near date
-TXN-5313,INV-1313,71.25,REVIEW,0.0,0,65.0,False,exact amount + weak vendor similarity + same/near date
-TXN-5314,INV-1314,70.83,REVIEW,0.0,0,63.33,False,exact amount + weak vendor similarity + same/near date
-TXN-5315,INV-1315,73.29,REVIEW,0.0,0,73.17,False,exact amount + moderate vendor similarity + same/near date
-TXN-5316,INV-1316,75.45,REVIEW,0.0,0,81.82,False,exact amount + moderate vendor similarity + same/near date
-TXN-5317,INV-1317,73.57,REVIEW,0.0,0,74.29,False,exact amount + moderate vendor similarity + same/near date
-TXN-5318,INV-1318,69.47,UNMATCHED,0.0,0,57.89,False,exact amount + weak vendor similarity + same/near date
-TXN-5319,INV-1319,74.23,REVIEW,0.0,0,76.92,False,exact amount + moderate vendor similarity + same/near date
-TXN-5320,INV-1320,95.0,MATCH,0.0,0,85.5,False,exact amount + moderate vendor similarity + same/near date
-TXN-5321,INV-1321,95.0,MATCH,0.0,0,90.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5322,INV-1322,69.74,UNMATCHED,0.0,0,58.97,False,exact amount + weak vendor similarity + same/near date
-TXN-5323,INV-1323,69.86,UNMATCHED,0.0,0,59.46,False,exact amount + weak vendor similarity + same/near date
-TXN-5324,INV-1324,73.6,REVIEW,0.0,0,74.42,False,exact amount + moderate vendor similarity + same/near date
-TXN-5325,INV-1325,73.57,REVIEW,0.0,0,74.29,False,exact amount + moderate vendor similarity + same/near date
-TXN-5326,INV-1326,73.57,REVIEW,0.0,0,74.29,False,exact amount + moderate vendor similarity + same/near date
-TXN-5327,INV-1327,72.5,REVIEW,0.0,0,70.0,False,exact amount + moderate vendor similarity + same/near date
-TXN-5328,INV-1328,70.83,REVIEW,0.0,0,63.33,False,exact amount + weak vendor similarity + same/near date
-TXN-5329,INV-1329,73.57,REVIEW,0.0,0,74.29,False,exact amount + moderate vendor similarity + same/near date
-TXN-5330,INV-1330,70.83,REVIEW,0.0,0,63.33,False,exact amount + weak vendor similarity + same/near date
-TXN-5331,INV-1331,95.0,MATCH,0.0,0,85.5,False,exact amount + moderate vendor similarity + same/near date
-TXN-5332,INV-1332,95.0,MATCH,0.0,0,85.5,False,exact amount + moderate vendor similarity + same/near date
-TXN-5333,INV-1333,69.86,UNMATCHED,0.0,0,59.46,False,exact amount + weak vendor similarity + same/near date
-TXN-5334,INV-1334,69.86,UNMATCHED,0.0,0,59.46,False,exact amount + weak vendor similarity + same/near date
-TXN-5335,INV-1335,71.96,REVIEW,0.0,0,67.86,False,exact amount + weak vendor similarity + same/near date
-TXN-5336,INV-1336,73.6,REVIEW,0.0,0,74.42,False,exact amount + moderate vendor similarity + same/near date
-TXN-5337,INV-1337,73.06,REVIEW,0.0,0,72.22,False,exact amount + moderate vendor similarity + same/near date
-TXN-5338,INV-1338,70.15,REVIEW,0.0,0,60.61,False,exact amount + weak vendor similarity + same/near date
-TXN-5339,INV-1339,73.6,REVIEW,0.0,0,74.42,False,exact amount + moderate vendor similarity + same/near date
-TXN-5340,INV-1340,71.67,REVIEW,0.0,0,66.67,False,exact amount + weak vendor similarity + same/near date
-TXN-5341,INV-1341,69.47,UNMATCHED,0.0,0,57.89,False,exact amount + weak vendor similarity + same/near date
-TXN-5342,INV-1342,72.86,REVIEW,0.0,0,71.43,False,exact amount + moderate vendor similarity + same/near date
-TXN-5343,INV-1343,69.47,UNMATCHED,0.0,0,57.89,False,exact amount + weak vendor similarity + same/near date
-TXN-5344,INV-1344,72.86,REVIEW,0.0,0,71.43,False,exact amount + moderate vendor similarity + same/near date
-TXN-5345,INV-1345,95.0,MATCH,0.0,0,90.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5346,INV-1346,71.96,REVIEW,0.0,0,67.86,False,exact amount + weak vendor similarity + same/near date
-TXN-5347,INV-1347,69.86,UNMATCHED,0.0,0,59.46,False,exact amount + weak vendor similarity + same/near date
-TXN-5348,INV-1348,72.86,REVIEW,0.0,0,71.43,False,exact amount + moderate vendor similarity + same/near date
-TXN-5349,INV-1349,95.0,MATCH,0.0,0,90.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5350,INV-1350,69.47,UNMATCHED,0.0,0,57.89,False,exact amount + weak vendor similarity + same/near date
-TXN-5351,INV-1351,71.76,REVIEW,0.0,0,67.06,False,exact amount + weak vendor similarity + same/near date
-TXN-5352,INV-1352,71.67,REVIEW,0.0,0,66.67,False,exact amount + weak vendor similarity + same/near date
-TXN-5353,INV-1353,71.67,REVIEW,0.0,0,66.67,False,exact amount + weak vendor similarity + same/near date
-TXN-5354,INV-1354,70.15,REVIEW,0.0,0,60.61,False,exact amount + weak vendor similarity + same/near date
-TXN-5355,INV-1355,71.67,REVIEW,0.0,0,66.67,False,exact amount + weak vendor similarity + same/near date
-TXN-5356,INV-1356,75.45,REVIEW,0.0,0,81.82,False,exact amount + moderate vendor similarity + same/near date
-TXN-5357,INV-1357,70.38,REVIEW,0.0,0,61.54,False,exact amount + weak vendor similarity + same/near date
-TXN-5358,INV-1358,71.25,REVIEW,0.0,0,65.0,False,exact amount + weak vendor similarity + same/near date
-TXN-5359,INV-1359,95.0,MATCH,0.0,0,90.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5360,INV-1360,95.0,MATCH,0.0,0,90.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5361,INV-1361,69.46,UNMATCHED,0.0,3,67.86,False,exact amount + weak vendor similarity + date reasonably close
-TXN-5362,INV-1362,63.94,UNMATCHED,0.0,8,65.77,False,exact amount + weak vendor similarity + date difference
-TXN-5363,INV-1363,63.94,UNMATCHED,0.0,9,65.77,False,exact amount + weak vendor similarity + date difference
-TXN-5364,INV-1364,66.44,UNMATCHED,0.0,4,65.77,False,exact amount + weak vendor similarity + date reasonably close
-TXN-5365,INV-1365,66.44,UNMATCHED,0.0,7,65.77,False,exact amount + weak vendor similarity + date reasonably close
-TXN-5366,INV-1366,64.65,UNMATCHED,0.0,9,68.61,False,exact amount + weak vendor similarity + date difference
-TXN-5367,INV-1367,68.27,UNMATCHED,0.0,4,73.08,False,exact amount + moderate vendor similarity + date reasonably close
-TXN-5368,INV-1368,66.44,UNMATCHED,0.0,4,65.77,False,exact amount + weak vendor similarity + date reasonably close
-TXN-5369,INV-1369,69.79,UNMATCHED,0.0,7,79.17,False,exact amount + moderate vendor similarity + date reasonably close
-TXN-5370,INV-1370,70.96,REVIEW,0.0,1,67.86,False,exact amount + weak vendor similarity + same/near date
-TXN-5371,INV-1371,63.94,UNMATCHED,0.0,8,65.77,False,exact amount + weak vendor similarity + date difference
-TXN-5372,INV-1274,72.54,REVIEW,2786.11,0,79.17,False,close amount + moderate vendor similarity + same/near date
-TXN-5373,INV-1373,68.94,UNMATCHED,0.0,3,65.77,False,exact amount + weak vendor similarity + date reasonably close
-TXN-5374,INV-1374,63.94,UNMATCHED,0.0,10,65.77,False,exact amount + weak vendor similarity + date difference
-TXN-5375,INV-1375,68.94,UNMATCHED,0.0,3,65.77,False,exact amount + weak vendor similarity + date reasonably close
-TXN-5376,INV-1376,68.27,UNMATCHED,0.0,7,73.08,False,exact amount + moderate vendor similarity + date reasonably close
-TXN-5377,INV-1377,70.0,REVIEW,0.0,10,90.0,False,exact amount + strong vendor similarity + date difference
-TXN-5378,INV-1378,68.94,UNMATCHED,0.0,2,65.77,False,exact amount + weak vendor similarity + date reasonably close
-TXN-5379,INV-1379,69.46,UNMATCHED,0.0,2,67.86,False,exact amount + weak vendor similarity + date reasonably close
-TXN-5380,INV-1380,68.94,UNMATCHED,0.0,3,65.77,False,exact amount + weak vendor similarity + date reasonably close
-TXN-5381,INV-1381,64.46,UNMATCHED,0.0,9,67.86,False,exact amount + weak vendor similarity + date difference
-TXN-5382,INV-1382,70.0,REVIEW,0.0,8,90.0,False,exact amount + strong vendor similarity + date difference
-TXN-5383,INV-1383,67.29,UNMATCHED,0.0,9,79.17,False,exact amount + moderate vendor similarity + date difference
-TXN-5384,INV-1384,67.29,UNMATCHED,0.0,9,79.17,False,exact amount + moderate vendor similarity + date difference
-TXN-5385,INV-1385,69.46,UNMATCHED,0.0,2,67.86,False,exact amount + weak vendor similarity + date reasonably close
-TXN-5386,INV-1386,67.29,UNMATCHED,0.0,8,79.17,False,exact amount + moderate vendor similarity + date difference
-TXN-5387,INV-1387,72.5,REVIEW,0.0,7,90.0,False,exact amount + strong vendor similarity + date reasonably close
-TXN-5388,INV-1388,66.44,UNMATCHED,0.0,7,65.77,False,exact amount + weak vendor similarity + date reasonably close
-TXN-5389,INV-1389,71.15,REVIEW,0.0,1,68.61,False,exact amount + weak vendor similarity + same/near date
-TXN-5390,INV-1390,66.44,UNMATCHED,0.0,7,65.77,False,exact amount + weak vendor similarity + date reasonably close
-TXN-5391,INV-1391,66.96,UNMATCHED,0.0,6,67.86,False,exact amount + weak vendor similarity + date reasonably close
-TXN-5392,INV-1392,70.96,REVIEW,0.0,1,67.86,False,exact amount + weak vendor similarity + same/near date
-TXN-5393,INV-1393,63.94,UNMATCHED,0.0,9,65.77,False,exact amount + weak vendor similarity + date difference
-TXN-5394,INV-1394,66.44,UNMATCHED,0.0,4,65.77,False,exact amount + weak vendor similarity + date reasonably close
-TXN-5395,INV-1395,66.96,UNMATCHED,0.0,4,67.86,False,exact amount + weak vendor similarity + date reasonably close
-TXN-5396,INV-1396,66.96,UNMATCHED,0.0,4,67.86,False,exact amount + weak vendor similarity + date reasonably close
-TXN-5397,INV-1397,68.94,UNMATCHED,0.0,3,65.77,False,exact amount + weak vendor similarity + date reasonably close
-TXN-5398,INV-1398,67.29,UNMATCHED,0.0,10,79.17,False,exact amount + moderate vendor similarity + date difference
-TXN-5399,INV-1399,72.5,REVIEW,0.0,4,90.0,False,exact amount + strong vendor similarity + date reasonably close
-TXN-5400,INV-1400,66.44,UNMATCHED,0.0,7,65.77,False,exact amount + weak vendor similarity + date reasonably close
-TXN-5401,INV-1401,63.54,UNMATCHED,9723.18,0,79.17,False,close amount + moderate vendor similarity + same/near date
-TXN-5402,INV-1402,59.58,UNMATCHED,3005.89,0,63.33,False,close amount + weak vendor similarity + same/near date
-TXN-5403,INV-1403,66.25,UNMATCHED,21442.09,0,90.0,False,close amount + strong vendor similarity + same/near date
-TXN-5404,INV-1384,60.29,UNMATCHED,3640.25,108,79.17,False,close amount + moderate vendor similarity + date difference
-TXN-5405,INV-1364,58.58,UNMATCHED,677.59,34,63.33,False,close amount + weak vendor similarity + date difference
-TXN-5406,INV-1267,60.29,UNMATCHED,1494.84,100,79.17,False,close amount + moderate vendor similarity + date difference
-TXN-5407,INV-1407,60.42,UNMATCHED,7245.81,0,66.67,False,close amount + weak vendor similarity + same/near date
-TXN-5408,INV-1098,65.25,UNMATCHED,2137.98,45,90.0,False,close amount + strong vendor similarity + date difference
-TXN-5409,INV-1239,59.42,UNMATCHED,571.32,106,66.67,False,close amount + weak vendor similarity + date difference
-TXN-5410,INV-1410,70.29,REVIEW,3812.81,0,79.17,False,close amount + moderate vendor similarity + same/near date
-TXN-5411,INV-1297,58.58,UNMATCHED,2952.36,176,63.33,False,close amount + weak vendor similarity + date difference
-TXN-5412,INV-1154,50.42,UNMATCHED,7206.15,117,66.67,False,close amount + weak vendor similarity + date difference
-TXN-5413,INV-1170,65.25,UNMATCHED,516.56,218,90.0,False,close amount + strong vendor similarity + date difference
-TXN-5414,INV-1181,52.81,UNMATCHED,700.88,59,40.24,False,close amount + weak vendor similarity + date difference
-TXN-5415,INV-1415,73.0,REVIEW,6549.53,0,90.0,False,close amount + strong vendor similarity + same/near date
-TXN-5416,INV-1044,59.42,UNMATCHED,253.72,89,66.67,False,close amount + weak vendor similarity + date difference
-TXN-5417,INV-1164,60.29,UNMATCHED,4802.49,111,79.17,False,close amount + moderate vendor similarity + date difference
-TXN-5418,INV-1330,56.33,UNMATCHED,288.12,24,63.33,False,close amount + weak vendor similarity + date difference
-TXN-5419,INV-1419,66.25,UNMATCHED,1518.79,0,90.0,False,close amount + strong vendor similarity + same/near date
-TXN-5420,INV-1086,53.01,UNMATCHED,906.72,182,41.03,False,close amount + weak vendor similarity + date difference
-TXN-5421,INV-1339,57.17,UNMATCHED,3392.66,255,66.67,False,close amount + weak vendor similarity + date difference
-TXN-5422,INV-1274,62.54,UNMATCHED,2023.4,136,79.17,False,close amount + moderate vendor similarity + date difference
-TXN-5423,INV-1024,51.57,UNMATCHED,788.1,168,35.29,False,close amount + weak vendor similarity + date difference
-TXN-5424,INV-1424,66.25,UNMATCHED,2531.66,0,90.0,False,close amount + strong vendor similarity + same/near date
-TXN-5425,INV-1425,60.42,UNMATCHED,4595.39,0,66.67,False,close amount + weak vendor similarity + same/near date
-TXN-5426,INV-1426,67.17,UNMATCHED,4058.73,0,66.67,False,close amount + weak vendor similarity + same/near date
-TXN-5427,INV-1427,66.33,UNMATCHED,7031.42,0,63.33,False,close amount + weak vendor similarity + same/near date
-TXN-5428,INV-1428,60.71,UNMATCHED,22372.41,0,67.86,False,close amount + weak vendor similarity + same/near date
-TXN-5429,INV-1429,43.75,UNMATCHED,2375.77,0,90.0,False,amount difference + strong vendor similarity + same/near date
-TXN-5430,INV-1182,56.25,UNMATCHED,15260.23,107,90.0,False,close amount + strong vendor similarity + date difference
-TXN-5431,INV-1437,65.25,UNMATCHED,3816.08,121,90.0,False,close amount + strong vendor similarity + date difference
-TXN-5432,INV-1432,66.25,UNMATCHED,8348.16,0,90.0,False,close amount + strong vendor similarity + same/near date
-TXN-5433,INV-1205,58.58,UNMATCHED,1186.48,72,63.33,False,close amount + weak vendor similarity + date difference
-TXN-5434,INV-1178,68.42,UNMATCHED,2828.47,1,66.67,False,close amount + weak vendor similarity + same/near date
-TXN-5435,INV-1435,73.0,REVIEW,305.96,0,90.0,False,close amount + strong vendor similarity + same/near date
-TXN-5456,INV-1456,72.81,REVIEW,0.0,0,71.25,False,exact amount + moderate vendor similarity + same/near date
-TXN-5457,INV-1456,70.69,REVIEW,0.0,1,66.76,False,exact amount + weak vendor similarity + same/near date
-TXN-5458,INV-1457,95.0,MATCH,0.0,0,95.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5459,INV-1457,95.0,MATCH,0.0,1,90.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5460,INV-1458,73.27,REVIEW,0.0,0,73.08,False,exact amount + moderate vendor similarity + same/near date
-TXN-5461,INV-1458,69.83,UNMATCHED,0.0,1,63.33,False,exact amount + weak vendor similarity + same/near date
-TXN-5462,INV-1459,95.0,MATCH,0.0,0,85.71,False,exact amount + moderate vendor similarity + same/near date
-TXN-5463,INV-1459,73.79,REVIEW,0.0,1,79.17,False,exact amount + moderate vendor similarity + same/near date
-TXN-5464,INV-1460,95.0,MATCH,0.0,0,90.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5465,INV-1460,95.0,MATCH,0.0,1,90.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5466,INV-1461,73.75,REVIEW,0.0,0,75.0,False,exact amount + moderate vendor similarity + same/near date
-TXN-5467,INV-1461,72.27,REVIEW,0.0,1,73.08,False,exact amount + moderate vendor similarity + same/near date
-TXN-5468,INV-1462,73.18,REVIEW,0.0,0,72.73,False,exact amount + moderate vendor similarity + same/near date
-TXN-5469,INV-1462,70.22,REVIEW,0.0,1,64.86,False,exact amount + weak vendor similarity + same/near date
-TXN-5470,INV-1463,95.0,MATCH,0.0,0,85.71,False,exact amount + moderate vendor similarity + same/near date
-TXN-5471,INV-1463,73.79,REVIEW,0.0,1,79.17,False,exact amount + moderate vendor similarity + same/near date
-TXN-5472,INV-1464,73.27,REVIEW,0.0,0,73.08,False,exact amount + moderate vendor similarity + same/near date
-TXN-5473,INV-1464,70.96,REVIEW,0.0,1,67.86,False,exact amount + weak vendor similarity + same/near date
-TXN-5474,INV-1465,73.75,REVIEW,0.0,0,75.0,False,exact amount + moderate vendor similarity + same/near date
-TXN-5475,INV-1465,72.27,REVIEW,0.0,1,73.08,False,exact amount + moderate vendor similarity + same/near date
-TXN-5476,INV-1466,73.27,REVIEW,0.0,0,73.08,False,exact amount + moderate vendor similarity + same/near date
-TXN-5477,INV-1466,69.83,UNMATCHED,0.0,1,63.33,False,exact amount + weak vendor similarity + same/near date
-TXN-5478,INV-1467,73.27,REVIEW,0.0,0,73.08,False,exact amount + moderate vendor similarity + same/near date
-TXN-5479,INV-1467,69.83,UNMATCHED,0.0,1,63.33,False,exact amount + weak vendor similarity + same/near date
-TXN-5480,INV-1468,73.27,REVIEW,0.0,0,73.08,False,exact amount + moderate vendor similarity + same/near date
-TXN-5481,INV-1468,69.83,UNMATCHED,0.0,1,63.33,False,exact amount + weak vendor similarity + same/near date
-TXN-5482,INV-1469,72.81,REVIEW,0.0,0,71.25,False,exact amount + moderate vendor similarity + same/near date
-TXN-5483,INV-1469,69.27,UNMATCHED,0.0,1,61.07,False,exact amount + weak vendor similarity + same/near date
-TXN-5484,INV-1470,95.0,MATCH,0.0,0,85.71,False,exact amount + moderate vendor similarity + same/near date
-TXN-5485,INV-1470,73.79,REVIEW,0.0,1,79.17,False,exact amount + moderate vendor similarity + same/near date
-TXN-5486,INV-1471,73.27,REVIEW,0.0,0,73.08,False,exact amount + moderate vendor similarity + same/near date
-TXN-5487,INV-1471,69.83,UNMATCHED,0.0,1,63.33,False,exact amount + weak vendor similarity + same/near date
-TXN-5488,INV-1472,73.18,REVIEW,0.0,0,72.73,False,exact amount + moderate vendor similarity + same/near date
-TXN-5489,INV-1472,70.22,REVIEW,0.0,1,64.86,False,exact amount + weak vendor similarity + same/near date
-TXN-5490,INV-1473,95.0,MATCH,0.0,0,90.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5491,INV-1473,95.0,MATCH,0.0,1,90.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5492,INV-1474,72.81,REVIEW,0.0,0,71.25,False,exact amount + moderate vendor similarity + same/near date
-TXN-5493,INV-1474,70.69,REVIEW,0.0,1,66.76,False,exact amount + weak vendor similarity + same/near date
-TXN-5494,INV-1475,73.27,REVIEW,0.0,0,73.08,False,exact amount + moderate vendor similarity + same/near date
-TXN-5495,INV-1475,70.96,REVIEW,0.0,1,67.86,False,exact amount + weak vendor similarity + same/near date
-TXN-5496,INV-1476,95.0,MATCH,0.0,0,95.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5497,INV-1478,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5498,INV-1480,95.0,MATCH,0.0,0,90.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5499,INV-1482,95.0,MATCH,0.0,0,90.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5500,INV-1484,95.0,MATCH,0.0,0,95.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5501,INV-1486,95.0,MATCH,0.0,0,90.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5502,INV-1488,95.0,MATCH,0.0,0,90.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5503,INV-1490,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5504,INV-1492,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5505,INV-1494,95.0,MATCH,0.0,0,90.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5506,INV-1496,95.0,MATCH,0.0,0,90.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5507,INV-1498,95.0,MATCH,0.0,0,90.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5508,INV-1500,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5509,INV-1502,95.0,MATCH,0.0,0,90.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5510,INV-1504,95.0,MATCH,0.0,0,95.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5511,INV-1506,95.0,MATCH,0.0,0,90.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5512,INV-1482,95.0,MATCH,0.0,1,90.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5513,INV-1510,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5514,INV-1512,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5515,INV-1514,95.0,MATCH,0.0,0,95.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5516,INV-1516,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5517,INV-1518,95.0,MATCH,0.0,0,90.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5518,INV-1520,95.0,MATCH,0.0,0,100.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5519,INV-1522,95.0,MATCH,0.0,0,90.0,False,exact amount + strong vendor similarity + same/near date
-TXN-5520,INV-1524,95.0,MATCH,0.0,0,90.0,False,exact amount + strong vendor similarity + same/near date
+transaction_id,predicted_invoice_id,confidence,decision,amount_difference,amount_difference_percent,date_difference_days,vendor_similarity,reference_match,second_best_score,confidence_margin,reason
+TXN-6361,INV-0163,99.33,MATCH,0.0,0.0,3,100.0,True,70.46,28.87,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6069,INV-0206,98.89,MATCH,0.0,0.0,5,100.0,True,67.03,31.86,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6074,INV-0207,98.22,MATCH,0.0,0.0,8,100.0,True,69.15,29.07,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6276,INV-0055,98.22,MATCH,0.0,0.0,8,100.0,True,49.28,48.94,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6429,INV-0458,98.0,MATCH,0.0,0.0,9,100.0,True,68.57,29.43,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6463,INV-0188,98.0,MATCH,0.0,0.0,9,100.0,True,74.21,23.79,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6173,INV-0325,97.78,MATCH,0.0,0.0,10,100.0,True,76.69,21.09,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6275,INV-0466,97.78,MATCH,0.0,0.0,10,100.0,True,55.64,42.14,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6102,INV-0308,97.33,MATCH,0.0,0.0,12,100.0,True,78.96,18.37,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6200,INV-0386,97.11,MATCH,0.0,0.0,13,100.0,True,64.41,32.7,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6080,INV-0092,96.89,MATCH,0.0,0.0,14,100.0,True,74.21,22.68,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6017,INV-0198,95.78,MATCH,0.0,0.0,19,100.0,True,57.55,38.23,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6356,INV-0349,91.38,MATCH,0.0,0.0,1,72.0,True,70.55,20.83,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6246,INV-0242,90.04,MATCH,0.0,0.0,7,72.0,True,65.1,24.94,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6163,INV-0152,89.78,MATCH,0.0,0.0,1,66.67,True,56.29,33.49,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6178,INV-0497,89.78,MATCH,0.0,0.0,1,66.67,True,66.12,23.66,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6045,INV-0075,89.56,MATCH,0.0,0.0,2,66.67,True,56.28,33.28,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6296,INV-0478,89.38,MATCH,0.0,0.0,10,72.0,True,57.35,32.03,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6158,INV-0297,89.33,MATCH,0.0,0.0,3,66.67,True,62.86,26.47,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6105,INV-0023,89.16,MATCH,0.0,0.0,11,72.0,True,62.91,26.25,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6370,INV-0499,88.89,MATCH,0.0,0.0,5,66.67,True,64.67,24.22,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6185,INV-0131,88.67,MATCH,0.0,0.0,6,66.67,True,69.86,18.81,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6450,INV-0079,88.45,MATCH,0.0,0.0,7,66.67,True,57.18,31.27,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6059,INV-0322,88.22,MATCH,0.0,0.0,8,66.67,True,64.39,23.83,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6335,INV-0343,88.2,MATCH,0.0,0.0,4,63.64,True,61.29,26.91,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6433,INV-0071,88.0,MATCH,0.0,0.0,9,66.67,True,60.27,27.73,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6451,INV-0079,88.0,REVIEW,0.0,0.0,9,66.67,True,57.48,30.52,Invoice already assigned; possible duplicate payment
+TXN-6321,INV-0346,87.98,MATCH,0.0,0.0,5,63.64,True,31.48,56.5,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6454,INV-0017,87.78,MATCH,0.0,0.0,10,66.67,True,53.67,34.11,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6151,INV-0345,87.76,MATCH,0.0,0.0,6,63.64,True,63.22,24.54,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6445,INV-0190,87.76,MATCH,0.0,0.0,6,63.64,True,69.32,18.44,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6236,INV-0268,87.62,MATCH,0.0,0.0,1,59.46,True,60.19,27.43,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6207,INV-0409,87.54,MATCH,0.0,0.0,7,63.64,True,58.4,29.14,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6303,INV-0471,87.38,MATCH,0.0,0.0,19,72.0,True,64.97,22.41,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6464,INV-0331,87.17,MATCH,0.0,0.0,3,59.46,True,68.12,19.05,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6306,INV-0108,87.11,MATCH,0.0,0.0,13,66.67,True,64.08,23.03,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6135,INV-0049,87.09,MATCH,0.0,0.0,9,63.64,True,67.19,19.9,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6325,INV-0341,86.97,MATCH,0.0,0.0,2,58.06,True,57.25,29.72,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6144,INV-0313,86.89,MATCH,0.0,0.0,14,66.67,True,63.08,23.81,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6169,INV-0277,86.75,MATCH,0.0,0.0,3,58.06,True,60.45,26.3,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6015,INV-0047,86.67,MATCH,0.0,0.0,15,66.67,True,55.95,30.72,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6202,INV-0218,86.65,MATCH,0.0,0.0,11,63.64,True,45.48,41.17,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6007,INV-0080,86.5,MATCH,0.0,0.0,6,59.46,True,70.84,15.66,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6295,INV-0153,86.5,MATCH,0.0,0.0,6,59.46,True,60.92,25.58,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6149,INV-0250,86.47,MATCH,0.0,0.0,3,57.14,True,60.64,25.83,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6209,INV-0093,86.45,MATCH,0.0,0.0,16,66.67,True,59.98,26.47,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6345,INV-0029,86.42,MATCH,0.0,0.0,12,63.64,True,68.85,17.57,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6230,INV-0375,86.31,MATCH,0.0,0.0,5,58.06,True,54.5,31.81,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6346,INV-0258,86.31,MATCH,0.0,0.0,5,58.06,True,59.8,26.51,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6095,INV-0475,86.28,MATCH,0.0,0.0,7,59.46,True,58.82,27.46,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6232,INV-0216,86.22,MATCH,0.0,0.0,17,66.67,True,64.4,21.82,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6251,INV-0290,86.22,MATCH,0.0,0.0,17,66.67,True,65.0,21.22,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6171,INV-0179,86.2,MATCH,0.0,0.0,13,63.64,True,58.57,27.63,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6181,INV-0476,86.2,MATCH,0.0,0.0,13,63.64,True,60.58,25.62,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6010,INV-0241,85.98,MATCH,0.0,0.0,14,63.64,True,59.95,26.03,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6006,INV-0195,85.76,MATCH,0.0,0.0,15,63.64,True,63.7,22.06,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6089,INV-0171,85.76,MATCH,0.0,0.0,15,63.64,True,60.35,25.41,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6129,INV-0106,85.66,MATCH,0.0,0.0,1,52.94,True,63.03,22.63,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6460,INV-0186,85.66,MATCH,0.0,0.0,1,52.94,True,51.76,33.9,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6228,INV-0381,85.54,MATCH,0.0,0.0,16,63.64,True,51.57,33.97,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6313,INV-0289,85.54,MATCH,0.0,0.0,16,63.64,True,52.33,33.21,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6316,INV-0088,85.54,MATCH,0.0,0.0,16,63.64,True,57.89,27.65,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6100,INV-0046,85.09,MATCH,0.0,0.0,18,63.64,True,54.62,30.47,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6442,INV-0191,84.92,MATCH,0.0,0.0,10,57.14,True,58.92,26.0,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6162,INV-0448,84.65,MATCH,0.0,0.0,20,63.64,True,58.99,25.66,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6197,INV-0157,84.65,MATCH,0.0,0.0,20,63.64,True,67.76,16.89,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6363,INV-0413,84.53,MATCH,0.0,0.0,13,58.06,True,56.16,28.37,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6195,INV-0033,84.25,MATCH,0.0,0.0,13,57.14,True,60.65,23.6,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6368,INV-0246,83.88,MATCH,0.0,0.0,9,52.94,True,59.67,24.21,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6248,INV-0006,83.84,MATCH,0.0,0.0,18,59.46,True,55.35,28.49,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6072,INV-0378,83.44,MATCH,0.0,0.0,11,52.94,True,62.0,21.44,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6052,INV-0230,83.42,MATCH,0.0,0.0,18,58.06,True,67.75,15.67,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6239,INV-0091,83.42,MATCH,0.0,0.0,18,58.06,True,65.22,18.2,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6267,INV-0050,83.39,MATCH,0.0,0.0,20,59.46,True,55.55,27.84,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6280,INV-0205,83.2,MATCH,0.0,0.0,19,58.06,True,54.42,28.78,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6281,INV-0496,83.14,MATCH,0.0,0.0,18,57.14,True,60.88,22.26,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6180,INV-0010,82.97,MATCH,0.0,0.0,20,58.06,True,54.43,28.54,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6255,INV-0302,82.97,MATCH,0.0,0.0,20,58.06,True,62.98,19.99,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6113,INV-0027,82.33,MATCH,0.0,0.0,16,52.94,True,58.95,23.38,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6215,INV-0012,81.88,MATCH,0.0,0.0,18,52.94,True,61.69,20.19,Invoice reference matched + exact amount + unambiguous candidate
+TXN-6108,INV-0212,84.78,MATCH,0.0,0.0,1,100.0,False,70.61,14.17,Exact amount + strong vendor similarity + close date
+TXN-6123,INV-0243,84.78,REVIEW,0.0,0.0,1,100.0,False,77.1,7.68,Ambiguous: competing invoice candidates have similar evidence
+TXN-6127,INV-0249,84.78,MATCH,0.0,0.0,1,100.0,False,57.43,27.35,Exact amount + strong vendor similarity + close date
+TXN-6152,INV-0340,84.78,MATCH,0.0,0.0,1,100.0,False,65.82,18.96,Exact amount + strong vendor similarity + close date
+TXN-6206,INV-0019,84.78,MATCH,0.0,0.0,1,100.0,False,57.99,26.79,Exact amount + strong vendor similarity + close date
+TXN-6320,INV-0087,84.78,MATCH,0.0,0.0,1,100.0,False,66.0,18.78,Exact amount + strong vendor similarity + close date
+TXN-6416,INV-0103,84.78,REVIEW,0.0,0.0,1,100.0,False,84.78,0.0,Ambiguous: competing invoice candidates have similar evidence
+TXN-6422,INV-0199,84.78,REVIEW,0.0,0.0,1,100.0,False,84.78,0.0,Ambiguous: competing invoice candidates have similar evidence
+TXN-6019,INV-0002,84.56,MATCH,0.0,0.0,2,100.0,False,60.66,23.9,Exact amount + strong vendor similarity + close date
+TXN-6120,INV-0109,84.56,MATCH,0.0,0.0,2,100.0,False,75.0,9.56,Exact amount + strong vendor similarity + close date
+TXN-6317,INV-0405,84.56,MATCH,0.0,0.0,2,100.0,False,66.88,17.68,Exact amount + strong vendor similarity + close date
+TXN-6417,INV-0147,84.56,REVIEW,0.0,0.0,2,100.0,False,84.56,0.0,Ambiguous: competing invoice candidates have similar evidence
+TXN-6425,INV-0014,84.56,REVIEW,0.0,0.0,2,100.0,False,84.56,0.0,Ambiguous: competing invoice candidates have similar evidence
+TXN-6438,INV-0391,84.56,MATCH,0.0,0.0,2,100.0,False,72.68,11.88,Exact amount + strong vendor similarity + close date
+TXN-6011,INV-0392,84.33,MATCH,0.0,0.0,3,100.0,False,72.82,11.51,Exact amount + strong vendor similarity + close date
+TXN-6046,INV-0429,84.33,MATCH,0.0,0.0,3,100.0,False,73.31,11.02,Exact amount + strong vendor similarity + close date
+TXN-6047,INV-0445,84.33,MATCH,0.0,0.0,3,100.0,False,61.56,22.77,Exact amount + strong vendor similarity + close date
+TXN-6090,INV-0032,84.33,MATCH,0.0,0.0,3,100.0,False,74.37,9.96,Exact amount + strong vendor similarity + close date
+TXN-6093,INV-0323,84.33,MATCH,0.0,0.0,3,100.0,False,71.25,13.08,Exact amount + strong vendor similarity + close date
+TXN-6122,INV-0427,84.33,MATCH,0.0,0.0,3,100.0,False,72.7,11.63,Exact amount + strong vendor similarity + close date
+TXN-6212,INV-0334,84.33,MATCH,0.0,0.0,3,100.0,False,72.65,11.68,Exact amount + strong vendor similarity + close date
+TXN-6247,INV-0500,84.33,MATCH,0.0,0.0,3,100.0,False,71.61,12.72,Exact amount + strong vendor similarity + close date
+TXN-6305,INV-0293,84.33,MATCH,0.0,0.0,3,100.0,False,68.06,16.27,Exact amount + strong vendor similarity + close date
+TXN-6338,INV-0166,84.33,MATCH,0.0,0.0,3,100.0,False,57.57,26.76,Exact amount + strong vendor similarity + close date
+TXN-6347,INV-0222,84.33,MATCH,0.0,0.0,3,100.0,False,73.67,10.66,Exact amount + strong vendor similarity + close date
+TXN-6360,INV-0329,84.33,REVIEW,0.0,0.0,3,100.0,False,82.52,1.81,Ambiguous: competing invoice candidates have similar evidence
+TXN-6366,INV-0211,84.33,MATCH,0.0,0.0,3,100.0,False,61.1,23.23,Exact amount + strong vendor similarity + close date
+TXN-6374,INV-0408,84.33,MATCH,0.0,0.0,3,100.0,False,74.59,9.74,Exact amount + strong vendor similarity + close date
+TXN-6420,INV-0134,84.33,REVIEW,0.0,0.0,3,100.0,False,84.33,0.0,Ambiguous: competing invoice candidates have similar evidence
+TXN-6424,INV-0096,84.33,REVIEW,0.0,0.0,3,100.0,False,84.33,0.0,Ambiguous: competing invoice candidates have similar evidence
+TXN-6427,INV-0161,84.33,REVIEW,0.0,0.0,3,100.0,False,84.33,0.0,Ambiguous: competing invoice candidates have similar evidence
+TXN-6439,INV-0391,84.33,REVIEW,0.0,0.0,3,100.0,False,72.68,11.65,Invoice already assigned; possible duplicate payment
+TXN-6447,INV-0231,84.33,MATCH,0.0,0.0,3,100.0,False,63.75,20.58,Exact amount + strong vendor similarity + close date
+TXN-6032,INV-0001,84.11,MATCH,0.0,0.0,4,100.0,False,57.93,26.18,Exact amount + strong vendor similarity + close date
+TXN-6053,INV-0389,84.11,MATCH,0.0,0.0,4,100.0,False,75.7,8.41,Exact amount + strong vendor similarity + close date
+TXN-6064,INV-0236,84.11,REVIEW,0.0,0.0,4,100.0,False,81.79,2.32,Ambiguous: competing invoice candidates have similar evidence
+TXN-6172,INV-0254,84.11,MATCH,0.0,0.0,4,100.0,False,62.82,21.29,Exact amount + strong vendor similarity + close date
+TXN-6221,INV-0068,84.11,MATCH,0.0,0.0,4,100.0,False,65.94,18.17,Exact amount + strong vendor similarity + close date
+TXN-6237,INV-0287,84.11,MATCH,0.0,0.0,4,100.0,False,74.19,9.92,Exact amount + strong vendor similarity + close date
+TXN-6250,INV-0317,84.11,MATCH,0.0,0.0,4,100.0,False,74.05,10.06,Exact amount + strong vendor similarity + close date
+TXN-6343,INV-0430,84.11,MATCH,0.0,0.0,4,100.0,False,63.8,20.31,Exact amount + strong vendor similarity + close date
+TXN-6418,INV-0110,84.11,REVIEW,0.0,0.0,4,100.0,False,84.11,0.0,Ambiguous: competing invoice candidates have similar evidence
+TXN-6419,INV-0361,84.11,REVIEW,0.0,0.0,4,100.0,False,84.11,0.0,Ambiguous: competing invoice candidates have similar evidence
+TXN-6421,INV-0061,84.11,REVIEW,0.0,0.0,4,100.0,False,84.11,0.0,Ambiguous: competing invoice candidates have similar evidence
+TXN-6426,INV-0128,84.11,REVIEW,0.0,0.0,4,100.0,False,84.11,0.0,Ambiguous: competing invoice candidates have similar evidence
+TXN-6003,INV-0203,83.89,MATCH,0.0,0.0,5,100.0,False,71.66,12.23,Exact amount + strong vendor similarity + close date
+TXN-6073,INV-0338,83.89,MATCH,0.0,0.0,5,100.0,False,74.94,8.95,Exact amount + strong vendor similarity + close date
+TXN-6193,INV-0245,83.89,MATCH,0.0,0.0,5,100.0,False,44.57,39.32,Exact amount + strong vendor similarity + close date
+TXN-6227,INV-0138,83.89,MATCH,0.0,0.0,5,100.0,False,57.97,25.92,Exact amount + strong vendor similarity + close date
+TXN-6257,INV-0390,83.89,MATCH,0.0,0.0,5,100.0,False,73.49,10.4,Exact amount + strong vendor similarity + close date
+TXN-6300,INV-0460,83.89,MATCH,0.0,0.0,5,100.0,False,61.55,22.34,Exact amount + strong vendor similarity + close date
+TXN-6341,INV-0156,83.89,MATCH,0.0,0.0,5,100.0,False,71.99,11.9,Exact amount + strong vendor similarity + close date
+TXN-6357,INV-0239,83.89,MATCH,0.0,0.0,5,100.0,False,72.77,11.12,Exact amount + strong vendor similarity + close date
+TXN-6423,INV-0256,83.89,REVIEW,0.0,0.0,5,100.0,False,83.89,0.0,Ambiguous: competing invoice candidates have similar evidence
+TXN-6434,INV-0294,83.89,MATCH,0.0,0.0,5,100.0,False,50.37,33.52,Exact amount + strong vendor similarity + close date
+TXN-6452,INV-0310,83.89,MATCH,0.0,0.0,5,100.0,False,52.4,31.49,Exact amount + strong vendor similarity + close date
+TXN-6268,INV-0073,83.81,MATCH,0.0,0.0,1,96.77,False,58.14,25.67,Exact amount + strong vendor similarity + close date
+TXN-6132,INV-0455,83.67,MATCH,0.0,0.0,6,100.0,False,70.04,13.63,Exact amount + strong vendor similarity + close date
+TXN-6143,INV-0123,83.67,MATCH,0.0,0.0,6,100.0,False,74.37,9.3,Exact amount + strong vendor similarity + close date
+TXN-6264,INV-0456,83.67,MATCH,0.0,0.0,6,100.0,False,57.86,25.81,Exact amount + strong vendor similarity + close date
+TXN-6322,INV-0048,83.67,MATCH,0.0,0.0,6,100.0,False,65.78,17.89,Exact amount + strong vendor similarity + close date
+TXN-6453,INV-0310,83.67,REVIEW,0.0,0.0,6,100.0,False,52.62,31.05,Invoice already assigned; possible duplicate payment
+TXN-6462,INV-0188,83.67,REVIEW,0.0,0.0,6,100.0,False,74.21,9.46,Invoice already assigned; possible duplicate payment
+TXN-6028,INV-0057,83.44,MATCH,0.0,0.0,7,100.0,False,70.18,13.26,Exact amount + strong vendor similarity + close date
+TXN-6044,INV-0443,83.44,MATCH,0.0,0.0,7,100.0,False,63.88,19.56,Exact amount + strong vendor similarity + close date
+TXN-6134,INV-0398,83.44,MATCH,0.0,0.0,7,100.0,False,69.47,13.97,Exact amount + strong vendor similarity + close date
+TXN-6147,INV-0490,83.44,MATCH,0.0,0.0,7,100.0,False,65.33,18.11,Exact amount + strong vendor similarity + close date
+TXN-6192,INV-0432,83.44,MATCH,0.0,0.0,7,100.0,False,64.99,18.45,Exact amount + strong vendor similarity + close date
+TXN-6244,INV-0130,83.44,MATCH,0.0,0.0,7,100.0,False,68.62,14.82,Exact amount + strong vendor similarity + close date
+TXN-6288,INV-0318,83.44,MATCH,0.0,0.0,7,100.0,False,64.1,19.34,Exact amount + strong vendor similarity + close date
+TXN-6292,INV-0031,83.44,REVIEW,0.0,0.0,7,100.0,False,81.44,2.0,Ambiguous: competing invoice candidates have similar evidence
+TXN-6362,INV-0463,83.44,MATCH,0.0,0.0,7,100.0,False,74.24,9.2,Exact amount + strong vendor similarity + close date
+TXN-6458,INV-0197,83.44,MATCH,0.0,0.0,7,100.0,False,70.81,12.63,Exact amount + strong vendor similarity + close date
+TXN-6055,INV-0235,83.22,MATCH,0.0,0.0,8,100.0,False,74.7,8.52,Exact amount + strong vendor similarity + close date
+TXN-6063,INV-0060,83.22,REVIEW,0.0,0.0,8,100.0,False,82.29,0.93,Ambiguous: competing invoice candidates have similar evidence
+TXN-6066,INV-0076,83.22,MATCH,0.0,0.0,8,100.0,False,73.07,10.15,Exact amount + strong vendor similarity + close date
+TXN-6070,INV-0140,83.22,REVIEW,0.0,0.0,8,100.0,False,78.11,5.11,Ambiguous: competing invoice candidates have similar evidence
+TXN-6098,INV-0209,83.22,MATCH,0.0,0.0,8,100.0,False,73.87,9.35,Exact amount + strong vendor similarity + close date
+TXN-6139,INV-0305,83.22,REVIEW,0.0,0.0,8,100.0,False,80.76,2.46,Ambiguous: competing invoice candidates have similar evidence
+TXN-6160,INV-0382,83.22,MATCH,0.0,0.0,8,100.0,False,50.65,32.57,Exact amount + strong vendor similarity + close date
+TXN-6258,INV-0098,83.22,MATCH,0.0,0.0,8,100.0,False,63.84,19.38,Exact amount + strong vendor similarity + close date
+TXN-6326,INV-0321,83.22,MATCH,0.0,0.0,8,100.0,False,74.94,8.28,Exact amount + strong vendor similarity + close date
+TXN-6353,INV-0066,83.22,MATCH,0.0,0.0,8,100.0,False,72.6,10.62,Exact amount + strong vendor similarity + close date
+TXN-6428,INV-0458,83.22,REVIEW,0.0,0.0,8,100.0,False,68.79,14.43,Invoice already assigned; possible duplicate payment
+TXN-6441,INV-0495,83.22,MATCH,0.0,0.0,8,100.0,False,75.11,8.11,Exact amount + strong vendor similarity + close date
+TXN-6456,INV-0291,83.22,MATCH,0.0,0.0,8,100.0,False,66.04,17.18,Exact amount + strong vendor similarity + close date
+TXN-6465,INV-0331,83.22,REVIEW,0.0,0.0,8,100.0,False,81.39,1.83,Invoice already assigned; possible duplicate payment
+TXN-6075,INV-0303,83.0,MATCH,0.0,0.0,9,100.0,False,71.15,11.85,Exact amount + strong vendor similarity + close date
+TXN-6222,INV-0462,83.0,MATCH,0.0,0.0,9,100.0,False,69.2,13.8,Exact amount + strong vendor similarity + close date
+TXN-6286,INV-0105,83.0,MATCH,0.0,0.0,9,100.0,False,72.35,10.65,Exact amount + strong vendor similarity + close date
+TXN-6294,INV-0233,83.0,REVIEW,0.0,0.0,9,100.0,False,77.28,5.72,Ambiguous: competing invoice candidates have similar evidence
+TXN-6436,INV-0040,83.0,MATCH,0.0,0.0,9,100.0,False,65.45,17.55,Exact amount + strong vendor similarity + close date
+TXN-6459,INV-0197,83.0,REVIEW,0.0,0.0,9,100.0,False,70.81,12.19,Invoice already assigned; possible duplicate payment
+TXN-6008,INV-0488,82.78,MATCH,0.0,0.0,10,100.0,False,52.91,29.87,Exact amount + strong vendor similarity + close date
+TXN-6022,INV-0494,82.78,MATCH,0.0,0.0,10,100.0,False,74.37,8.41,Exact amount + strong vendor similarity + close date
+TXN-6023,INV-0419,82.78,MATCH,0.0,0.0,10,100.0,False,68.55,14.23,Exact amount + strong vendor similarity + close date
+TXN-6042,INV-0400,82.78,MATCH,0.0,0.0,10,100.0,False,65.27,17.51,Exact amount + strong vendor similarity + close date
+TXN-6048,INV-0148,82.78,MATCH,0.0,0.0,10,100.0,False,64.18,18.6,Exact amount + strong vendor similarity + close date
+TXN-6083,INV-0176,82.78,MATCH,0.0,0.0,10,100.0,False,41.79,40.99,Exact amount + strong vendor similarity + close date
+TXN-6189,INV-0412,82.78,REVIEW,0.0,0.0,10,100.0,False,75.0,7.78,Ambiguous: competing invoice candidates have similar evidence
+TXN-6235,INV-0269,82.78,MATCH,0.0,0.0,10,100.0,False,71.9,10.88,Exact amount + strong vendor similarity + close date
+TXN-6314,INV-0173,82.78,MATCH,0.0,0.0,10,100.0,False,72.91,9.87,Exact amount + strong vendor similarity + close date
+TXN-6349,INV-0094,82.78,MATCH,0.0,0.0,10,100.0,False,62.41,20.37,Exact amount + strong vendor similarity + close date
+TXN-6350,INV-0301,82.78,MATCH,0.0,0.0,10,100.0,False,65.26,17.52,Exact amount + strong vendor similarity + close date
+TXN-6467,INV-0399,82.78,MATCH,0.0,0.0,10,100.0,False,67.81,14.97,Exact amount + strong vendor similarity + close date
+TXN-6013,INV-0286,82.56,MATCH,0.0,0.0,11,100.0,False,73.4,9.16,Exact amount + strong vendor similarity + close date
+TXN-6016,INV-0184,82.56,MATCH,0.0,0.0,11,100.0,False,71.39,11.17,Exact amount + strong vendor similarity + close date
+TXN-6035,INV-0058,82.56,MATCH,0.0,0.0,11,100.0,False,72.93,9.63,Exact amount + strong vendor similarity + close date
+TXN-6071,INV-0220,82.56,MATCH,0.0,0.0,11,100.0,False,73.72,8.84,Exact amount + strong vendor similarity + close date
+TXN-6088,INV-0422,82.56,MATCH,0.0,0.0,11,100.0,False,73.11,9.45,Exact amount + strong vendor similarity + close date
+TXN-6106,INV-0438,82.56,MATCH,0.0,0.0,11,100.0,False,61.53,21.03,Exact amount + strong vendor similarity + close date
+TXN-6161,INV-0371,82.56,MATCH,0.0,0.0,11,100.0,False,70.72,11.84,Exact amount + strong vendor similarity + close date
+TXN-6198,INV-0285,82.56,REVIEW,0.0,0.0,11,100.0,False,81.17,1.39,Ambiguous: competing invoice candidates have similar evidence
+TXN-6308,INV-0296,82.56,MATCH,0.0,0.0,11,100.0,False,73.11,9.45,Exact amount + strong vendor similarity + close date
+TXN-6331,INV-0101,82.56,MATCH,0.0,0.0,11,100.0,False,71.95,10.61,Exact amount + strong vendor similarity + close date
+TXN-6443,INV-0191,82.56,REVIEW,0.0,0.0,11,100.0,False,70.63,11.93,Invoice already assigned; possible duplicate payment
+TXN-6031,INV-0054,82.33,MATCH,0.0,0.0,12,100.0,False,66.55,15.78,Exact amount + strong vendor similarity + close date
+TXN-6218,INV-0196,82.33,MATCH,0.0,0.0,12,100.0,False,73.91,8.42,Exact amount + strong vendor similarity + close date
+TXN-6289,INV-0213,82.33,MATCH,0.0,0.0,12,100.0,False,67.22,15.11,Exact amount + strong vendor similarity + close date
+TXN-6307,INV-0136,82.33,MATCH,0.0,0.0,12,100.0,False,67.17,15.16,Exact amount + strong vendor similarity + close date
+TXN-6310,INV-0042,82.33,MATCH,0.0,0.0,12,100.0,False,68.57,13.76,Exact amount + strong vendor similarity + close date
+TXN-6323,INV-0274,82.33,MATCH,0.0,0.0,12,100.0,False,69.28,13.05,Exact amount + strong vendor similarity + close date
+TXN-6021,INV-0165,82.11,MATCH,0.0,0.0,13,100.0,False,60.44,21.67,Exact amount + strong vendor similarity + close date
+TXN-6043,INV-0004,82.11,MATCH,0.0,0.0,13,100.0,False,45.29,36.82,Exact amount + strong vendor similarity + close date
+TXN-6051,INV-0480,82.11,REVIEW,0.0,0.0,13,100.0,False,75.34,6.77,Ambiguous: competing invoice candidates have similar evidence
+TXN-6067,INV-0428,82.11,MATCH,0.0,0.0,13,100.0,False,52.51,29.6,Exact amount + strong vendor similarity + close date
+TXN-6081,INV-0183,82.11,MATCH,0.0,0.0,13,100.0,False,72.79,9.32,Exact amount + strong vendor similarity + close date
+TXN-6101,INV-0414,82.11,MATCH,0.0,0.0,13,100.0,False,54.08,28.03,Exact amount + strong vendor similarity + close date
+TXN-6141,INV-0426,82.11,MATCH,0.0,0.0,13,100.0,False,63.18,18.93,Exact amount + strong vendor similarity + close date
+TXN-6156,INV-0275,82.11,MATCH,0.0,0.0,13,100.0,False,64.15,17.96,Exact amount + strong vendor similarity + close date
+TXN-6167,INV-0324,82.11,MATCH,0.0,0.0,13,100.0,False,57.93,24.18,Exact amount + strong vendor similarity + close date
+TXN-6194,INV-0025,82.11,MATCH,0.0,0.0,13,100.0,False,70.27,11.84,Exact amount + strong vendor similarity + close date
+TXN-6203,INV-0337,82.11,REVIEW,0.0,0.0,13,100.0,False,79.18,2.93,Ambiguous: competing invoice candidates have similar evidence
+TXN-6243,INV-0118,82.11,REVIEW,0.0,0.0,13,100.0,False,76.16,5.95,Ambiguous: competing invoice candidates have similar evidence
+TXN-6253,INV-0120,82.11,MATCH,0.0,0.0,13,100.0,False,48.4,33.71,Exact amount + strong vendor similarity + close date
+TXN-6302,INV-0255,82.11,MATCH,0.0,0.0,13,100.0,False,58.69,23.42,Exact amount + strong vendor similarity + close date
+TXN-6334,INV-0146,82.11,MATCH,0.0,0.0,13,100.0,False,62.48,19.63,Exact amount + strong vendor similarity + close date
+TXN-6352,INV-0433,82.11,MATCH,0.0,0.0,13,100.0,False,57.92,24.19,Exact amount + strong vendor similarity + close date
+TXN-6371,INV-0440,82.11,MATCH,0.0,0.0,13,100.0,False,56.9,25.21,Exact amount + strong vendor similarity + close date
+TXN-6431,INV-0272,82.11,REVIEW,0.0,0.0,13,100.0,False,77.34,4.77,Ambiguous: competing invoice candidates have similar evidence
+TXN-6040,INV-0172,81.89,REVIEW,0.0,0.0,14,100.0,False,69.18,12.71,Vendor/date evidence insufficient for automatic match
+TXN-6121,INV-0112,81.89,REVIEW,0.0,0.0,14,100.0,False,63.59,18.3,Vendor/date evidence insufficient for automatic match
+TXN-6166,INV-0193,81.89,REVIEW,0.0,0.0,14,100.0,False,69.32,12.57,Vendor/date evidence insufficient for automatic match
+TXN-6229,INV-0461,81.89,REVIEW,0.0,0.0,14,100.0,False,76.85,5.04,Ambiguous: competing invoice candidates have similar evidence
+TXN-6245,INV-0459,81.89,REVIEW,0.0,0.0,14,100.0,False,56.25,25.64,Vendor/date evidence insufficient for automatic match
+TXN-6284,INV-0470,81.89,REVIEW,0.0,0.0,14,100.0,False,72.34,9.55,Vendor/date evidence insufficient for automatic match
+TXN-6290,INV-0226,81.89,REVIEW,0.0,0.0,14,100.0,False,57.3,24.59,Vendor/date evidence insufficient for automatic match
+TXN-6358,INV-0450,81.89,REVIEW,0.0,0.0,14,100.0,False,66.98,14.91,Vendor/date evidence insufficient for automatic match
+TXN-6455,INV-0017,81.89,REVIEW,0.0,0.0,14,100.0,False,63.67,18.22,Invoice already assigned; possible duplicate payment
+TXN-6039,INV-0043,81.67,REVIEW,0.0,0.0,15,100.0,False,58.03,23.64,Vendor/date evidence insufficient for automatic match
+TXN-6065,INV-0182,81.67,REVIEW,0.0,0.0,15,100.0,False,73.67,8.0,Vendor/date evidence insufficient for automatic match
+TXN-6084,INV-0441,81.67,REVIEW,0.0,0.0,15,100.0,False,69.98,11.69,Vendor/date evidence insufficient for automatic match
+TXN-6124,INV-0355,81.67,REVIEW,0.0,0.0,15,100.0,False,61.97,19.7,Vendor/date evidence insufficient for automatic match
+TXN-6138,INV-0442,81.67,REVIEW,0.0,0.0,15,100.0,False,67.75,13.92,Vendor/date evidence insufficient for automatic match
+TXN-6176,INV-0133,81.67,REVIEW,0.0,0.0,15,100.0,False,68.56,13.11,Vendor/date evidence insufficient for automatic match
+TXN-6234,INV-0395,81.67,REVIEW,0.0,0.0,15,100.0,False,61.66,20.01,Vendor/date evidence insufficient for automatic match
+TXN-6283,INV-0439,81.67,REVIEW,0.0,0.0,15,100.0,False,60.62,21.05,Vendor/date evidence insufficient for automatic match
+TXN-6318,INV-0298,81.67,REVIEW,0.0,0.0,15,100.0,False,69.63,12.04,Vendor/date evidence insufficient for automatic match
+TXN-6330,INV-0326,81.67,REVIEW,0.0,0.0,15,100.0,False,74.1,7.57,Ambiguous: competing invoice candidates have similar evidence
+TXN-6342,INV-0452,81.67,REVIEW,0.0,0.0,15,100.0,False,59.71,21.96,Vendor/date evidence insufficient for automatic match
+TXN-6375,INV-0420,81.67,REVIEW,0.0,0.0,15,100.0,False,74.35,7.32,Ambiguous: competing invoice candidates have similar evidence
+TXN-6142,INV-0044,81.44,REVIEW,0.0,0.0,16,100.0,False,71.97,9.47,Vendor/date evidence insufficient for automatic match
+TXN-6148,INV-0007,81.44,REVIEW,0.0,0.0,16,100.0,False,74.54,6.9,Ambiguous: competing invoice candidates have similar evidence
+TXN-6191,INV-0320,81.44,REVIEW,0.0,0.0,16,100.0,False,50.86,30.58,Vendor/date evidence insufficient for automatic match
+TXN-6263,INV-0215,81.44,REVIEW,0.0,0.0,16,100.0,False,56.86,24.58,Vendor/date evidence insufficient for automatic match
+TXN-6265,INV-0300,81.44,REVIEW,0.0,0.0,16,100.0,False,64.43,17.01,Vendor/date evidence insufficient for automatic match
+TXN-6273,INV-0357,81.44,REVIEW,0.0,0.0,16,100.0,False,69.0,12.44,Vendor/date evidence insufficient for automatic match
+TXN-6328,INV-0485,81.44,REVIEW,0.0,0.0,16,100.0,False,55.31,26.13,Vendor/date evidence insufficient for automatic match
+TXN-6190,INV-0437,81.36,REVIEW,0.0,0.0,12,96.77,False,58.89,22.47,Vendor/date evidence insufficient for automatic match
+TXN-6030,INV-0396,81.22,REVIEW,0.0,0.0,17,100.0,False,73.07,8.15,Vendor/date evidence insufficient for automatic match
+TXN-6033,INV-0078,81.22,REVIEW,0.0,0.0,17,100.0,False,67.74,13.48,Vendor/date evidence insufficient for automatic match
+TXN-6038,INV-0465,81.22,REVIEW,0.0,0.0,17,100.0,False,49.14,32.08,Vendor/date evidence insufficient for automatic match
+TXN-6119,INV-0234,81.22,REVIEW,0.0,0.0,17,100.0,False,70.22,11.0,Vendor/date evidence insufficient for automatic match
+TXN-6146,INV-0221,81.22,REVIEW,0.0,0.0,17,100.0,False,53.28,27.94,Vendor/date evidence insufficient for automatic match
+TXN-6177,INV-0385,81.22,REVIEW,0.0,0.0,17,100.0,False,57.12,24.1,Vendor/date evidence insufficient for automatic match
+TXN-6223,INV-0111,81.22,REVIEW,0.0,0.0,17,100.0,False,72.22,9.0,Vendor/date evidence insufficient for automatic match
+TXN-6297,INV-0126,81.22,REVIEW,0.0,0.0,17,100.0,False,74.54,6.68,Ambiguous: competing invoice candidates have similar evidence
+TXN-6446,INV-0231,81.22,REVIEW,0.0,0.0,2,88.89,False,60.08,21.14,Invoice already assigned; possible duplicate payment
+TXN-6058,INV-0202,81.14,REVIEW,0.0,0.0,13,96.77,False,78.49,2.65,Ambiguous: competing invoice candidates have similar evidence
+TXN-6027,INV-0021,81.0,REVIEW,0.0,0.0,18,100.0,False,65.53,15.47,Vendor/date evidence insufficient for automatic match
+TXN-6057,INV-0410,81.0,REVIEW,0.0,0.0,18,100.0,False,69.69,11.31,Vendor/date evidence insufficient for automatic match
+TXN-6068,INV-0139,81.0,REVIEW,0.0,0.0,18,100.0,False,61.91,19.09,Vendor/date evidence insufficient for automatic match
+TXN-6118,INV-0379,81.0,REVIEW,0.0,0.0,18,100.0,False,75.0,6.0,Ambiguous: competing invoice candidates have similar evidence
+TXN-6128,INV-0053,81.0,REVIEW,0.0,0.0,18,100.0,False,77.02,3.98,Ambiguous: competing invoice candidates have similar evidence
+TXN-6130,INV-0174,81.0,REVIEW,0.0,0.0,18,100.0,False,71.93,9.07,Vendor/date evidence insufficient for automatic match
+TXN-6150,INV-0107,81.0,REVIEW,0.0,0.0,18,100.0,False,44.58,36.42,Vendor/date evidence insufficient for automatic match
+TXN-6179,INV-0036,81.0,REVIEW,0.0,0.0,18,100.0,False,63.96,17.04,Vendor/date evidence insufficient for automatic match
+TXN-6183,INV-0332,81.0,REVIEW,0.0,0.0,18,100.0,False,72.21,8.79,Vendor/date evidence insufficient for automatic match
+TXN-6205,INV-0099,81.0,REVIEW,0.0,0.0,18,100.0,False,73.48,7.52,Ambiguous: competing invoice candidates have similar evidence
+TXN-6216,INV-0498,81.0,REVIEW,0.0,0.0,18,100.0,False,53.25,27.75,Vendor/date evidence insufficient for automatic match
+TXN-6279,INV-0451,81.0,REVIEW,0.0,0.0,18,100.0,False,62.51,18.49,Vendor/date evidence insufficient for automatic match
+TXN-6282,INV-0483,81.0,REVIEW,0.0,0.0,18,100.0,False,74.08,6.92,Ambiguous: competing invoice candidates have similar evidence
+TXN-6037,INV-0192,80.78,REVIEW,0.0,0.0,19,100.0,False,66.69,14.09,Vendor/date evidence insufficient for automatic match
+TXN-6076,INV-0170,80.78,REVIEW,0.0,0.0,19,100.0,False,72.45,8.33,Vendor/date evidence insufficient for automatic match
+TXN-6145,INV-0469,80.78,REVIEW,0.0,0.0,19,100.0,False,30.14,50.64,Vendor/date evidence insufficient for automatic match
+TXN-6155,INV-0281,80.78,REVIEW,0.0,0.0,19,100.0,False,63.64,17.14,Vendor/date evidence insufficient for automatic match
+TXN-6204,INV-0244,80.78,REVIEW,0.0,0.0,19,100.0,False,69.68,11.1,Vendor/date evidence insufficient for automatic match
+TXN-6226,INV-0003,80.78,REVIEW,0.0,0.0,19,100.0,False,52.59,28.19,Vendor/date evidence insufficient for automatic match
+TXN-6274,INV-0124,80.78,REVIEW,0.0,0.0,19,100.0,False,71.85,8.93,Vendor/date evidence insufficient for automatic match
+TXN-6293,INV-0394,80.78,REVIEW,0.0,0.0,19,100.0,False,54.24,26.54,Vendor/date evidence insufficient for automatic match
+TXN-6315,INV-0453,80.78,REVIEW,0.0,0.0,19,100.0,False,73.08,7.7,Ambiguous: competing invoice candidates have similar evidence
+TXN-6329,INV-0352,80.78,REVIEW,0.0,0.0,19,100.0,False,77.36,3.42,Ambiguous: competing invoice candidates have similar evidence
+TXN-6444,INV-0190,80.78,REVIEW,0.0,0.0,4,88.89,False,77.34,3.44,Invoice already assigned; possible duplicate payment
+TXN-6096,INV-0339,80.73,REVIEW,0.0,0.0,1,86.49,False,64.33,16.4,Vendor/date evidence insufficient for automatic match
+TXN-6029,INV-0114,80.56,REVIEW,0.0,0.0,20,100.0,False,71.87,8.69,Vendor/date evidence insufficient for automatic match
+TXN-6062,INV-0336,80.56,REVIEW,0.0,0.0,20,100.0,False,71.4,9.16,Vendor/date evidence insufficient for automatic match
+TXN-6092,INV-0474,80.56,REVIEW,0.0,0.0,20,100.0,False,72.83,7.73,Ambiguous: competing invoice candidates have similar evidence
+TXN-6125,INV-0100,80.56,REVIEW,0.0,0.0,20,100.0,False,72.32,8.24,Vendor/date evidence insufficient for automatic match
+TXN-6252,INV-0262,80.56,REVIEW,0.0,0.0,20,100.0,False,63.09,17.47,Vendor/date evidence insufficient for automatic match
+TXN-6256,INV-0431,80.56,REVIEW,0.0,0.0,20,100.0,False,60.88,19.68,Vendor/date evidence insufficient for automatic match
+TXN-6261,INV-0472,80.56,REVIEW,0.0,0.0,20,100.0,False,59.41,21.15,Vendor/date evidence insufficient for automatic match
+TXN-6348,INV-0376,80.56,REVIEW,0.0,0.0,20,100.0,False,74.05,6.51,Ambiguous: competing invoice candidates have similar evidence
+TXN-6355,INV-0265,80.56,REVIEW,0.0,0.0,20,100.0,False,67.66,12.9,Vendor/date evidence insufficient for automatic match
+TXN-6199,INV-0160,80.48,REVIEW,0.0,0.0,16,96.77,False,50.06,30.42,Vendor/date evidence insufficient for automatic match
+TXN-6009,INV-0367,80.33,REVIEW,0.0,0.0,6,88.89,False,57.62,22.71,Vendor/date evidence insufficient for automatic match
+TXN-6277,INV-0264,80.33,REVIEW,0.0,0.0,6,88.89,False,57.71,22.62,Vendor/date evidence insufficient for automatic match
+TXN-6435,INV-0294,80.33,REVIEW,0.0,0.0,6,88.89,False,50.62,29.71,Invoice already assigned; possible duplicate payment
+TXN-6154,INV-0005,80.28,REVIEW,0.0,0.0,3,86.49,False,70.46,9.82,Vendor/date evidence insufficient for automatic match
+TXN-6299,INV-0155,80.27,REVIEW,0.0,0.0,2,85.71,False,63.11,17.16,Vendor/date evidence insufficient for automatic match
+TXN-6137,INV-0009,80.05,REVIEW,0.0,0.0,3,85.71,False,67.11,12.94,Vendor/date evidence insufficient for automatic match
+TXN-6291,INV-0425,79.84,REVIEW,0.0,0.0,5,86.49,False,62.43,17.41,Vendor/date evidence insufficient for automatic match
+TXN-6005,INV-0247,79.82,REVIEW,0.0,0.0,4,85.71,False,64.33,15.49,Vendor/date evidence insufficient for automatic match
+TXN-6440,INV-0495,79.82,REVIEW,0.0,0.0,4,85.71,False,69.94,9.88,Invoice already assigned; possible duplicate payment
+TXN-6114,INV-0279,79.67,REVIEW,0.0,0.0,9,88.89,False,56.93,22.74,Vendor/date evidence insufficient for automatic match
+TXN-6337,INV-0116,79.6,REVIEW,0.0,0.0,5,85.71,False,70.86,8.74,Vendor/date evidence insufficient for automatic match
+TXN-6259,INV-0360,79.38,REVIEW,0.0,0.0,6,85.71,False,70.41,8.97,Vendor/date evidence insufficient for automatic match
+TXN-6266,INV-0026,79.38,REVIEW,0.0,0.0,6,85.71,False,67.06,12.32,Vendor/date evidence insufficient for automatic match
+TXN-6339,INV-0083,79.32,REVIEW,0.0,0.0,1,81.82,False,61.56,17.76,Vendor/date evidence insufficient for automatic match
+TXN-6249,INV-0417,79.22,REVIEW,0.0,0.0,11,88.89,False,79.06,0.16,Ambiguous: competing invoice candidates have similar evidence
+TXN-6437,INV-0040,79.22,REVIEW,0.0,0.0,11,88.89,False,62.56,16.66,Invoice already assigned; possible duplicate payment
+TXN-6165,INV-0158,79.0,REVIEW,0.0,0.0,12,88.89,False,55.48,23.52,Vendor/date evidence insufficient for automatic match
+TXN-6087,INV-0259,78.93,REVIEW,0.0,0.0,8,85.71,False,74.77,4.16,Ambiguous: competing invoice candidates have similar evidence
+TXN-6210,INV-0267,78.93,REVIEW,0.0,0.0,8,85.71,False,64.75,14.18,Vendor/date evidence insufficient for automatic match
+TXN-6238,INV-0013,78.93,REVIEW,0.0,0.0,8,85.71,False,66.71,12.22,Vendor/date evidence insufficient for automatic match
+TXN-6369,INV-0369,78.62,REVIEW,0.0,0.0,3,80.95,False,62.14,16.48,Vendor/date evidence insufficient for automatic match
+TXN-6110,INV-0423,78.49,REVIEW,0.0,0.0,10,85.71,False,68.21,10.28,Vendor/date evidence insufficient for automatic match
+TXN-6372,INV-0159,78.49,REVIEW,0.0,0.0,10,85.71,False,67.5,10.99,Vendor/date evidence insufficient for automatic match
+TXN-6430,INV-0272,78.49,REVIEW,0.0,0.0,10,85.71,False,73.72,4.77,Ambiguous: competing invoice candidates have similar evidence
+TXN-6217,INV-0104,78.44,REVIEW,0.0,0.0,4,81.08,False,55.15,23.29,Vendor/date evidence insufficient for automatic match
+TXN-6060,INV-0454,78.43,REVIEW,0.0,0.0,5,81.82,False,62.32,16.11,Vendor/date evidence insufficient for automatic match
+TXN-6187,INV-0051,78.43,REVIEW,0.0,0.0,5,81.82,False,63.97,14.46,Vendor/date evidence insufficient for automatic match
+TXN-6327,INV-0362,78.4,REVIEW,0.0,0.0,4,80.95,False,64.67,13.73,Vendor/date evidence insufficient for automatic match
+TXN-6111,INV-0167,78.27,REVIEW,0.0,0.0,11,85.71,False,58.95,19.32,Vendor/date evidence insufficient for automatic match
+TXN-6231,INV-0260,78.27,REVIEW,0.0,0.0,11,85.71,False,73.62,4.65,Ambiguous: competing invoice candidates have similar evidence
+TXN-6170,INV-0084,78.21,REVIEW,0.0,0.0,5,81.08,False,66.98,11.23,Vendor/date evidence insufficient for automatic match
+TXN-6018,INV-0380,78.05,REVIEW,0.0,0.0,12,85.71,False,70.31,7.74,Ambiguous: competing invoice candidates have similar evidence
+TXN-6116,INV-0273,78.05,REVIEW,0.0,0.0,12,85.71,False,63.83,14.22,Vendor/date evidence insufficient for automatic match
+TXN-6254,INV-0132,78.05,REVIEW,0.0,0.0,12,85.71,False,59.75,18.3,Vendor/date evidence insufficient for automatic match
+TXN-6324,INV-0487,78.05,REVIEW,0.0,0.0,12,85.71,False,70.54,7.51,Ambiguous: competing invoice candidates have similar evidence
+TXN-6099,INV-0162,77.99,REVIEW,0.0,0.0,7,81.82,False,63.48,14.51,Vendor/date evidence insufficient for automatic match
+TXN-6020,INV-0052,77.61,REVIEW,0.0,0.0,15,86.49,False,65.56,12.05,Vendor/date evidence insufficient for automatic match
+TXN-6287,INV-0238,77.61,REVIEW,0.0,0.0,15,86.49,False,57.02,20.59,Vendor/date evidence insufficient for automatic match
+TXN-6332,INV-0129,77.6,REVIEW,0.0,0.0,14,85.71,False,71.82,5.78,Ambiguous: competing invoice candidates have similar evidence
+TXN-6024,INV-0353,77.51,REVIEW,0.0,0.0,8,80.95,False,65.99,11.52,Vendor/date evidence insufficient for automatic match
+TXN-6115,INV-0464,77.39,REVIEW,0.0,0.0,16,86.49,False,69.24,8.15,Vendor/date evidence insufficient for automatic match
+TXN-6036,INV-0468,77.38,REVIEW,0.0,0.0,15,85.71,False,64.76,12.62,Vendor/date evidence insufficient for automatic match
+TXN-6164,INV-0077,77.38,REVIEW,0.0,0.0,15,85.71,False,61.19,16.19,Vendor/date evidence insufficient for automatic match
+TXN-6196,INV-0292,77.38,REVIEW,0.0,0.0,15,85.71,False,54.33,23.05,Vendor/date evidence insufficient for automatic match
+TXN-6014,INV-0482,77.32,REVIEW,0.0,0.0,9,81.08,False,65.25,12.07,Vendor/date evidence insufficient for automatic match
+TXN-6174,INV-0481,77.28,REVIEW,0.0,0.0,9,80.95,False,56.05,21.23,Vendor/date evidence insufficient for automatic match
+TXN-6026,INV-0102,77.22,REVIEW,0.0,0.0,20,88.89,False,69.81,7.41,Ambiguous: competing invoice candidates have similar evidence
+TXN-6133,INV-0113,77.17,REVIEW,0.0,0.0,17,86.49,False,70.64,6.53,Ambiguous: competing invoice candidates have similar evidence
+TXN-6082,INV-0227,77.16,REVIEW,0.0,0.0,16,85.71,False,70.03,7.13,Ambiguous: competing invoice candidates have similar evidence
+TXN-6233,INV-0251,77.16,REVIEW,0.0,0.0,16,85.71,False,67.48,9.68,Vendor/date evidence insufficient for automatic match
+TXN-6333,INV-0041,77.16,REVIEW,0.0,0.0,16,85.71,False,66.42,10.74,Vendor/date evidence insufficient for automatic match
+TXN-6168,INV-0257,77.06,REVIEW,0.0,0.0,10,80.95,False,66.0,11.06,Vendor/date evidence insufficient for automatic match
+TXN-6184,INV-0319,76.93,REVIEW,0.0,0.0,17,85.71,False,63.88,13.05,Vendor/date evidence insufficient for automatic match
+TXN-6364,INV-0295,76.93,REVIEW,0.0,0.0,17,85.71,False,60.46,16.47,Vendor/date evidence insufficient for automatic match
+TXN-6157,INV-0145,76.88,REVIEW,0.0,0.0,11,81.08,False,57.18,19.7,Vendor/date evidence insufficient for automatic match
+TXN-6457,INV-0291,76.88,REVIEW,0.0,0.0,11,81.08,False,60.36,16.52,Invoice already assigned; possible duplicate payment
+TXN-6301,INV-0280,76.84,REVIEW,0.0,0.0,11,80.95,False,71.32,5.52,Ambiguous: competing invoice candidates have similar evidence
+TXN-6034,INV-0125,76.71,REVIEW,0.0,0.0,18,85.71,False,67.64,9.07,Vendor/date evidence insufficient for automatic match
+TXN-6094,INV-0491,76.71,REVIEW,0.0,0.0,18,85.71,False,64.51,12.2,Vendor/date evidence insufficient for automatic match
+TXN-6367,INV-0270,76.71,REVIEW,0.0,0.0,18,85.71,False,62.15,14.56,Vendor/date evidence insufficient for automatic match
+TXN-6054,INV-0347,76.66,REVIEW,0.0,0.0,13,81.82,False,69.04,7.62,Ambiguous: competing invoice candidates have similar evidence
+TXN-6262,INV-0436,76.66,REVIEW,0.0,0.0,13,81.82,False,55.07,21.59,Vendor/date evidence insufficient for automatic match
+TXN-6351,INV-0484,76.5,REVIEW,0.0,0.0,20,86.49,False,67.23,9.27,Vendor/date evidence insufficient for automatic match
+TXN-6344,INV-0064,76.49,REVIEW,0.0,0.0,19,85.71,False,67.88,8.61,Vendor/date evidence insufficient for automatic match
+TXN-6312,INV-0492,76.21,REVIEW,0.0,0.0,14,81.08,False,53.86,22.35,Vendor/date evidence insufficient for automatic match
+TXN-6340,INV-0085,76.21,REVIEW,0.0,0.0,15,81.82,False,68.87,7.34,Ambiguous: competing invoice candidates have similar evidence
+TXN-6004,INV-0424,75.99,REVIEW,0.0,0.0,15,81.08,False,61.53,14.46,Vendor/date evidence insufficient for automatic match
+TXN-6201,INV-0351,75.73,REVIEW,0.0,0.0,16,80.95,False,67.95,7.78,Ambiguous: competing invoice candidates have similar evidence
+TXN-6117,INV-0008,75.55,REVIEW,0.0,0.0,18,81.82,False,66.47,9.08,Vendor/date evidence insufficient for automatic match
+TXN-6311,INV-0015,75.55,REVIEW,0.0,0.0,18,81.82,False,65.64,9.91,Vendor/date evidence insufficient for automatic match
+TXN-6112,INV-0200,75.32,REVIEW,0.0,0.0,19,81.82,False,66.79,8.53,Vendor/date evidence insufficient for automatic match
+TXN-6107,INV-0201,75.06,REVIEW,0.0,0.0,19,80.95,False,56.94,18.12,Vendor/date evidence insufficient for automatic match
+TXN-6056,INV-0237,78.42,REVIEW,0.0,0.0,1,78.79,False,63.66,14.76,Vendor/date evidence insufficient for automatic match
+TXN-6159,INV-0271,78.24,REVIEW,0.0,0.0,2,78.95,False,0.0,78.24,Vendor/date evidence insufficient for automatic match
+TXN-6175,INV-0117,77.97,REVIEW,0.0,0.0,3,78.79,False,61.56,16.41,Vendor/date evidence insufficient for automatic match
+TXN-6097,INV-0316,77.8,REVIEW,0.0,0.0,4,78.95,False,59.74,18.06,Vendor/date evidence insufficient for automatic match
+TXN-6354,INV-0177,77.75,REVIEW,0.0,0.0,4,78.79,False,56.25,21.5,Vendor/date evidence insufficient for automatic match
+TXN-6012,INV-0224,77.35,REVIEW,0.0,0.0,6,78.95,False,59.63,17.72,Vendor/date evidence insufficient for automatic match
+TXN-6359,INV-0363,77.3,REVIEW,0.0,0.0,6,78.79,False,65.37,11.93,Vendor/date evidence insufficient for automatic match
+TXN-6448,INV-0489,77.13,REVIEW,0.0,0.0,7,78.95,False,62.79,14.34,Vendor/date evidence insufficient for automatic match
+TXN-6269,INV-0127,77.08,REVIEW,0.0,0.0,7,78.79,False,66.75,10.33,Vendor/date evidence insufficient for automatic match
+TXN-6140,INV-0330,77.06,REVIEW,0.0,0.0,2,75.0,False,56.5,20.56,Vendor/date evidence insufficient for automatic match
+TXN-6219,INV-0418,77.06,REVIEW,0.0,0.0,2,75.0,False,66.59,10.47,Vendor/date evidence insufficient for automatic match
+TXN-6241,INV-0056,76.86,REVIEW,0.0,0.0,8,78.79,False,62.11,14.75,Vendor/date evidence insufficient for automatic match
+TXN-6298,INV-0248,76.39,REVIEW,0.0,0.0,5,75.0,False,54.58,21.81,Vendor/date evidence insufficient for automatic match
+TXN-6449,INV-0489,76.24,REVIEW,0.0,0.0,11,78.95,False,62.79,13.45,Vendor/date evidence insufficient for automatic match
+TXN-6041,INV-0311,76.22,REVIEW,0.0,0.0,2,72.22,False,57.2,19.02,Vendor/date evidence insufficient for automatic match
+TXN-6001,INV-0020,76.19,REVIEW,0.0,0.0,11,78.79,False,68.33,7.86,Ambiguous: competing invoice candidates have similar evidence
+TXN-6242,INV-0062,76.17,REVIEW,0.0,0.0,6,75.0,False,67.47,8.7,Vendor/date evidence insufficient for automatic match
+TXN-6225,INV-0217,76.02,REVIEW,0.0,0.0,12,78.95,False,61.87,14.15,Vendor/date evidence insufficient for automatic match
+TXN-6050,INV-0276,75.97,REVIEW,0.0,0.0,12,78.79,False,56.59,19.38,Vendor/date evidence insufficient for automatic match
+TXN-6103,INV-0069,75.97,REVIEW,0.0,0.0,12,78.79,False,65.05,10.92,Vendor/date evidence insufficient for automatic match
+TXN-6432,INV-0071,75.78,REVIEW,0.0,0.0,4,72.22,False,61.94,13.84,Invoice already assigned; possible duplicate payment
+TXN-6078,INV-0097,75.64,REVIEW,0.0,0.0,2,70.27,False,60.34,15.3,Vendor/date evidence insufficient for automatic match
+TXN-6304,INV-0214,75.57,REVIEW,0.0,0.0,14,78.95,False,68.69,6.88,Ambiguous: competing invoice candidates have similar evidence
+TXN-6049,INV-0372,75.55,REVIEW,0.0,0.0,5,72.22,False,57.88,17.67,Vendor/date evidence insufficient for automatic match
+TXN-6271,INV-0137,75.53,REVIEW,0.0,0.0,14,78.79,False,63.92,11.61,Vendor/date evidence insufficient for automatic match
+TXN-6365,INV-0210,75.53,REVIEW,0.0,0.0,14,78.79,False,63.18,12.35,Vendor/date evidence insufficient for automatic match
+TXN-6136,INV-0151,75.5,REVIEW,0.0,0.0,9,75.0,False,57.76,17.74,Vendor/date evidence insufficient for automatic match
+TXN-6309,INV-0024,75.41,REVIEW,0.0,0.0,3,70.27,False,63.58,11.83,Vendor/date evidence insufficient for automatic match
+TXN-6061,INV-0486,75.19,REVIEW,0.0,0.0,4,70.27,False,61.71,13.48,Vendor/date evidence insufficient for automatic match
+TXN-6153,INV-0095,74.97,REVIEW,0.0,0.0,5,70.27,False,62.81,12.16,Vendor/date evidence insufficient for automatic match
+TXN-6466,INV-0399,74.97,REVIEW,0.0,0.0,5,70.27,False,60.0,14.97,Invoice already assigned; possible duplicate payment
+TXN-6336,INV-0404,74.44,REVIEW,0.0,0.0,10,72.22,False,59.03,15.41,Vendor/date evidence insufficient for automatic match
+TXN-6211,INV-0144,74.39,REVIEW,0.0,0.0,14,75.0,False,67.05,7.34,Ambiguous: competing invoice candidates have similar evidence
+TXN-6186,INV-0299,73.86,REVIEW,0.0,0.0,10,70.27,False,70.52,3.34,Ambiguous: competing invoice candidates have similar evidence
+TXN-6285,INV-0175,73.86,REVIEW,0.0,0.0,10,70.27,False,57.24,16.62,Vendor/date evidence insufficient for automatic match
+TXN-6272,INV-0388,73.55,REVIEW,0.0,0.0,14,72.22,False,64.34,9.21,Vendor/date evidence insufficient for automatic match
+TXN-6077,INV-0119,72.97,REVIEW,0.0,0.0,14,70.27,False,61.07,11.9,Vendor/date evidence insufficient for automatic match
+TXN-6188,INV-0037,72.97,REVIEW,0.0,0.0,14,70.27,False,30.72,42.25,Vendor/date evidence insufficient for automatic match
+TXN-6398,INV-0154,88.38,REVIEW,50.0,0.01,7,66.67,True,62.22,26.16,Amount mismatch prevents automatic reconciliation
+TXN-6380,INV-0444,87.58,REVIEW,50.0,0.04,6,63.64,True,53.37,34.21,Amount mismatch prevents automatic reconciliation
+TXN-6406,INV-0164,87.25,REVIEW,150.0,0.03,2,59.46,True,64.35,22.9,Amount mismatch prevents automatic reconciliation
+TXN-6412,INV-0232,87.14,REVIEW,50.0,0.04,8,63.64,True,57.45,29.69,Amount mismatch prevents automatic reconciliation
+TXN-6378,INV-0240,85.52,REVIEW,150.0,0.03,1,52.94,True,64.48,21.04,Amount mismatch prevents automatic reconciliation
+TXN-6397,INV-0081,84.8,REVIEW,100.0,0.07,18,63.64,True,52.76,32.04,Amount mismatch prevents automatic reconciliation
+TXN-6394,INV-0359,84.34,REVIEW,150.0,0.05,2,100.0,False,73.12,11.22,Amount mismatch prevents automatic reconciliation
+TXN-6407,INV-0350,83.76,REVIEW,500.0,0.13,3,100.0,False,68.38,15.38,Amount mismatch prevents automatic reconciliation
+TXN-6381,INV-0284,83.42,REVIEW,500.0,0.15,4,100.0,False,67.48,15.94,Amount mismatch prevents automatic reconciliation
+TXN-6399,INV-0149,83.25,REVIEW,150.0,0.03,20,59.46,True,66.09,17.16,Amount mismatch prevents automatic reconciliation
+TXN-6415,INV-0063,83.25,REVIEW,500.0,0.14,5,100.0,False,82.88,0.37,Amount mismatch prevents automatic reconciliation
+TXN-6182,INV-0368,82.88,REVIEW,100.0,0.13,7,100.0,False,81.89,0.99,Amount mismatch prevents automatic reconciliation
+TXN-6382,INV-0185,82.74,REVIEW,500.0,0.6,9,58.06,True,61.09,21.65,Amount mismatch prevents automatic reconciliation
+TXN-6396,INV-0365,82.69,REVIEW,50.0,0.02,10,100.0,False,64.59,18.1,Amount mismatch prevents automatic reconciliation
+TXN-6386,INV-0072,82.43,REVIEW,500.0,0.13,9,100.0,False,75.3,7.13,Amount mismatch prevents automatic reconciliation
+TXN-6387,INV-0416,82.37,REVIEW,500.0,0.19,8,100.0,False,74.91,7.46,Amount mismatch prevents automatic reconciliation
+TXN-6085,INV-0349,82.28,REVIEW,1750.0,0.41,4,100.0,False,81.89,0.39,Amount mismatch prevents automatic reconciliation
+TXN-6392,INV-0090,82.28,REVIEW,50.0,0.06,11,100.0,False,63.91,18.37,Amount mismatch prevents automatic reconciliation
+TXN-6408,INV-0045,81.8,REVIEW,50.0,0.02,14,100.0,False,74.58,7.22,Amount mismatch prevents automatic reconciliation
+TXN-6403,INV-0364,81.67,REVIEW,500.0,0.15,12,100.0,False,70.23,11.44,Amount mismatch prevents automatic reconciliation
+TXN-6414,INV-0070,81.39,REVIEW,150.0,0.36,9,100.0,False,53.15,28.24,Amount mismatch prevents automatic reconciliation
+TXN-6393,INV-0479,80.72,REVIEW,50.0,0.01,19,100.0,False,68.9,11.82,Amount mismatch prevents automatic reconciliation
+TXN-6385,INV-0122,80.64,REVIEW,150.0,0.03,19,100.0,False,79.25,1.39,Amount mismatch prevents automatic reconciliation
+TXN-6377,INV-0283,80.47,REVIEW,500.0,0.81,4,100.0,False,68.37,12.1,Amount mismatch prevents automatic reconciliation
+TXN-6376,INV-0067,80.45,REVIEW,50.0,0.01,2,86.49,False,69.82,10.63,Amount mismatch prevents automatic reconciliation
+TXN-6401,INV-0282,80.43,REVIEW,150.0,0.13,18,100.0,False,57.77,22.66,Amount mismatch prevents automatic reconciliation
+TXN-6410,INV-0366,80.32,REVIEW,500.0,0.4,13,100.0,False,57.14,23.18,Amount mismatch prevents automatic reconciliation
+TXN-6402,INV-0034,80.18,REVIEW,500.0,0.38,14,100.0,False,67.07,13.11,Amount mismatch prevents automatic reconciliation
+TXN-6395,INV-0403,80.08,REVIEW,100.0,0.04,2,85.71,False,54.06,26.02,Amount mismatch prevents automatic reconciliation
+TXN-6411,INV-0089,79.0,REVIEW,100.0,1.23,2,100.0,False,0.0,79.0,Amount mismatch prevents automatic reconciliation
+TXN-6413,INV-0038,78.73,REVIEW,50.0,0.01,13,88.89,False,69.12,9.61,Amount mismatch prevents automatic reconciliation
+TXN-6389,INV-0115,78.01,REVIEW,100.0,0.06,12,86.49,False,55.0,23.01,Amount mismatch prevents automatic reconciliation
+TXN-6373,INV-0031,77.98,REVIEW,700.0,0.2,3,81.82,False,77.77,0.21,Amount mismatch prevents automatic reconciliation
+TXN-6404,INV-0178,77.84,REVIEW,50.0,0.05,13,86.49,False,56.0,21.84,Amount mismatch prevents automatic reconciliation
+TXN-6388,INV-0415,77.13,REVIEW,150.0,0.03,1,75.0,False,69.21,7.92,Amount mismatch prevents automatic reconciliation
+TXN-6270,INV-0272,77.03,REVIEW,1300.0,0.27,2,78.95,False,74.69,2.34,Amount mismatch prevents automatic reconciliation
+TXN-6390,INV-0261,76.49,REVIEW,500.0,0.13,2,75.0,False,62.47,14.02,Amount mismatch prevents automatic reconciliation
+TXN-6391,INV-0457,76.38,REVIEW,50.0,0.12,8,78.95,False,66.09,10.29,Amount mismatch prevents automatic reconciliation
+TXN-6400,INV-0278,76.35,REVIEW,100.0,0.03,19,85.71,False,65.06,11.29,Amount mismatch prevents automatic reconciliation
+TXN-6379,INV-0189,75.49,REVIEW,500.0,4.61,17,100.0,True,40.92,34.57,Amount mismatch prevents automatic reconciliation
+TXN-6126,INV-0393,75.13,REVIEW,0.0,0.0,16,78.95,False,68.09,7.04,Ambiguous: competing invoice candidates have similar evidence
+TXN-6025,INV-0335,75.08,REVIEW,0.0,0.0,16,78.79,False,66.76,8.32,Vendor/date evidence insufficient for automatic match
+TXN-6079,INV-0374,74.86,REVIEW,0.0,0.0,17,78.79,False,58.28,16.58,Vendor/date evidence insufficient for automatic match
+TXN-6091,INV-0194,74.56,REVIEW,0.0,0.0,2,66.67,False,58.37,16.19,Vendor/date evidence insufficient for automatic match
+TXN-6208,INV-0142,74.33,REVIEW,0.0,0.0,3,66.67,False,54.45,19.88,Vendor/date evidence insufficient for automatic match
+TXN-6461,INV-0186,73.89,REVIEW,0.0,0.0,5,66.67,False,54.08,19.81,Invoice already assigned; possible duplicate payment
+TXN-6086,INV-0307,73.72,REVIEW,0.0,0.0,17,75.0,False,64.36,9.36,Vendor/date evidence insufficient for automatic match
+TXN-6319,INV-0304,73.67,REVIEW,0.0,0.0,6,66.67,False,54.63,19.04,Vendor/date evidence insufficient for automatic match
+TXN-6384,INV-0253,73.63,REVIEW,50.0,0.02,17,75.0,False,64.44,9.19,Amount mismatch prevents automatic reconciliation
+TXN-6224,INV-0028,73.28,REVIEW,0.0,0.0,19,75.0,False,63.04,10.24,Vendor/date evidence insufficient for automatic match
+TXN-6409,INV-0447,73.24,REVIEW,500.0,0.46,19,81.82,False,58.59,14.65,Amount mismatch prevents automatic reconciliation
+TXN-6213,INV-0383,73.11,REVIEW,0.0,0.0,16,72.22,False,65.78,7.33,Ambiguous: competing invoice candidates have similar evidence
+TXN-6002,INV-0421,72.67,REVIEW,0.0,0.0,18,72.22,False,62.33,10.34,Vendor/date evidence insufficient for automatic match
+TXN-6214,INV-0387,72.67,REVIEW,0.0,0.0,18,72.22,False,60.23,12.44,Vendor/date evidence insufficient for automatic match
+TXN-6220,INV-0477,72.56,REVIEW,0.0,0.0,11,66.67,False,57.32,15.24,Vendor/date evidence insufficient for automatic match
+TXN-6109,INV-0370,71.86,REVIEW,0.0,0.0,19,70.27,False,56.92,14.94,Vendor/date evidence insufficient for automatic match
+TXN-6104,INV-0169,71.67,REVIEW,0.0,0.0,15,66.67,False,65.96,5.71,Ambiguous: competing invoice candidates have similar evidence
+TXN-6131,INV-0306,71.22,REVIEW,0.0,0.0,17,66.67,False,49.72,21.5,Vendor/date evidence insufficient for automatic match
+TXN-6260,INV-0168,71.22,REVIEW,0.0,0.0,17,66.67,False,57.85,13.37,Vendor/date evidence insufficient for automatic match
+TXN-6383,INV-0434,71.15,REVIEW,500.0,0.16,19,70.27,False,63.71,7.44,Amount mismatch prevents automatic reconciliation
+TXN-6240,INV-0150,71.0,REVIEW,0.0,0.0,18,66.67,False,63.34,7.66,Ambiguous: competing invoice candidates have similar evidence
+TXN-6405,INV-0342,70.84,REVIEW,150.0,0.08,17,66.67,False,58.09,12.75,Amount mismatch prevents automatic reconciliation
+TXN-6278,INV-0449,70.78,REVIEW,0.0,0.0,19,66.67,False,66.12,4.66,Ambiguous: competing invoice candidates have similar evidence

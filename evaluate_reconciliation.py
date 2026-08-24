@@ -27,9 +27,9 @@ def load_data():
     ]
 
     required_ground_truth_columns = [
-        "invoice_id",
-        "transaction_id",
-        "ground_truth_status",
+    "transaction_id",
+    "actual_invoice_id",
+    "actual_status",
     ]
 
     for column in required_result_columns:
@@ -53,29 +53,28 @@ def load_data():
 
 def prepare_ground_truth(ground_truth):
     """
-    Create the expected transaction -> invoice relationship.
+    Prepare the clean transaction-level ground truth.
 
-    Only rows representing an actual valid payment match
-    are considered positive reconciliation cases.
+    Each bank transaction has exactly one ground-truth record.
     """
 
     ground_truth = ground_truth.copy()
 
-    # Normalize IDs
     ground_truth["transaction_id"] = (
         ground_truth["transaction_id"]
         .astype(str)
         .str.strip()
     )
 
-    ground_truth["invoice_id"] = (
-        ground_truth["invoice_id"]
+    ground_truth["actual_invoice_id"] = (
+        ground_truth["actual_invoice_id"]
+        .fillna("")
         .astype(str)
         .str.strip()
     )
 
-    ground_truth["ground_truth_status"] = (
-        ground_truth["ground_truth_status"]
+    ground_truth["actual_status"] = (
+        ground_truth["actual_status"]
         .astype(str)
         .str.upper()
         .str.strip()
@@ -89,9 +88,17 @@ def prepare_ground_truth(ground_truth):
 # ============================================================
 
 def create_evaluation_table(results, ground_truth):
+    """
+    Merge model predictions with clean transaction-level
+    ground truth.
+
+    Each CREDIT transaction should have exactly one
+    ground-truth record.
+    """
 
     evaluation = results.copy()
 
+    # Normalize prediction IDs
     evaluation["transaction_id"] = (
         evaluation["transaction_id"]
         .astype(str)
@@ -105,31 +112,44 @@ def create_evaluation_table(results, ground_truth):
         .str.strip()
     )
 
-    # --------------------------------------------------------
-    # Get ground truth for each transaction
-    # --------------------------------------------------------
-
+    # Prepare ground truth
     truth = ground_truth[
         [
             "transaction_id",
-            "invoice_id",
-            "ground_truth_status",
+            "actual_invoice_id",
+            "actual_status",
         ]
     ].copy()
 
-    truth = truth.rename(
-        columns={
-            "invoice_id": "actual_invoice_id",
-            "ground_truth_status": "actual_status",
-        }
+    truth["transaction_id"] = (
+        truth["transaction_id"]
+        .astype(str)
+        .str.strip()
     )
 
+    truth["actual_invoice_id"] = (
+        truth["actual_invoice_id"]
+        .fillna("")
+        .astype(str)
+        .str.strip()
+    )
+
+    truth["actual_status"] = (
+        truth["actual_status"]
+        .fillna("UNKNOWN")
+        .astype(str)
+        .str.upper()
+        .str.strip()
+    )
+
+    # Merge prediction with ground truth
     evaluation = evaluation.merge(
         truth,
         on="transaction_id",
         how="left"
     )
 
+    # Handle missing values
     evaluation["actual_invoice_id"] = (
         evaluation["actual_invoice_id"]
         .fillna("")
@@ -145,6 +165,7 @@ def create_evaluation_table(results, ground_truth):
         .str.strip()
     )
 
+    # IMPORTANT: return the evaluation dataframe
     return evaluation
 
 

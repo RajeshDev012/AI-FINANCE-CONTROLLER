@@ -1,10 +1,2 @@
-metric,value
-total_invoices,525
-total_transactions,500
-exact_matches,300
-fuzzy_matches,60
-date_variation_cases,40
-amount_mismatch_cases,35
-missing_payment_cases,20
-duplicate_cases,20
-ambiguous_cases,25
+total_invoices,total_credit_transactions,total_debit_transactions,normal_matches,amount_mismatches,ambiguous_cases,duplicate_payments,missing_payments,unique_transaction_ids,duplicate_transaction_ids,ground_truth_rows
+500,467,15,395,40,12,20,40,482,0,467
