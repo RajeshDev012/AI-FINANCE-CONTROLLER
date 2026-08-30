@@ -1,0 +1,483 @@
+transaction_id,invoice_id,xgb_probability,model_margin,amount_difference_percent,vendor_similarity,date_difference_days,reference_match,decision,decision_reason,explanation
+TXN-6001,INV-0020,0.9997888,0.98448855,0.0,68.08510638297872,11,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6002,INV-0421,0.999851,0.99959797,0.0,56.14035087719298,18,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6003,INV-0203,0.9995096,0.9967615,0.0,100.0,5,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6004,INV-0424,0.9998797,0.9998073,0.0,60.714285714285715,15,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6005,INV-0247,0.9999231,0.9998246,0.0,71.7948717948718,4,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6006,INV-0195,0.999884,0.9998195,0.0,38.297872340425535,15,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6007,INV-0080,0.99994755,0.99991417,0.0,50.0,6,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6008,INV-0488,0.99978346,0.998803,0.0,83.33333333333333,10,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6009,INV-0367,0.9999062,0.99983436,0.0,57.69230769230769,6,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6010,INV-0241,0.99985266,0.99984175,0.0,38.297872340425535,14,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6011,INV-0392,0.9997193,0.00037312508,0.0,100.0,3,0,REVIEW,Ambiguous candidate ranking,Exact/near-exact amount + Strong vendor similarity + Close transaction date
+TXN-6012,INV-0224,0.9997385,0.999041,0.0,59.64912280701754,6,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6013,INV-0286,0.9996952,0.99603516,0.0,100.0,11,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6014,INV-0482,0.9994585,0.9971054,0.0,60.714285714285715,9,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6015,INV-0047,0.9999875,0.99993664,0.0,51.42857142857143,15,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6016,INV-0184,0.9996952,0.99894106,0.0,100.0,11,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6017,INV-0198,0.9975375,0.9975338,0.0,41.37931034482759,19,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6018,INV-0380,0.9999348,0.9772754,0.0,71.7948717948718,12,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6019,INV-0002,0.9998996,0.9998,0.0,100.0,2,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity + Close transaction date
+TXN-6020,INV-0052,0.9999907,0.99966383,0.0,82.35294117647058,15,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6021,INV-0165,0.99991596,0.9993653,0.0,100.0,13,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6022,INV-0494,0.9996908,0.9586804,0.0,100.0,10,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6023,INV-0419,0.9996834,0.9980513,0.0,100.0,10,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6024,INV-0353,0.999801,0.99954325,0.0,76.92307692307692,8,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6025,INV-0335,0.99991035,0.99795556,0.0,68.08510638297872,16,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6026,INV-0102,0.9969258,0.99677324,0.0,54.166666666666664,20,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6027,INV-0021,0.999813,0.99949664,0.0,100.0,18,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6028,INV-0057,0.9998753,0.9998077,0.0,75.0,7,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6029,INV-0114,0.99941266,0.9985255,0.0,100.0,20,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6030,INV-0396,0.9965894,0.99585307,0.0,100.0,17,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6031,INV-0054,0.9998883,0.99724615,0.0,100.0,12,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6032,INV-0001,0.9999194,0.99932235,0.0,100.0,4,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6033,INV-0078,0.99995863,0.9997088,0.0,100.0,17,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6034,INV-0125,0.99975425,0.99965185,0.0,71.7948717948718,18,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6035,INV-0058,0.99962056,0.99758714,0.0,100.0,11,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6036,INV-0468,0.9999832,0.9992221,0.0,70.96774193548387,15,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6037,INV-0192,0.9997832,0.9848503,0.0,100.0,19,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6038,INV-0465,0.9998534,0.9997747,0.0,100.0,17,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6039,INV-0043,0.9999323,0.9976707,0.0,100.0,15,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6040,INV-0172,0.99984837,0.99870497,0.0,100.0,14,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6041,INV-0311,0.999908,0.99983805,0.0,56.14035087719298,2,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Close transaction date
+TXN-6042,INV-0400,0.99928147,0.98318666,0.0,100.0,10,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6043,INV-0004,0.99990857,0.9998536,0.0,100.0,13,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6044,INV-0443,0.99985623,0.99185914,0.0,100.0,7,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6045,INV-0075,0.9990447,0.99903524,0.0,45.16129032258065,2,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Close transaction date + Invoice reference found
+TXN-6046,INV-0429,0.99985397,0.99786115,0.0,100.0,3,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity + Close transaction date
+TXN-6047,INV-0445,0.9998882,0.99796486,0.0,100.0,3,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity + Close transaction date
+TXN-6048,INV-0148,0.99986935,0.9987545,0.0,83.33333333333333,10,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6049,INV-0372,0.99988127,0.9998341,0.0,56.14035087719298,5,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6050,INV-0276,0.99994266,0.9989501,0.0,68.08510638297872,12,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6051,INV-0480,0.99992037,0.9996628,0.0,100.0,13,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6052,INV-0230,0.99997675,0.9994832,0.0,46.15384615384615,18,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6053,INV-0389,0.9998479,0.9683688,0.0,100.0,4,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6054,INV-0347,0.99993515,0.98745346,0.0,57.69230769230769,13,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6055,INV-0235,0.99784434,0.1077925,0.0,100.0,8,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6056,INV-0237,0.9998815,0.9995758,0.0,68.08510638297872,1,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity + Close transaction date
+TXN-6057,INV-0410,0.9998161,0.99872845,0.0,100.0,18,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6058,INV-0202,0.99998415,0.99568796,0.0,66.66666666666666,13,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6059,INV-0322,0.99910647,0.9990139,0.0,45.16129032258065,8,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6060,INV-0454,0.99979025,0.9996164,0.0,57.69230769230769,5,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6061,INV-0486,0.9982602,0.9977463,0.0,58.8235294117647,4,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6062,INV-0336,0.99993515,0.99932146,0.0,100.0,20,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6063,INV-0060,0.9999292,0.9974396,0.0,100.0,8,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6064,INV-0230,0.9999188,0.0011751056,0.02301495972382048,100.0,14,0,REVIEW,Ambiguous candidate ranking,Exact/near-exact amount + Strong vendor similarity
+TXN-6065,INV-0182,0.9999038,0.9990134,0.0,100.0,15,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6066,INV-0076,0.9996971,0.36259758,0.0,100.0,8,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6067,INV-0428,0.99994266,0.9993597,0.0,83.33333333333333,13,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6068,INV-0139,0.999828,0.9972967,0.0,100.0,18,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6069,INV-0206,0.9949327,0.9949224,0.0,41.37931034482759,5,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6070,INV-0140,0.999928,0.9877196,0.0,100.0,8,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6071,INV-0220,0.9998765,0.9974566,0.0,100.0,11,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6072,INV-0378,0.999959,0.9998755,0.0,48.484848484848484,11,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6073,INV-0338,0.9998374,0.0006980896,0.0,100.0,5,0,REVIEW,Ambiguous candidate ranking,Exact/near-exact amount + Strong vendor similarity
+TXN-6074,INV-0207,0.99731475,0.99730384,0.0,41.37931034482759,8,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6075,INV-0303,0.99918133,0.9969849,0.0,100.0,9,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6076,INV-0170,0.99988663,0.9997587,0.0,75.0,19,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6077,INV-0119,0.9998467,0.9995797,0.0,58.8235294117647,14,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6078,INV-0097,0.994806,0.9946116,0.0,58.8235294117647,2,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Close transaction date
+TXN-6079,INV-0374,0.99961877,0.9994912,0.0,68.08510638297872,17,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6080,INV-0092,0.99980253,0.99979943,0.0,41.37931034482759,14,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6081,INV-0183,0.99990404,0.999194,0.0,100.0,13,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6082,INV-0227,0.9999292,0.97015566,0.0,70.96774193548387,16,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6083,INV-0176,0.9999094,0.99980503,0.0,75.0,10,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6084,INV-0441,0.99986076,0.9988359,0.0,100.0,15,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6085,INV-0407,0.9999161,0.9992621,0.0,100.0,14,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6086,INV-0307,0.9996111,0.99922097,0.0,70.96774193548387,17,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6087,INV-0259,0.9995585,0.95303303,0.0,70.96774193548387,8,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6088,INV-0422,0.99962056,0.99425876,0.0,100.0,11,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6089,INV-0171,0.9999019,0.99989873,0.0,38.095238095238095,15,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6090,INV-0032,0.99982494,0.9914017,0.0,59.25925925925926,3,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Close transaction date
+TXN-6091,INV-0194,0.99991405,0.9998349,0.0,56.60377358490566,2,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Close transaction date
+TXN-6092,INV-0474,0.99949586,0.9983957,0.0,100.0,20,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6093,INV-0323,0.9998503,0.99775594,0.0,100.0,3,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity + Close transaction date
+TXN-6094,INV-0491,0.99985933,0.99889207,0.0,61.224489795918366,18,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6095,INV-0475,0.99987805,0.9998405,0.0,50.0,7,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6096,INV-0339,0.99990845,0.9998202,0.0,82.35294117647058,1,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity + Close transaction date
+TXN-6097,INV-0316,0.9988134,0.99837303,0.0,59.64912280701754,4,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6098,INV-0209,0.99992216,0.99732405,0.0,100.0,8,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6099,INV-0162,0.9998004,0.99964404,0.0,57.69230769230769,7,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6100,INV-0046,0.99983084,0.99978656,0.0,38.297872340425535,18,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6101,INV-0414,0.9999043,0.9991299,0.0,100.0,13,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6102,INV-0308,0.99992645,0.99960756,0.0,41.37931034482759,12,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6103,INV-0069,0.99992466,0.99985933,0.0,68.08510638297872,12,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6104,INV-0169,0.9999474,0.9787468,0.0,56.60377358490566,15,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6105,INV-0023,0.99995816,0.9999135,0.0,53.333333333333336,11,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6106,INV-0438,0.99962056,0.9994292,0.0,100.0,11,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6107,INV-0201,0.9998338,0.9997659,0.0,76.92307692307692,19,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6108,INV-0212,0.9998951,0.0009393692,0.0,100.0,1,0,REVIEW,Ambiguous candidate ranking,Exact/near-exact amount + Strong vendor similarity + Close transaction date
+TXN-6109,INV-0370,0.999476,0.9993921,0.0,58.8235294117647,19,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6110,INV-0423,0.9997825,0.9992651,0.0,70.96774193548387,10,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6111,INV-0167,0.99904114,0.9989973,0.0,61.224489795918366,11,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6112,INV-0200,0.9998964,0.9978361,0.0,57.69230769230769,19,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6113,INV-0027,0.9999895,0.99994415,0.0,48.484848484848484,16,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6114,INV-0279,0.99429554,0.9942531,0.0,54.166666666666664,9,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6115,INV-0464,0.9999273,0.9992829,0.0,82.35294117647058,16,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6116,INV-0273,0.9999577,0.9992686,0.0,70.96774193548387,12,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6117,INV-0008,0.9993362,0.9988603,0.0,57.69230769230769,18,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6118,INV-0379,0.9999639,0.8549558,0.0,100.0,18,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6119,INV-0234,0.9998248,0.9990575,0.0,100.0,17,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6120,INV-0109,0.99712735,0.95539886,0.0,100.0,2,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity + Close transaction date
+TXN-6121,INV-0112,0.99983835,0.9997358,0.0,59.25925925925926,14,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6122,INV-0427,0.9999217,0.99968094,0.0,75.0,3,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity + Close transaction date
+TXN-6123,INV-0243,0.99974674,0.99695796,0.0,100.0,1,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity + Close transaction date
+TXN-6124,INV-0355,0.99993014,0.99983776,0.0,100.0,15,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6125,INV-0100,0.9999281,0.99966747,0.0,100.0,20,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6126,INV-0393,0.9997856,0.9802135,0.0,59.64912280701754,16,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6127,INV-0249,0.9998951,0.9997955,0.0,100.0,1,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity + Close transaction date
+TXN-6128,INV-0053,0.99982566,0.99959785,0.0,100.0,18,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6129,INV-0106,0.9995623,0.9995489,0.0,48.484848484848484,1,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Close transaction date + Invoice reference found
+TXN-6130,INV-0174,0.99991083,0.9997657,0.0,100.0,18,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6131,INV-0306,0.9999144,0.99957645,0.0,56.60377358490566,17,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6132,INV-0455,0.9992048,0.99875665,0.0,100.0,6,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6133,INV-0113,0.99993134,0.9167898,0.0,82.35294117647058,17,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6134,INV-0398,0.9998584,0.9984444,0.0,100.0,7,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6135,INV-0049,0.99949324,0.99947834,0.0,38.095238095238095,9,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6136,INV-0151,0.9996239,0.99957836,0.0,70.96774193548387,9,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6137,INV-0009,0.99993324,0.9996651,0.0,61.224489795918366,3,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity + Close transaction date
+TXN-6138,INV-0442,0.9998988,0.99984,0.0,59.25925925925926,15,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6139,INV-0305,0.99978465,0.8648295,0.0,100.0,8,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6140,INV-0330,0.9998192,0.9991674,0.0,70.96774193548387,2,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity + Close transaction date
+TXN-6141,INV-0426,0.99998164,0.9890706,0.0,100.0,13,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6142,INV-0044,0.99991775,0.99982554,0.0,100.0,16,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6143,INV-0123,0.99768555,0.994608,0.0,54.54545454545455,6,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6144,INV-0313,0.99998355,0.9942849,0.0,45.16129032258065,14,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6145,INV-0469,0.9998456,0.9987678,0.0,100.0,19,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6146,INV-0221,0.999764,0.99838734,0.0,75.0,17,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6147,INV-0490,0.9998022,0.9989602,0.0,100.0,7,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6148,INV-0007,0.99991965,0.95842546,0.0,100.0,16,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6149,INV-0250,0.99985254,0.9998331,0.0,46.15384615384615,3,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Close transaction date + Invoice reference found
+TXN-6150,INV-0107,0.999828,0.99968785,0.0,100.0,18,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6151,INV-0345,0.9994204,0.9994131,0.0,38.095238095238095,6,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6152,INV-0340,0.9993337,0.9887415,0.0,100.0,1,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity + Close transaction date
+TXN-6153,INV-0095,0.99917966,0.9988825,0.0,58.8235294117647,5,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6154,INV-0005,0.99934274,0.9571096,0.0,82.35294117647058,3,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity + Close transaction date
+TXN-6155,INV-0281,0.9998186,0.99969983,0.0,100.0,19,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6156,INV-0275,0.9998913,0.99873865,0.0,100.0,13,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6157,INV-0145,0.9992362,0.99917644,0.0,60.714285714285715,11,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6158,INV-0297,0.9995671,0.9995574,0.0,45.16129032258065,3,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Close transaction date + Invoice reference found
+TXN-6159,INV-0271,0.9999125,0.99983114,0.0,59.64912280701754,2,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Close transaction date
+TXN-6160,INV-0382,0.9997075,0.9989931,0.0,100.0,8,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6161,INV-0371,0.9996338,0.9989281,0.0,100.0,11,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6162,INV-0448,0.99972326,0.9997074,0.0,38.095238095238095,20,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6163,INV-0152,0.9997855,0.9997773,0.0,45.16129032258065,1,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Close transaction date + Invoice reference found
+TXN-6164,INV-0077,0.9992304,0.99864995,0.0,71.7948717948718,15,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6165,INV-0158,0.9994948,0.99945676,0.0,54.166666666666664,12,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6166,INV-0193,0.99998176,0.99200755,0.0,100.0,14,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6167,INV-0324,0.9998909,0.9998104,0.0,100.0,13,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6168,INV-0257,0.999884,0.99952084,0.0,76.92307692307692,10,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6169,INV-0277,0.99985254,0.99984366,0.0,46.15384615384615,3,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Close transaction date + Invoice reference found
+TXN-6170,INV-0084,0.9997899,0.99974185,0.0,60.714285714285715,5,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6171,INV-0179,0.9999658,0.9999111,0.0,38.297872340425535,13,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6172,INV-0254,0.99986565,0.99979347,0.0,100.0,4,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6173,INV-0325,0.99948466,0.9994691,0.0,41.37931034482759,10,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6174,INV-0481,0.9998865,0.9997668,0.0,76.92307692307692,9,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6175,INV-0117,0.99928516,0.9990194,0.0,68.08510638297872,3,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity + Close transaction date
+TXN-6176,INV-0133,0.99994767,0.9998048,0.0,100.0,15,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6177,INV-0385,0.9998611,0.9997614,0.0,100.0,17,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6178,INV-0497,0.9995426,0.99953616,0.0,45.16129032258065,1,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Close transaction date + Invoice reference found
+TXN-6179,INV-0036,0.99982566,0.9991728,0.0,100.0,18,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6180,INV-0010,0.99994946,0.9998988,0.0,46.15384615384615,20,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6181,INV-0476,0.99997807,0.99995714,0.0,38.095238095238095,13,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6182,INV-0011,0.999931,0.00025606155,0.0,100.0,14,0,REVIEW,Ambiguous candidate ranking,Exact/near-exact amount + Strong vendor similarity
+TXN-6183,INV-0332,0.99991417,0.9964567,0.0,100.0,18,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6184,INV-0319,0.99965334,0.9995658,0.0,61.224489795918366,17,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6185,INV-0131,0.9998816,0.99369836,0.0,45.16129032258065,6,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6186,INV-0299,0.99948525,0.998803,0.0,58.8235294117647,10,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6187,INV-0051,0.9997757,0.999674,0.0,57.69230769230769,5,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6188,INV-0037,0.99963105,0.9995797,0.0,58.8235294117647,14,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6189,INV-0412,0.99972814,0.96287453,0.0,100.0,10,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6190,INV-0437,0.9999101,0.99986887,0.0,66.66666666666666,12,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6191,INV-0320,0.9999231,0.9998309,0.0,100.0,16,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6192,INV-0432,0.9998599,0.9991174,0.0,100.0,7,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6193,INV-0245,0.99994636,0.99984676,0.0,100.0,5,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6194,INV-0025,0.99990404,0.99960005,0.0,100.0,13,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6195,INV-0033,0.999938,0.9999335,0.0,46.15384615384615,13,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6196,INV-0292,0.9998554,0.99979824,0.0,61.224489795918366,15,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6197,INV-0157,0.9997267,0.9996803,0.0,38.095238095238095,20,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6198,INV-0187,0.99975795,0.00027245283,0.16021972991531241,59.25925925925926,14,0,REVIEW,Ambiguous candidate ranking,Exact/near-exact amount
+TXN-6199,INV-0160,0.9998517,0.9997422,0.0,66.66666666666666,16,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6200,INV-0386,0.9999577,0.9999431,0.0,41.37931034482759,13,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6201,INV-0351,0.99994814,0.9995909,0.0,76.92307692307692,16,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6202,INV-0218,0.9994765,0.9994714,0.0,38.297872340425535,11,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6203,INV-0337,0.999982,0.987811,0.0,100.0,13,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6204,INV-0244,0.9999614,0.9966206,0.0,100.0,19,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6205,INV-0099,0.99991107,0.9965728,0.0,100.0,18,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6206,INV-0019,0.99883753,0.998819,0.0,54.54545454545455,1,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Close transaction date
+TXN-6207,INV-0409,0.9994041,0.999399,0.0,38.095238095238095,7,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6208,INV-0142,0.99992,0.99986154,0.0,56.60377358490566,3,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Close transaction date
+TXN-6209,INV-0093,0.99998724,0.9999326,0.0,45.16129032258065,16,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6210,INV-0267,0.99973005,0.99929935,0.0,70.96774193548387,8,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6211,INV-0144,0.9991103,0.99782026,0.0,70.96774193548387,14,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6212,INV-0334,0.9980385,0.9956864,0.0,100.0,3,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity + Close transaction date
+TXN-6213,INV-0383,0.9999366,0.99979997,0.0,56.14035087719298,16,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6214,INV-0387,0.9998636,0.99971604,0.0,56.14035087719298,18,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6215,INV-0012,0.9999678,0.9939946,0.0,48.484848484848484,18,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6216,INV-0498,0.999828,0.99968785,0.0,100.0,18,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6217,INV-0104,0.9999603,0.99986625,0.0,60.714285714285715,4,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6218,INV-0196,0.99975353,0.98964214,0.0,100.0,12,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6219,INV-0418,0.99973124,0.9995481,0.0,70.96774193548387,2,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity + Close transaction date
+TXN-6220,INV-0477,0.9997024,0.9995564,0.0,56.60377358490566,11,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6221,INV-0068,0.9998479,0.99970305,0.0,100.0,4,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6222,INV-0462,0.9995671,0.99889797,0.0,100.0,9,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6223,INV-0111,0.99979216,0.99857247,0.0,100.0,17,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6224,INV-0028,0.999542,0.99919593,0.0,70.96774193548387,19,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6225,INV-0217,0.999775,0.9996935,0.0,59.64912280701754,12,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6226,INV-0003,0.99976283,0.9994344,0.0,100.0,19,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6227,INV-0138,0.99994636,0.99984676,0.0,100.0,5,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6228,INV-0381,0.9996152,0.9996115,0.0,38.095238095238095,16,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6229,INV-0461,0.999918,0.99353176,0.0,100.0,14,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6230,INV-0375,0.99985206,0.9998012,0.0,46.15384615384615,5,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6231,INV-0260,0.99991655,0.99421215,0.0,71.7948717948718,11,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6232,INV-0216,0.99997497,0.9996784,0.0,45.16129032258065,17,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6233,INV-0251,0.99995387,0.9998472,0.0,61.224489795918366,16,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6234,INV-0395,0.999905,0.99760634,0.0,100.0,15,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6235,INV-0269,0.9999131,0.9982642,0.0,100.0,10,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6236,INV-0268,0.9997987,0.9997905,0.0,50.0,1,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Close transaction date + Invoice reference found
+TXN-6237,INV-0287,0.9998505,0.99970883,0.0,75.0,4,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6238,INV-0013,0.9995109,0.9993113,0.0,70.96774193548387,8,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6239,INV-0091,0.99997675,0.9994832,0.0,46.15384615384615,18,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6240,INV-0150,0.9998785,0.99284357,0.0,56.60377358490566,18,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6241,INV-0056,0.9997588,0.99953836,0.0,68.08510638297872,8,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6242,INV-0062,0.99974483,0.99968195,0.0,70.96774193548387,6,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6243,INV-0118,0.99992275,0.95766354,0.0,100.0,13,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6244,INV-0130,0.9998474,0.5598829,0.0,100.0,7,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6245,INV-0459,0.9998784,0.9996511,0.0,100.0,14,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6246,INV-0242,0.99954766,0.99954236,0.0,53.333333333333336,7,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6247,INV-0500,0.999871,0.9985854,0.0,100.0,3,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity + Close transaction date
+TXN-6248,INV-0006,0.99996793,0.99991053,0.0,50.0,18,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6249,INV-0417,0.9975981,0.06322652,0.0,54.166666666666664,11,0,REVIEW,Ambiguous candidate ranking,Exact/near-exact amount
+TXN-6250,INV-0317,0.9995117,0.9994942,0.0,54.54545454545455,4,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6251,INV-0290,0.99997735,0.9994838,0.0,45.16129032258065,17,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6252,INV-0262,0.9998485,0.9973189,0.0,100.0,20,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6253,INV-0120,0.99990857,0.9998145,0.0,100.0,13,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6254,INV-0132,0.9997397,0.9988712,0.0,61.224489795918366,12,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6255,INV-0302,0.99995613,0.9999076,0.0,46.15384615384615,20,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6256,INV-0431,0.99970007,0.9989828,0.0,100.0,20,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6257,INV-0390,0.999841,0.9997655,0.0,100.0,5,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6258,INV-0098,0.9997813,0.99864525,0.0,100.0,8,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6259,INV-0360,0.99981445,0.9869706,0.0,71.7948717948718,6,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6260,INV-0168,0.99985516,0.9991015,0.0,56.60377358490566,17,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6261,INV-0472,0.9998318,0.9996947,0.0,100.0,20,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6262,INV-0436,0.9999434,0.99913716,0.0,57.69230769230769,13,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6263,INV-0215,0.9999231,0.99938685,0.0,100.0,16,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6264,INV-0456,0.99989605,0.9998113,0.0,83.33333333333333,6,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6265,INV-0300,0.9999505,0.9997509,0.0,59.25925925925926,16,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6266,INV-0026,0.9997594,0.99966043,0.0,61.224489795918366,6,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6267,INV-0050,0.9999522,0.99990755,0.0,50.0,20,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6268,INV-0073,0.9999198,0.99967414,0.0,66.66666666666666,1,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity + Close transaction date
+TXN-6269,INV-0127,0.99981385,0.99947447,0.0,68.08510638297872,7,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6270,INV-0358,0.9992417,0.9875335,0.0,59.64912280701754,18,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6271,INV-0137,0.99990165,0.9997586,0.0,68.08510638297872,14,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6272,INV-0388,0.9999287,0.9996859,0.0,56.14035087719298,14,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6273,INV-0357,0.9999099,0.9882838,0.0,100.0,16,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6274,INV-0124,0.99988663,0.9996087,0.0,75.0,19,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6275,INV-0466,0.9991277,0.99912435,0.0,41.37931034482759,10,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6276,INV-0055,0.99879766,0.9987926,0.0,41.37931034482759,8,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6277,INV-0264,0.99979204,0.99964166,0.0,57.69230769230769,6,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6278,INV-0449,0.9996786,0.9993872,0.0,56.60377358490566,19,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6279,INV-0451,0.9998216,0.99972296,0.0,100.0,18,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6280,INV-0205,0.9999677,0.9999441,0.0,46.15384615384615,19,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6281,INV-0496,0.99997437,0.9999496,0.0,46.15384615384615,18,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6282,INV-0483,0.99993455,0.9933504,0.0,100.0,18,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6283,INV-0439,0.9998946,0.9997629,0.0,59.25925925925926,15,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6284,INV-0470,0.9999546,0.9971375,0.0,83.33333333333333,14,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6285,INV-0175,0.99955267,0.99947184,0.0,58.8235294117647,10,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6286,INV-0105,0.9990959,0.99766684,0.0,100.0,9,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6287,INV-0238,0.9999591,0.9997978,0.0,82.35294117647058,15,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6288,INV-0318,0.9997986,0.99953693,0.0,100.0,7,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6289,INV-0213,0.9998883,0.9966162,0.0,100.0,12,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6290,INV-0226,0.99980634,0.99814534,0.0,100.0,14,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6291,INV-0425,0.999925,0.9995703,0.0,82.35294117647058,5,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6292,INV-0031,0.999569,0.97458065,0.0,100.0,7,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6293,INV-0394,0.9998004,0.99968743,0.0,100.0,19,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6294,INV-0233,0.99939644,0.6503265,0.0,100.0,9,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6295,INV-0153,0.9996276,0.9996179,0.0,50.0,6,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6296,INV-0478,0.99969506,0.9996924,0.0,53.333333333333336,10,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6297,INV-0126,0.99991584,0.9283242,0.0,100.0,17,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6298,INV-0248,0.99987173,0.9993074,0.0,70.96774193548387,5,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6299,INV-0155,0.99989784,0.99981415,0.0,71.7948717948718,2,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity + Close transaction date
+TXN-6300,INV-0460,0.9994325,0.9957519,0.0,83.33333333333333,5,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6301,INV-0280,0.99978393,0.99812275,0.0,76.92307692307692,11,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6302,INV-0255,0.9998136,0.99972814,0.0,59.25925925925926,13,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6303,INV-0471,0.999974,0.99995446,0.0,53.333333333333336,19,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6304,INV-0214,0.99976724,0.98278487,0.0,59.64912280701754,14,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6305,INV-0293,0.9987577,0.9982303,0.0,100.0,3,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity + Close transaction date
+TXN-6306,INV-0108,0.9999355,0.9999291,0.0,51.42857142857143,13,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6307,INV-0136,0.9997428,0.99123406,0.0,54.54545454545455,12,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6308,INV-0296,0.9996952,0.99799854,0.0,100.0,11,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6309,INV-0024,0.99990296,0.9998519,0.0,58.8235294117647,3,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Close transaction date
+TXN-6310,INV-0042,0.99988294,0.9861079,0.0,100.0,12,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6311,INV-0015,0.99990225,0.999397,0.0,57.69230769230769,18,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6312,INV-0492,0.99950504,0.99946225,0.0,60.714285714285715,14,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6313,INV-0289,0.99941325,0.9994097,0.0,38.297872340425535,16,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6314,INV-0173,0.99971837,0.99708354,0.0,100.0,10,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6315,INV-0453,0.9998004,0.99367803,0.0,100.0,19,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6316,INV-0088,0.999824,0.99981713,0.0,38.095238095238095,16,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6317,INV-0405,0.99985945,0.997165,0.0,100.0,2,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity + Close transaction date
+TXN-6318,INV-0298,0.99991906,0.99834013,0.0,100.0,15,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6319,INV-0304,0.9998882,0.9998455,0.0,56.60377358490566,6,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6320,INV-0087,0.9999143,0.99985325,0.0,59.25925925925926,1,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Close transaction date
+TXN-6321,INV-0346,0.999443,0.9994379,0.0,38.095238095238095,5,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6322,INV-0048,0.9990996,0.9807038,0.0,100.0,6,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6323,INV-0274,0.9999081,0.99618924,0.0,100.0,12,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6324,INV-0487,0.9999577,0.9719145,0.0,70.96774193548387,12,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6325,INV-0341,0.9998085,0.9998017,0.0,46.15384615384615,2,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Close transaction date + Invoice reference found
+TXN-6326,INV-0321,0.99942636,0.958416,0.0,100.0,8,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6327,INV-0362,0.99993837,0.99984515,0.0,76.92307692307692,4,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6328,INV-0485,0.9998528,0.9997615,0.0,59.25925925925926,16,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6329,INV-0352,0.99986327,0.4550404,0.0,100.0,19,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6330,INV-0326,0.9999635,0.9982947,0.0,100.0,15,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6331,INV-0101,0.9997243,0.9960055,0.0,100.0,11,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6332,INV-0129,0.99993443,0.99982363,0.0,71.7948717948718,14,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6333,INV-0041,0.9999881,0.99695826,0.0,71.7948717948718,16,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6334,INV-0146,0.9999124,0.999821,0.0,100.0,13,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6335,INV-0343,0.9987612,0.9987421,0.0,38.095238095238095,4,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6336,INV-0404,0.9998167,0.99832207,0.0,56.14035087719298,10,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6337,INV-0116,0.9998573,0.98701346,0.0,71.7948717948718,5,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6338,INV-0166,0.99992263,0.99984396,0.0,100.0,3,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity + Close transaction date
+TXN-6339,INV-0083,0.99991536,0.99979013,0.0,57.69230769230769,1,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Close transaction date
+TXN-6340,INV-0085,0.9999151,0.98742765,0.0,57.69230769230769,15,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6341,INV-0156,0.9995609,0.99897426,0.0,100.0,5,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6342,INV-0452,0.9999211,0.9976892,0.0,100.0,15,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6343,INV-0430,0.99986565,0.9990886,0.0,100.0,4,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6344,INV-0064,0.99971336,0.99776393,0.0,61.224489795918366,19,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6345,INV-0029,0.99993753,0.99956644,0.0,38.095238095238095,12,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6346,INV-0258,0.999899,0.9998796,0.0,46.15384615384615,5,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6347,INV-0222,0.99829,0.98587567,0.0,100.0,3,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity + Close transaction date
+TXN-6348,INV-0376,0.9995703,0.99835736,0.0,100.0,20,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6349,INV-0094,0.9996815,0.99915713,0.0,100.0,10,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6350,INV-0301,0.9996395,0.9978965,0.0,100.0,10,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6351,INV-0484,0.99994123,0.99963975,0.0,82.35294117647058,20,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6352,INV-0433,0.9998981,0.9998192,0.0,100.0,13,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6353,INV-0066,0.99907327,0.99800986,0.0,54.54545454545455,8,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6354,INV-0177,0.9999635,0.99989355,0.0,68.08510638297872,4,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6355,INV-0265,0.9999378,0.999637,0.0,100.0,20,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6356,INV-0349,0.9998229,0.99979794,0.0,53.333333333333336,1,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Close transaction date + Invoice reference found
+TXN-6357,INV-0239,0.99989605,0.99982506,0.0,100.0,5,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6358,INV-0450,0.999884,0.9979685,0.0,100.0,14,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6359,INV-0363,0.9992761,0.99866104,0.0,68.08510638297872,6,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6360,INV-0329,0.99853086,0.99680215,0.0,100.0,3,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity + Close transaction date
+TXN-6361,INV-0163,0.99716944,0.997156,0.0,41.37931034482759,3,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Close transaction date + Invoice reference found
+TXN-6362,INV-0463,0.99969625,0.9639882,0.0,100.0,7,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6363,INV-0413,0.9999386,0.9999325,0.0,46.15384615384615,13,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6364,INV-0295,0.9996346,0.99356025,0.0,61.224489795918366,17,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6365,INV-0210,0.9998944,0.9996673,0.0,68.08510638297872,14,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6366,INV-0211,0.9998882,0.99961185,0.0,100.0,3,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity + Close transaction date
+TXN-6367,INV-0270,0.9995278,0.998928,0.0,71.7948717948718,18,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6368,INV-0246,0.99984384,0.9997921,0.0,48.484848484848484,9,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6369,INV-0369,0.99994314,0.99960834,0.0,76.92307692307692,3,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity + Close transaction date
+TXN-6370,INV-0499,0.9998566,0.9998037,0.0,45.16129032258065,5,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6371,INV-0440,0.99991584,0.99981725,0.0,100.0,13,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6372,INV-0159,0.99990225,0.9996873,0.0,61.224489795918366,10,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6373,INV-0402,0.9995129,0.99433947,0.0,57.69230769230769,8,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6374,INV-0408,0.99985397,0.9683749,0.0,100.0,3,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity + Close transaction date
+TXN-6375,INV-0420,0.9999852,0.9924697,0.0,100.0,15,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6376,INV-0067,0.99904174,0.9975392,0.011368804001819008,82.35294117647058,2,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity + Close transaction date
+TXN-6377,INV-0283,0.0014990859,0.00045192486,0.8097165991902834,83.33333333333333,4,0,REVIEW,XGBoost confidence below threshold,Exact/near-exact amount + Strong vendor similarity
+TXN-6378,INV-0240,0.99978644,0.99421716,0.032137118371719335,48.484848484848484,1,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Close transaction date + Invoice reference found
+TXN-6379,INV-0189,0.00024056259,0.00023548836,4.6082949308755765,41.37931034482759,17,1,REVIEW,XGBoost confidence below threshold,Amount within tolerance + Invoice reference found
+TXN-6380,INV-0444,0.9975569,0.9975473,0.03924646781789639,38.095238095238095,6,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6381,INV-0284,0.99532205,0.9951449,0.1533272002453235,54.54545454545455,4,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6382,INV-0185,0.00026608285,0.0002634724,0.5955926146515783,46.15384615384615,9,1,REVIEW,XGBoost confidence below threshold,Exact/near-exact amount + Invoice reference found
+TXN-6383,INV-0434,0.9996928,0.10051668,0.15765410688948447,58.8235294117647,19,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6384,INV-0253,0.99937683,0.99929917,0.021132713440405747,70.96774193548387,17,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6385,INV-0122,0.9998797,0.9980792,0.030662305805396566,75.0,19,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6386,INV-0072,0.99905306,0.96916294,0.12553351744915892,100.0,9,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6387,INV-0347,0.03263636,0.0,0.01881821603312006,100.0,321,0,REVIEW,XGBoost confidence below threshold,Exact/near-exact amount + Strong vendor similarity
+TXN-6388,INV-0415,0.99924845,0.99866855,0.03244646333549643,70.96774193548387,1,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity + Close transaction date
+TXN-6389,INV-0115,0.9999354,0.99983746,0.060994205550472705,82.35294117647058,12,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6390,INV-0261,0.9926649,0.9925727,0.12577034335303736,70.96774193548387,2,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity + Close transaction date
+TXN-6391,INV-0457,0.99906546,0.9988296,0.11574074074074073,59.64912280701754,8,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6392,INV-0090,0.9996939,0.99914825,0.06067961165048543,100.0,11,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6393,INV-0479,0.9999033,0.994652,0.011646866992778943,100.0,19,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6394,INV-0359,0.9986437,0.99795026,0.048,100.0,2,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity + Close transaction date
+TXN-6395,INV-0403,0.99992144,0.9998613,0.042078687144961074,61.224489795918366,2,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity + Close transaction date
+TXN-6396,INV-0365,0.99972934,0.99888545,0.01949317738791423,100.0,10,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6397,INV-0081,0.99981374,0.99980056,0.06548788474132286,38.297872340425535,18,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6398,INV-0154,0.9998776,0.9970851,0.01385809312638581,45.16129032258065,7,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6399,INV-0149,0.9999652,0.99915266,0.030721966205837174,50.0,20,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6400,INV-0278,0.9996451,0.9991456,0.0319693094629156,70.96774193548387,19,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6401,INV-0282,0.9997609,0.99932116,0.12652889076339097,100.0,18,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6402,INV-0034,0.0025494036,0.000395227,0.3800836183960471,100.0,14,0,REVIEW,XGBoost confidence below threshold,Exact/near-exact amount + Strong vendor similarity
+TXN-6403,INV-0364,0.99987733,0.9991673,0.14652014652014653,100.0,12,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6404,INV-0178,0.9999373,0.9998579,0.04812319538017325,82.35294117647058,13,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6405,INV-0342,0.9999565,0.9994868,0.08455467869222097,56.60377358490566,17,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6406,INV-0164,0.9991999,0.9991877,0.03349335715083175,50.0,2,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Close transaction date + Invoice reference found
+TXN-6407,INV-0350,0.999871,0.99858594,0.12800819252432155,100.0,3,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity + Close transaction date
+TXN-6408,INV-0045,0.99979514,0.97697705,0.01879699248120301,100.0,14,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6409,INV-0447,0.00055766606,0.00038384023,0.4636068613815485,57.69230769230769,19,0,REVIEW,XGBoost confidence below threshold,Exact/near-exact amount
+TXN-6410,INV-0366,0.0022031604,0.0021120687,0.398406374501992,100.0,13,0,REVIEW,XGBoost confidence below threshold,Exact/near-exact amount + Strong vendor similarity
+TXN-6411,INV-0089,0.0027513797,0.002677824,1.2345679012345678,75.0,2,0,REVIEW,XGBoost confidence below threshold,Amount within tolerance + Moderate vendor similarity + Close transaction date
+TXN-6412,INV-0232,0.99712235,0.99711823,0.03885003885003885,38.297872340425535,8,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6413,INV-0038,0.9981845,0.9978906,0.011354604292040422,57.69230769230769,13,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6414,INV-0070,0.00038064728,0.00018474781,0.35799522673031026,75.0,9,0,REVIEW,XGBoost confidence below threshold,Exact/near-exact amount + Moderate vendor similarity
+TXN-6415,INV-0063,0.99891675,0.99880403,0.1414027149321267,75.0,5,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6416,INV-0252,0.13528152,0.0,0.0,100.0,1,0,REVIEW,XGBoost confidence below threshold,Exact/near-exact amount + Strong vendor similarity + Close transaction date
+TXN-6417,INV-0356,0.14048524,0.0,0.0,100.0,2,0,REVIEW,XGBoost confidence below threshold,Exact/near-exact amount + Strong vendor similarity + Close transaction date
+TXN-6418,INV-0110,0.18369864,0.0,0.0,100.0,4,0,REVIEW,XGBoost confidence below threshold,Exact/near-exact amount + Strong vendor similarity
+TXN-6419,INV-0361,0.18369864,0.0,0.0,100.0,4,0,REVIEW,XGBoost confidence below threshold,Exact/near-exact amount + Strong vendor similarity
+TXN-6420,INV-0397,0.17855889,0.0,0.0,100.0,3,0,REVIEW,XGBoost confidence below threshold,Exact/near-exact amount + Strong vendor similarity + Close transaction date
+TXN-6421,INV-0061,0.18369864,0.0,0.0,100.0,4,0,REVIEW,XGBoost confidence below threshold,Exact/near-exact amount + Strong vendor similarity
+TXN-6422,INV-0199,0.13528152,0.0,0.0,100.0,1,0,REVIEW,XGBoost confidence below threshold,Exact/near-exact amount + Strong vendor similarity + Close transaction date
+TXN-6423,INV-0266,0.6589403,0.0,0.0,100.0,5,0,REVIEW,Ambiguous candidate ranking,Exact/near-exact amount + Strong vendor similarity
+TXN-6424,INV-0029,0.8658673,0.68730843,0.13796275005748448,100.0,9,0,REVIEW,Invoice already assigned to another transaction,Exact/near-exact amount + Strong vendor similarity
+TXN-6425,INV-0059,0.14048524,0.0,0.0,100.0,2,0,REVIEW,XGBoost confidence below threshold,Exact/near-exact amount + Strong vendor similarity + Close transaction date
+TXN-6426,INV-0143,0.18369864,0.0,0.0,100.0,4,0,REVIEW,XGBoost confidence below threshold,Exact/near-exact amount + Strong vendor similarity
+TXN-6427,INV-0333,0.17855889,0.0,0.0,100.0,3,0,REVIEW,XGBoost confidence below threshold,Exact/near-exact amount + Strong vendor similarity + Close transaction date
+TXN-6428,INV-0458,0.99969685,0.041184604,0.0,100.0,8,0,REVIEW,Ambiguous candidate ranking,Exact/near-exact amount + Strong vendor similarity
+TXN-6429,INV-0458,0.99684465,0.9967308,0.0,41.37931034482759,9,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6430,INV-0272,0.9998691,0.99981225,0.0,71.7948717948718,10,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6431,INV-0272,0.99992037,0.9971278,0.0,100.0,13,0,REVIEW,Invoice already assigned to another transaction,Exact/near-exact amount + Strong vendor similarity
+TXN-6432,INV-0071,0.99990714,0.99984527,0.0,56.14035087719298,4,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6433,INV-0071,0.99858236,0.9985777,0.0,51.42857142857143,9,1,REVIEW,Invoice already assigned to another transaction,Exact/near-exact amount + Invoice reference found
+TXN-6434,INV-0294,0.99984515,0.9987534,0.0,83.33333333333333,5,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6435,INV-0294,0.9690251,0.96901864,0.0,54.166666666666664,6,0,REVIEW,Invoice already assigned to another transaction,Exact/near-exact amount
+TXN-6436,INV-0040,0.99990547,0.99700624,0.0,100.0,9,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6437,INV-0040,0.99921393,0.99889505,0.0,54.166666666666664,11,0,REVIEW,Invoice already assigned to another transaction,Exact/near-exact amount
+TXN-6438,INV-0391,0.99984396,0.99950916,0.0,75.0,2,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity + Close transaction date
+TXN-6439,INV-0391,0.99985397,0.9985062,0.0,100.0,3,0,REVIEW,Invoice already assigned to another transaction,Exact/near-exact amount + Strong vendor similarity + Close transaction date
+TXN-6440,INV-0495,0.9996358,0.99815065,0.0,70.96774193548387,4,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Moderate vendor similarity
+TXN-6441,INV-0495,0.99923813,0.9861263,0.0,100.0,8,0,REVIEW,Invoice already assigned to another transaction,Exact/near-exact amount + Strong vendor similarity
+TXN-6442,INV-0191,0.9999635,0.9998927,0.0,46.15384615384615,10,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6443,INV-0191,0.99961793,0.99884033,0.0,100.0,11,0,REVIEW,Invoice already assigned to another transaction,Exact/near-exact amount + Strong vendor similarity
+TXN-6444,INV-0190,0.9992441,0.998141,0.0,57.69230769230769,4,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6445,INV-0190,0.9992847,0.99926454,0.0,38.297872340425535,6,1,REVIEW,Invoice already assigned to another transaction,Exact/near-exact amount + Invoice reference found
+TXN-6446,INV-0231,0.97194165,0.97192943,0.0,54.166666666666664,2,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Close transaction date
+TXN-6447,INV-0231,0.99924135,0.9982127,0.0,100.0,3,0,REVIEW,Invoice already assigned to another transaction,Exact/near-exact amount + Strong vendor similarity + Close transaction date
+TXN-6448,INV-0489,0.99937785,0.999265,0.0,59.64912280701754,7,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6449,INV-0489,0.9996797,0.99884266,0.0,59.64912280701754,11,0,REVIEW,Invoice already assigned to another transaction,Exact/near-exact amount
+TXN-6450,INV-0079,0.9996147,0.999605,0.0,51.42857142857143,7,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6451,INV-0079,0.99888915,0.99887884,0.0,51.42857142857143,9,1,REVIEW,Invoice already assigned to another transaction,Exact/near-exact amount + Invoice reference found
+TXN-6452,INV-0310,0.99992096,0.9980951,0.0,83.33333333333333,5,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6453,INV-0310,0.99969435,0.99915993,0.0,100.0,6,0,REVIEW,Invoice already assigned to another transaction,Exact/near-exact amount + Strong vendor similarity
+TXN-6454,INV-0017,0.99995136,0.9999235,0.0,45.16129032258065,10,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Invoice reference found
+TXN-6455,INV-0017,0.999954,0.998936,0.0,100.0,14,0,REVIEW,Invoice already assigned to another transaction,Exact/near-exact amount + Strong vendor similarity
+TXN-6456,INV-0291,0.9997813,0.9991541,0.0,100.0,8,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6457,INV-0291,0.9989385,0.99888873,0.0,60.714285714285715,11,0,REVIEW,Invoice already assigned to another transaction,Exact/near-exact amount + Moderate vendor similarity
+TXN-6458,INV-0197,0.9998584,0.9988066,0.0,100.0,7,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6459,INV-0197,0.99935573,0.99859464,0.0,100.0,9,0,REVIEW,Invoice already assigned to another transaction,Exact/near-exact amount + Strong vendor similarity
+TXN-6460,INV-0186,0.9998085,0.9997996,0.0,48.484848484848484,1,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Close transaction date + Invoice reference found
+TXN-6461,INV-0186,0.9998185,0.99927723,0.0,56.60377358490566,5,0,REVIEW,Invoice already assigned to another transaction,Exact/near-exact amount
+TXN-6462,INV-0188,0.99977976,0.9995854,0.0,100.0,6,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Strong vendor similarity
+TXN-6463,INV-0188,0.98847485,0.98847216,0.0,41.37931034482759,9,1,REVIEW,Invoice already assigned to another transaction,Exact/near-exact amount + Invoice reference found
+TXN-6464,INV-0331,0.9996151,0.99763036,0.0,50.0,3,1,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount + Close transaction date + Invoice reference found
+TXN-6465,INV-0331,0.99883693,0.97544616,0.0,100.0,8,0,REVIEW,Invoice already assigned to another transaction,Exact/near-exact amount + Strong vendor similarity
+TXN-6466,INV-0399,0.9997298,0.99913925,0.0,58.8235294117647,5,0,MATCH,XGBoost match passed financial safety checks,Exact/near-exact amount
+TXN-6467,INV-0399,0.9993075,0.9991366,0.0,100.0,10,0,REVIEW,Invoice already assigned to another transaction,Exact/near-exact amount + Strong vendor similarity
+TXN-6468,INV-0121,8.6175e-06,7.747167e-07,98.82377651753833,38.095238095238095,16,0,REVIEW,XGBoost confidence below threshold,Insufficient supporting evidence
+TXN-6469,INV-0337,1.4492776e-05,8.9757395e-07,95.68345323741008,39.21568627450981,15,0,REVIEW,XGBoost confidence below threshold,Insufficient supporting evidence
+TXN-6470,INV-0381,1.8883864e-05,0.0,66.39796351294018,36.36363636363637,16,0,REVIEW,XGBoost confidence below threshold,Insufficient supporting evidence
+TXN-6471,INV-0224,2.0908848e-05,0.0,73.52313167259787,31.818181818181813,15,0,REVIEW,XGBoost confidence below threshold,Insufficient supporting evidence
+TXN-6472,INV-0382,1.7521146e-05,2.3128632e-07,78.08695652173913,32.55813953488372,16,0,REVIEW,XGBoost confidence below threshold,Insufficient supporting evidence
+TXN-6473,INV-0171,6.884253e-05,4.793368e-05,0.12004801920768307,27.77777777777777,170,0,REVIEW,XGBoost confidence below threshold,Exact/near-exact amount
+TXN-6474,INV-0086,2.0908848e-05,0.0,71.87127532777116,35.55555555555556,15,0,REVIEW,XGBoost confidence below threshold,Insufficient supporting evidence
+TXN-6475,INV-0324,2.0908848e-05,0.0,73.80952380952381,37.5,15,0,REVIEW,XGBoost confidence below threshold,Insufficient supporting evidence
+TXN-6476,INV-0439,1.29015025e-05,0.0,53.3999048977651,27.906976744186053,15,0,REVIEW,XGBoost confidence below threshold,Insufficient supporting evidence
+TXN-6477,INV-0447,2.405455e-05,1.7652801e-06,72.83263792304126,38.297872340425535,15,0,REVIEW,XGBoost confidence below threshold,Insufficient supporting evidence
+TXN-6478,INV-0393,6.0070392e-06,0.0,25.198938992042443,31.818181818181813,16,0,REVIEW,XGBoost confidence below threshold,Insufficient supporting evidence
+TXN-6479,INV-0138,1.5939766e-05,4.082176e-08,63.4024303073624,38.095238095238095,13,0,REVIEW,XGBoost confidence below threshold,Insufficient supporting evidence
+TXN-6480,INV-0417,5.074224e-06,0.0,99.08523908523908,36.36363636363637,15,0,REVIEW,XGBoost confidence below threshold,Insufficient supporting evidence
+TXN-6481,INV-0121,5.7780494e-06,1.3234558e-07,99.68494013862635,38.095238095238095,16,0,REVIEW,XGBoost confidence below threshold,Insufficient supporting evidence
+TXN-6482,INV-0200,1.29015025e-05,0.0,99.77954144620811,30.0,15,0,REVIEW,XGBoost confidence below threshold,Insufficient supporting evidence
