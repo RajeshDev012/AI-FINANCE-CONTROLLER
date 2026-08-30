@@ -1,4 +1,4 @@
-# 💰 AI Finance Controller
+# 💶 AI Finance Controller
 
 ### Hybrid XGBoost Financial Reconciliation System
 
