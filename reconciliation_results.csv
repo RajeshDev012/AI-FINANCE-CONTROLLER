@@ -219,190 +219,190 @@ TXN-6334,INV-0146,82.11,MATCH,0.0,0.0,13,100.0,False,62.48,19.63,Exact amount + 
 TXN-6352,INV-0433,82.11,MATCH,0.0,0.0,13,100.0,False,57.92,24.19,Exact amount + strong vendor similarity + close date
 TXN-6371,INV-0440,82.11,MATCH,0.0,0.0,13,100.0,False,56.9,25.21,Exact amount + strong vendor similarity + close date
 TXN-6431,INV-0272,82.11,REVIEW,0.0,0.0,13,100.0,False,77.34,4.77,Ambiguous: competing invoice candidates have similar evidence
-TXN-6040,INV-0172,81.89,REVIEW,0.0,0.0,14,100.0,False,69.18,12.71,Vendor/date evidence insufficient for automatic match
-TXN-6121,INV-0112,81.89,REVIEW,0.0,0.0,14,100.0,False,63.59,18.3,Vendor/date evidence insufficient for automatic match
-TXN-6166,INV-0193,81.89,REVIEW,0.0,0.0,14,100.0,False,69.32,12.57,Vendor/date evidence insufficient for automatic match
+TXN-6040,INV-0172,81.89,REVIEW,0.0,0.0,14,100.0,False,69.18,12.71,Evidence insufficient for safe automatic reconciliation
+TXN-6121,INV-0112,81.89,REVIEW,0.0,0.0,14,100.0,False,63.59,18.3,Evidence insufficient for safe automatic reconciliation
+TXN-6166,INV-0193,81.89,REVIEW,0.0,0.0,14,100.0,False,69.32,12.57,Evidence insufficient for safe automatic reconciliation
 TXN-6229,INV-0461,81.89,REVIEW,0.0,0.0,14,100.0,False,76.85,5.04,Ambiguous: competing invoice candidates have similar evidence
-TXN-6245,INV-0459,81.89,REVIEW,0.0,0.0,14,100.0,False,56.25,25.64,Vendor/date evidence insufficient for automatic match
-TXN-6284,INV-0470,81.89,REVIEW,0.0,0.0,14,100.0,False,72.34,9.55,Vendor/date evidence insufficient for automatic match
-TXN-6290,INV-0226,81.89,REVIEW,0.0,0.0,14,100.0,False,57.3,24.59,Vendor/date evidence insufficient for automatic match
-TXN-6358,INV-0450,81.89,REVIEW,0.0,0.0,14,100.0,False,66.98,14.91,Vendor/date evidence insufficient for automatic match
+TXN-6245,INV-0459,81.89,REVIEW,0.0,0.0,14,100.0,False,56.25,25.64,Evidence insufficient for safe automatic reconciliation
+TXN-6284,INV-0470,81.89,REVIEW,0.0,0.0,14,100.0,False,72.34,9.55,Evidence insufficient for safe automatic reconciliation
+TXN-6290,INV-0226,81.89,REVIEW,0.0,0.0,14,100.0,False,57.3,24.59,Evidence insufficient for safe automatic reconciliation
+TXN-6358,INV-0450,81.89,REVIEW,0.0,0.0,14,100.0,False,66.98,14.91,Evidence insufficient for safe automatic reconciliation
 TXN-6455,INV-0017,81.89,REVIEW,0.0,0.0,14,100.0,False,63.67,18.22,Invoice already assigned; possible duplicate payment
-TXN-6039,INV-0043,81.67,REVIEW,0.0,0.0,15,100.0,False,58.03,23.64,Vendor/date evidence insufficient for automatic match
-TXN-6065,INV-0182,81.67,REVIEW,0.0,0.0,15,100.0,False,73.67,8.0,Vendor/date evidence insufficient for automatic match
-TXN-6084,INV-0441,81.67,REVIEW,0.0,0.0,15,100.0,False,69.98,11.69,Vendor/date evidence insufficient for automatic match
-TXN-6124,INV-0355,81.67,REVIEW,0.0,0.0,15,100.0,False,61.97,19.7,Vendor/date evidence insufficient for automatic match
-TXN-6138,INV-0442,81.67,REVIEW,0.0,0.0,15,100.0,False,67.75,13.92,Vendor/date evidence insufficient for automatic match
-TXN-6176,INV-0133,81.67,REVIEW,0.0,0.0,15,100.0,False,68.56,13.11,Vendor/date evidence insufficient for automatic match
-TXN-6234,INV-0395,81.67,REVIEW,0.0,0.0,15,100.0,False,61.66,20.01,Vendor/date evidence insufficient for automatic match
-TXN-6283,INV-0439,81.67,REVIEW,0.0,0.0,15,100.0,False,60.62,21.05,Vendor/date evidence insufficient for automatic match
-TXN-6318,INV-0298,81.67,REVIEW,0.0,0.0,15,100.0,False,69.63,12.04,Vendor/date evidence insufficient for automatic match
+TXN-6039,INV-0043,81.67,REVIEW,0.0,0.0,15,100.0,False,58.03,23.64,Evidence insufficient for safe automatic reconciliation
+TXN-6065,INV-0182,81.67,REVIEW,0.0,0.0,15,100.0,False,73.67,8.0,Evidence insufficient for safe automatic reconciliation
+TXN-6084,INV-0441,81.67,REVIEW,0.0,0.0,15,100.0,False,69.98,11.69,Evidence insufficient for safe automatic reconciliation
+TXN-6124,INV-0355,81.67,REVIEW,0.0,0.0,15,100.0,False,61.97,19.7,Evidence insufficient for safe automatic reconciliation
+TXN-6138,INV-0442,81.67,REVIEW,0.0,0.0,15,100.0,False,67.75,13.92,Evidence insufficient for safe automatic reconciliation
+TXN-6176,INV-0133,81.67,REVIEW,0.0,0.0,15,100.0,False,68.56,13.11,Evidence insufficient for safe automatic reconciliation
+TXN-6234,INV-0395,81.67,REVIEW,0.0,0.0,15,100.0,False,61.66,20.01,Evidence insufficient for safe automatic reconciliation
+TXN-6283,INV-0439,81.67,REVIEW,0.0,0.0,15,100.0,False,60.62,21.05,Evidence insufficient for safe automatic reconciliation
+TXN-6318,INV-0298,81.67,REVIEW,0.0,0.0,15,100.0,False,69.63,12.04,Evidence insufficient for safe automatic reconciliation
 TXN-6330,INV-0326,81.67,REVIEW,0.0,0.0,15,100.0,False,74.1,7.57,Ambiguous: competing invoice candidates have similar evidence
-TXN-6342,INV-0452,81.67,REVIEW,0.0,0.0,15,100.0,False,59.71,21.96,Vendor/date evidence insufficient for automatic match
+TXN-6342,INV-0452,81.67,REVIEW,0.0,0.0,15,100.0,False,59.71,21.96,Evidence insufficient for safe automatic reconciliation
 TXN-6375,INV-0420,81.67,REVIEW,0.0,0.0,15,100.0,False,74.35,7.32,Ambiguous: competing invoice candidates have similar evidence
-TXN-6142,INV-0044,81.44,REVIEW,0.0,0.0,16,100.0,False,71.97,9.47,Vendor/date evidence insufficient for automatic match
+TXN-6142,INV-0044,81.44,REVIEW,0.0,0.0,16,100.0,False,71.97,9.47,Evidence insufficient for safe automatic reconciliation
 TXN-6148,INV-0007,81.44,REVIEW,0.0,0.0,16,100.0,False,74.54,6.9,Ambiguous: competing invoice candidates have similar evidence
-TXN-6191,INV-0320,81.44,REVIEW,0.0,0.0,16,100.0,False,50.86,30.58,Vendor/date evidence insufficient for automatic match
-TXN-6263,INV-0215,81.44,REVIEW,0.0,0.0,16,100.0,False,56.86,24.58,Vendor/date evidence insufficient for automatic match
-TXN-6265,INV-0300,81.44,REVIEW,0.0,0.0,16,100.0,False,64.43,17.01,Vendor/date evidence insufficient for automatic match
-TXN-6273,INV-0357,81.44,REVIEW,0.0,0.0,16,100.0,False,69.0,12.44,Vendor/date evidence insufficient for automatic match
-TXN-6328,INV-0485,81.44,REVIEW,0.0,0.0,16,100.0,False,55.31,26.13,Vendor/date evidence insufficient for automatic match
-TXN-6190,INV-0437,81.36,REVIEW,0.0,0.0,12,96.77,False,58.89,22.47,Vendor/date evidence insufficient for automatic match
-TXN-6030,INV-0396,81.22,REVIEW,0.0,0.0,17,100.0,False,73.07,8.15,Vendor/date evidence insufficient for automatic match
-TXN-6033,INV-0078,81.22,REVIEW,0.0,0.0,17,100.0,False,67.74,13.48,Vendor/date evidence insufficient for automatic match
-TXN-6038,INV-0465,81.22,REVIEW,0.0,0.0,17,100.0,False,49.14,32.08,Vendor/date evidence insufficient for automatic match
-TXN-6119,INV-0234,81.22,REVIEW,0.0,0.0,17,100.0,False,70.22,11.0,Vendor/date evidence insufficient for automatic match
-TXN-6146,INV-0221,81.22,REVIEW,0.0,0.0,17,100.0,False,53.28,27.94,Vendor/date evidence insufficient for automatic match
-TXN-6177,INV-0385,81.22,REVIEW,0.0,0.0,17,100.0,False,57.12,24.1,Vendor/date evidence insufficient for automatic match
-TXN-6223,INV-0111,81.22,REVIEW,0.0,0.0,17,100.0,False,72.22,9.0,Vendor/date evidence insufficient for automatic match
+TXN-6191,INV-0320,81.44,REVIEW,0.0,0.0,16,100.0,False,50.86,30.58,Evidence insufficient for safe automatic reconciliation
+TXN-6263,INV-0215,81.44,REVIEW,0.0,0.0,16,100.0,False,56.86,24.58,Evidence insufficient for safe automatic reconciliation
+TXN-6265,INV-0300,81.44,REVIEW,0.0,0.0,16,100.0,False,64.43,17.01,Evidence insufficient for safe automatic reconciliation
+TXN-6273,INV-0357,81.44,REVIEW,0.0,0.0,16,100.0,False,69.0,12.44,Evidence insufficient for safe automatic reconciliation
+TXN-6328,INV-0485,81.44,REVIEW,0.0,0.0,16,100.0,False,55.31,26.13,Evidence insufficient for safe automatic reconciliation
+TXN-6190,INV-0437,81.36,REVIEW,0.0,0.0,12,96.77,False,58.89,22.47,Evidence insufficient for safe automatic reconciliation
+TXN-6030,INV-0396,81.22,REVIEW,0.0,0.0,17,100.0,False,73.07,8.15,Evidence insufficient for safe automatic reconciliation
+TXN-6033,INV-0078,81.22,REVIEW,0.0,0.0,17,100.0,False,67.74,13.48,Evidence insufficient for safe automatic reconciliation
+TXN-6038,INV-0465,81.22,REVIEW,0.0,0.0,17,100.0,False,49.14,32.08,Evidence insufficient for safe automatic reconciliation
+TXN-6119,INV-0234,81.22,REVIEW,0.0,0.0,17,100.0,False,70.22,11.0,Evidence insufficient for safe automatic reconciliation
+TXN-6146,INV-0221,81.22,REVIEW,0.0,0.0,17,100.0,False,53.28,27.94,Evidence insufficient for safe automatic reconciliation
+TXN-6177,INV-0385,81.22,REVIEW,0.0,0.0,17,100.0,False,57.12,24.1,Evidence insufficient for safe automatic reconciliation
+TXN-6223,INV-0111,81.22,REVIEW,0.0,0.0,17,100.0,False,72.22,9.0,Evidence insufficient for safe automatic reconciliation
 TXN-6297,INV-0126,81.22,REVIEW,0.0,0.0,17,100.0,False,74.54,6.68,Ambiguous: competing invoice candidates have similar evidence
 TXN-6446,INV-0231,81.22,REVIEW,0.0,0.0,2,88.89,False,60.08,21.14,Invoice already assigned; possible duplicate payment
 TXN-6058,INV-0202,81.14,REVIEW,0.0,0.0,13,96.77,False,78.49,2.65,Ambiguous: competing invoice candidates have similar evidence
-TXN-6027,INV-0021,81.0,REVIEW,0.0,0.0,18,100.0,False,65.53,15.47,Vendor/date evidence insufficient for automatic match
-TXN-6057,INV-0410,81.0,REVIEW,0.0,0.0,18,100.0,False,69.69,11.31,Vendor/date evidence insufficient for automatic match
-TXN-6068,INV-0139,81.0,REVIEW,0.0,0.0,18,100.0,False,61.91,19.09,Vendor/date evidence insufficient for automatic match
+TXN-6027,INV-0021,81.0,REVIEW,0.0,0.0,18,100.0,False,65.53,15.47,Evidence insufficient for safe automatic reconciliation
+TXN-6057,INV-0410,81.0,REVIEW,0.0,0.0,18,100.0,False,69.69,11.31,Evidence insufficient for safe automatic reconciliation
+TXN-6068,INV-0139,81.0,REVIEW,0.0,0.0,18,100.0,False,61.91,19.09,Evidence insufficient for safe automatic reconciliation
 TXN-6118,INV-0379,81.0,REVIEW,0.0,0.0,18,100.0,False,75.0,6.0,Ambiguous: competing invoice candidates have similar evidence
 TXN-6128,INV-0053,81.0,REVIEW,0.0,0.0,18,100.0,False,77.02,3.98,Ambiguous: competing invoice candidates have similar evidence
-TXN-6130,INV-0174,81.0,REVIEW,0.0,0.0,18,100.0,False,71.93,9.07,Vendor/date evidence insufficient for automatic match
-TXN-6150,INV-0107,81.0,REVIEW,0.0,0.0,18,100.0,False,44.58,36.42,Vendor/date evidence insufficient for automatic match
-TXN-6179,INV-0036,81.0,REVIEW,0.0,0.0,18,100.0,False,63.96,17.04,Vendor/date evidence insufficient for automatic match
-TXN-6183,INV-0332,81.0,REVIEW,0.0,0.0,18,100.0,False,72.21,8.79,Vendor/date evidence insufficient for automatic match
+TXN-6130,INV-0174,81.0,REVIEW,0.0,0.0,18,100.0,False,71.93,9.07,Evidence insufficient for safe automatic reconciliation
+TXN-6150,INV-0107,81.0,REVIEW,0.0,0.0,18,100.0,False,44.58,36.42,Evidence insufficient for safe automatic reconciliation
+TXN-6179,INV-0036,81.0,REVIEW,0.0,0.0,18,100.0,False,63.96,17.04,Evidence insufficient for safe automatic reconciliation
+TXN-6183,INV-0332,81.0,REVIEW,0.0,0.0,18,100.0,False,72.21,8.79,Evidence insufficient for safe automatic reconciliation
 TXN-6205,INV-0099,81.0,REVIEW,0.0,0.0,18,100.0,False,73.48,7.52,Ambiguous: competing invoice candidates have similar evidence
-TXN-6216,INV-0498,81.0,REVIEW,0.0,0.0,18,100.0,False,53.25,27.75,Vendor/date evidence insufficient for automatic match
-TXN-6279,INV-0451,81.0,REVIEW,0.0,0.0,18,100.0,False,62.51,18.49,Vendor/date evidence insufficient for automatic match
+TXN-6216,INV-0498,81.0,REVIEW,0.0,0.0,18,100.0,False,53.25,27.75,Evidence insufficient for safe automatic reconciliation
+TXN-6279,INV-0451,81.0,REVIEW,0.0,0.0,18,100.0,False,62.51,18.49,Evidence insufficient for safe automatic reconciliation
 TXN-6282,INV-0483,81.0,REVIEW,0.0,0.0,18,100.0,False,74.08,6.92,Ambiguous: competing invoice candidates have similar evidence
-TXN-6037,INV-0192,80.78,REVIEW,0.0,0.0,19,100.0,False,66.69,14.09,Vendor/date evidence insufficient for automatic match
-TXN-6076,INV-0170,80.78,REVIEW,0.0,0.0,19,100.0,False,72.45,8.33,Vendor/date evidence insufficient for automatic match
-TXN-6145,INV-0469,80.78,REVIEW,0.0,0.0,19,100.0,False,30.14,50.64,Vendor/date evidence insufficient for automatic match
-TXN-6155,INV-0281,80.78,REVIEW,0.0,0.0,19,100.0,False,63.64,17.14,Vendor/date evidence insufficient for automatic match
-TXN-6204,INV-0244,80.78,REVIEW,0.0,0.0,19,100.0,False,69.68,11.1,Vendor/date evidence insufficient for automatic match
-TXN-6226,INV-0003,80.78,REVIEW,0.0,0.0,19,100.0,False,52.59,28.19,Vendor/date evidence insufficient for automatic match
-TXN-6274,INV-0124,80.78,REVIEW,0.0,0.0,19,100.0,False,71.85,8.93,Vendor/date evidence insufficient for automatic match
-TXN-6293,INV-0394,80.78,REVIEW,0.0,0.0,19,100.0,False,54.24,26.54,Vendor/date evidence insufficient for automatic match
+TXN-6037,INV-0192,80.78,REVIEW,0.0,0.0,19,100.0,False,66.69,14.09,Evidence insufficient for safe automatic reconciliation
+TXN-6076,INV-0170,80.78,REVIEW,0.0,0.0,19,100.0,False,72.45,8.33,Evidence insufficient for safe automatic reconciliation
+TXN-6145,INV-0469,80.78,REVIEW,0.0,0.0,19,100.0,False,30.14,50.64,Evidence insufficient for safe automatic reconciliation
+TXN-6155,INV-0281,80.78,REVIEW,0.0,0.0,19,100.0,False,63.64,17.14,Evidence insufficient for safe automatic reconciliation
+TXN-6204,INV-0244,80.78,REVIEW,0.0,0.0,19,100.0,False,69.68,11.1,Evidence insufficient for safe automatic reconciliation
+TXN-6226,INV-0003,80.78,REVIEW,0.0,0.0,19,100.0,False,52.59,28.19,Evidence insufficient for safe automatic reconciliation
+TXN-6274,INV-0124,80.78,REVIEW,0.0,0.0,19,100.0,False,71.85,8.93,Evidence insufficient for safe automatic reconciliation
+TXN-6293,INV-0394,80.78,REVIEW,0.0,0.0,19,100.0,False,54.24,26.54,Evidence insufficient for safe automatic reconciliation
 TXN-6315,INV-0453,80.78,REVIEW,0.0,0.0,19,100.0,False,73.08,7.7,Ambiguous: competing invoice candidates have similar evidence
 TXN-6329,INV-0352,80.78,REVIEW,0.0,0.0,19,100.0,False,77.36,3.42,Ambiguous: competing invoice candidates have similar evidence
 TXN-6444,INV-0190,80.78,REVIEW,0.0,0.0,4,88.89,False,77.34,3.44,Invoice already assigned; possible duplicate payment
-TXN-6096,INV-0339,80.73,REVIEW,0.0,0.0,1,86.49,False,64.33,16.4,Vendor/date evidence insufficient for automatic match
-TXN-6029,INV-0114,80.56,REVIEW,0.0,0.0,20,100.0,False,71.87,8.69,Vendor/date evidence insufficient for automatic match
-TXN-6062,INV-0336,80.56,REVIEW,0.0,0.0,20,100.0,False,71.4,9.16,Vendor/date evidence insufficient for automatic match
+TXN-6096,INV-0339,80.73,REVIEW,0.0,0.0,1,86.49,False,64.33,16.4,Evidence insufficient for safe automatic reconciliation
+TXN-6029,INV-0114,80.56,REVIEW,0.0,0.0,20,100.0,False,71.87,8.69,Evidence insufficient for safe automatic reconciliation
+TXN-6062,INV-0336,80.56,REVIEW,0.0,0.0,20,100.0,False,71.4,9.16,Evidence insufficient for safe automatic reconciliation
 TXN-6092,INV-0474,80.56,REVIEW,0.0,0.0,20,100.0,False,72.83,7.73,Ambiguous: competing invoice candidates have similar evidence
-TXN-6125,INV-0100,80.56,REVIEW,0.0,0.0,20,100.0,False,72.32,8.24,Vendor/date evidence insufficient for automatic match
-TXN-6252,INV-0262,80.56,REVIEW,0.0,0.0,20,100.0,False,63.09,17.47,Vendor/date evidence insufficient for automatic match
-TXN-6256,INV-0431,80.56,REVIEW,0.0,0.0,20,100.0,False,60.88,19.68,Vendor/date evidence insufficient for automatic match
-TXN-6261,INV-0472,80.56,REVIEW,0.0,0.0,20,100.0,False,59.41,21.15,Vendor/date evidence insufficient for automatic match
+TXN-6125,INV-0100,80.56,REVIEW,0.0,0.0,20,100.0,False,72.32,8.24,Evidence insufficient for safe automatic reconciliation
+TXN-6252,INV-0262,80.56,REVIEW,0.0,0.0,20,100.0,False,63.09,17.47,Evidence insufficient for safe automatic reconciliation
+TXN-6256,INV-0431,80.56,REVIEW,0.0,0.0,20,100.0,False,60.88,19.68,Evidence insufficient for safe automatic reconciliation
+TXN-6261,INV-0472,80.56,REVIEW,0.0,0.0,20,100.0,False,59.41,21.15,Evidence insufficient for safe automatic reconciliation
 TXN-6348,INV-0376,80.56,REVIEW,0.0,0.0,20,100.0,False,74.05,6.51,Ambiguous: competing invoice candidates have similar evidence
-TXN-6355,INV-0265,80.56,REVIEW,0.0,0.0,20,100.0,False,67.66,12.9,Vendor/date evidence insufficient for automatic match
-TXN-6199,INV-0160,80.48,REVIEW,0.0,0.0,16,96.77,False,50.06,30.42,Vendor/date evidence insufficient for automatic match
-TXN-6009,INV-0367,80.33,REVIEW,0.0,0.0,6,88.89,False,57.62,22.71,Vendor/date evidence insufficient for automatic match
-TXN-6277,INV-0264,80.33,REVIEW,0.0,0.0,6,88.89,False,57.71,22.62,Vendor/date evidence insufficient for automatic match
+TXN-6355,INV-0265,80.56,REVIEW,0.0,0.0,20,100.0,False,67.66,12.9,Evidence insufficient for safe automatic reconciliation
+TXN-6199,INV-0160,80.48,REVIEW,0.0,0.0,16,96.77,False,50.06,30.42,Evidence insufficient for safe automatic reconciliation
+TXN-6009,INV-0367,80.33,REVIEW,0.0,0.0,6,88.89,False,57.62,22.71,Evidence insufficient for safe automatic reconciliation
+TXN-6277,INV-0264,80.33,REVIEW,0.0,0.0,6,88.89,False,57.71,22.62,Evidence insufficient for safe automatic reconciliation
 TXN-6435,INV-0294,80.33,REVIEW,0.0,0.0,6,88.89,False,50.62,29.71,Invoice already assigned; possible duplicate payment
-TXN-6154,INV-0005,80.28,REVIEW,0.0,0.0,3,86.49,False,70.46,9.82,Vendor/date evidence insufficient for automatic match
-TXN-6299,INV-0155,80.27,REVIEW,0.0,0.0,2,85.71,False,63.11,17.16,Vendor/date evidence insufficient for automatic match
-TXN-6137,INV-0009,80.05,REVIEW,0.0,0.0,3,85.71,False,67.11,12.94,Vendor/date evidence insufficient for automatic match
-TXN-6291,INV-0425,79.84,REVIEW,0.0,0.0,5,86.49,False,62.43,17.41,Vendor/date evidence insufficient for automatic match
-TXN-6005,INV-0247,79.82,REVIEW,0.0,0.0,4,85.71,False,64.33,15.49,Vendor/date evidence insufficient for automatic match
+TXN-6154,INV-0005,80.28,REVIEW,0.0,0.0,3,86.49,False,70.46,9.82,Evidence insufficient for safe automatic reconciliation
+TXN-6299,INV-0155,80.27,REVIEW,0.0,0.0,2,85.71,False,63.11,17.16,Evidence insufficient for safe automatic reconciliation
+TXN-6137,INV-0009,80.05,REVIEW,0.0,0.0,3,85.71,False,67.11,12.94,Evidence insufficient for safe automatic reconciliation
+TXN-6291,INV-0425,79.84,REVIEW,0.0,0.0,5,86.49,False,62.43,17.41,Evidence insufficient for safe automatic reconciliation
+TXN-6005,INV-0247,79.82,REVIEW,0.0,0.0,4,85.71,False,64.33,15.49,Evidence insufficient for safe automatic reconciliation
 TXN-6440,INV-0495,79.82,REVIEW,0.0,0.0,4,85.71,False,69.94,9.88,Invoice already assigned; possible duplicate payment
-TXN-6114,INV-0279,79.67,REVIEW,0.0,0.0,9,88.89,False,56.93,22.74,Vendor/date evidence insufficient for automatic match
-TXN-6337,INV-0116,79.6,REVIEW,0.0,0.0,5,85.71,False,70.86,8.74,Vendor/date evidence insufficient for automatic match
-TXN-6259,INV-0360,79.38,REVIEW,0.0,0.0,6,85.71,False,70.41,8.97,Vendor/date evidence insufficient for automatic match
-TXN-6266,INV-0026,79.38,REVIEW,0.0,0.0,6,85.71,False,67.06,12.32,Vendor/date evidence insufficient for automatic match
-TXN-6339,INV-0083,79.32,REVIEW,0.0,0.0,1,81.82,False,61.56,17.76,Vendor/date evidence insufficient for automatic match
+TXN-6114,INV-0279,79.67,REVIEW,0.0,0.0,9,88.89,False,56.93,22.74,Evidence insufficient for safe automatic reconciliation
+TXN-6337,INV-0116,79.6,REVIEW,0.0,0.0,5,85.71,False,70.86,8.74,Evidence insufficient for safe automatic reconciliation
+TXN-6259,INV-0360,79.38,REVIEW,0.0,0.0,6,85.71,False,70.41,8.97,Evidence insufficient for safe automatic reconciliation
+TXN-6266,INV-0026,79.38,REVIEW,0.0,0.0,6,85.71,False,67.06,12.32,Evidence insufficient for safe automatic reconciliation
+TXN-6339,INV-0083,79.32,REVIEW,0.0,0.0,1,81.82,False,61.56,17.76,Evidence insufficient for safe automatic reconciliation
 TXN-6249,INV-0417,79.22,REVIEW,0.0,0.0,11,88.89,False,79.06,0.16,Ambiguous: competing invoice candidates have similar evidence
 TXN-6437,INV-0040,79.22,REVIEW,0.0,0.0,11,88.89,False,62.56,16.66,Invoice already assigned; possible duplicate payment
-TXN-6165,INV-0158,79.0,REVIEW,0.0,0.0,12,88.89,False,55.48,23.52,Vendor/date evidence insufficient for automatic match
+TXN-6165,INV-0158,79.0,REVIEW,0.0,0.0,12,88.89,False,55.48,23.52,Evidence insufficient for safe automatic reconciliation
 TXN-6087,INV-0259,78.93,REVIEW,0.0,0.0,8,85.71,False,74.77,4.16,Ambiguous: competing invoice candidates have similar evidence
-TXN-6210,INV-0267,78.93,REVIEW,0.0,0.0,8,85.71,False,64.75,14.18,Vendor/date evidence insufficient for automatic match
-TXN-6238,INV-0013,78.93,REVIEW,0.0,0.0,8,85.71,False,66.71,12.22,Vendor/date evidence insufficient for automatic match
-TXN-6369,INV-0369,78.62,REVIEW,0.0,0.0,3,80.95,False,62.14,16.48,Vendor/date evidence insufficient for automatic match
-TXN-6110,INV-0423,78.49,REVIEW,0.0,0.0,10,85.71,False,68.21,10.28,Vendor/date evidence insufficient for automatic match
-TXN-6372,INV-0159,78.49,REVIEW,0.0,0.0,10,85.71,False,67.5,10.99,Vendor/date evidence insufficient for automatic match
+TXN-6210,INV-0267,78.93,REVIEW,0.0,0.0,8,85.71,False,64.75,14.18,Evidence insufficient for safe automatic reconciliation
+TXN-6238,INV-0013,78.93,REVIEW,0.0,0.0,8,85.71,False,66.71,12.22,Evidence insufficient for safe automatic reconciliation
+TXN-6369,INV-0369,78.62,REVIEW,0.0,0.0,3,80.95,False,62.14,16.48,Evidence insufficient for safe automatic reconciliation
+TXN-6110,INV-0423,78.49,REVIEW,0.0,0.0,10,85.71,False,68.21,10.28,Evidence insufficient for safe automatic reconciliation
+TXN-6372,INV-0159,78.49,REVIEW,0.0,0.0,10,85.71,False,67.5,10.99,Evidence insufficient for safe automatic reconciliation
 TXN-6430,INV-0272,78.49,REVIEW,0.0,0.0,10,85.71,False,73.72,4.77,Ambiguous: competing invoice candidates have similar evidence
-TXN-6217,INV-0104,78.44,REVIEW,0.0,0.0,4,81.08,False,55.15,23.29,Vendor/date evidence insufficient for automatic match
-TXN-6060,INV-0454,78.43,REVIEW,0.0,0.0,5,81.82,False,62.32,16.11,Vendor/date evidence insufficient for automatic match
-TXN-6187,INV-0051,78.43,REVIEW,0.0,0.0,5,81.82,False,63.97,14.46,Vendor/date evidence insufficient for automatic match
-TXN-6327,INV-0362,78.4,REVIEW,0.0,0.0,4,80.95,False,64.67,13.73,Vendor/date evidence insufficient for automatic match
-TXN-6111,INV-0167,78.27,REVIEW,0.0,0.0,11,85.71,False,58.95,19.32,Vendor/date evidence insufficient for automatic match
+TXN-6217,INV-0104,78.44,REVIEW,0.0,0.0,4,81.08,False,55.15,23.29,Evidence insufficient for safe automatic reconciliation
+TXN-6060,INV-0454,78.43,REVIEW,0.0,0.0,5,81.82,False,62.32,16.11,Evidence insufficient for safe automatic reconciliation
+TXN-6187,INV-0051,78.43,REVIEW,0.0,0.0,5,81.82,False,63.97,14.46,Evidence insufficient for safe automatic reconciliation
+TXN-6327,INV-0362,78.4,REVIEW,0.0,0.0,4,80.95,False,64.67,13.73,Evidence insufficient for safe automatic reconciliation
+TXN-6111,INV-0167,78.27,REVIEW,0.0,0.0,11,85.71,False,58.95,19.32,Evidence insufficient for safe automatic reconciliation
 TXN-6231,INV-0260,78.27,REVIEW,0.0,0.0,11,85.71,False,73.62,4.65,Ambiguous: competing invoice candidates have similar evidence
-TXN-6170,INV-0084,78.21,REVIEW,0.0,0.0,5,81.08,False,66.98,11.23,Vendor/date evidence insufficient for automatic match
+TXN-6170,INV-0084,78.21,REVIEW,0.0,0.0,5,81.08,False,66.98,11.23,Evidence insufficient for safe automatic reconciliation
 TXN-6018,INV-0380,78.05,REVIEW,0.0,0.0,12,85.71,False,70.31,7.74,Ambiguous: competing invoice candidates have similar evidence
-TXN-6116,INV-0273,78.05,REVIEW,0.0,0.0,12,85.71,False,63.83,14.22,Vendor/date evidence insufficient for automatic match
-TXN-6254,INV-0132,78.05,REVIEW,0.0,0.0,12,85.71,False,59.75,18.3,Vendor/date evidence insufficient for automatic match
+TXN-6116,INV-0273,78.05,REVIEW,0.0,0.0,12,85.71,False,63.83,14.22,Evidence insufficient for safe automatic reconciliation
+TXN-6254,INV-0132,78.05,REVIEW,0.0,0.0,12,85.71,False,59.75,18.3,Evidence insufficient for safe automatic reconciliation
 TXN-6324,INV-0487,78.05,REVIEW,0.0,0.0,12,85.71,False,70.54,7.51,Ambiguous: competing invoice candidates have similar evidence
-TXN-6099,INV-0162,77.99,REVIEW,0.0,0.0,7,81.82,False,63.48,14.51,Vendor/date evidence insufficient for automatic match
-TXN-6020,INV-0052,77.61,REVIEW,0.0,0.0,15,86.49,False,65.56,12.05,Vendor/date evidence insufficient for automatic match
-TXN-6287,INV-0238,77.61,REVIEW,0.0,0.0,15,86.49,False,57.02,20.59,Vendor/date evidence insufficient for automatic match
+TXN-6099,INV-0162,77.99,REVIEW,0.0,0.0,7,81.82,False,63.48,14.51,Evidence insufficient for safe automatic reconciliation
+TXN-6020,INV-0052,77.61,REVIEW,0.0,0.0,15,86.49,False,65.56,12.05,Evidence insufficient for safe automatic reconciliation
+TXN-6287,INV-0238,77.61,REVIEW,0.0,0.0,15,86.49,False,57.02,20.59,Evidence insufficient for safe automatic reconciliation
 TXN-6332,INV-0129,77.6,REVIEW,0.0,0.0,14,85.71,False,71.82,5.78,Ambiguous: competing invoice candidates have similar evidence
-TXN-6024,INV-0353,77.51,REVIEW,0.0,0.0,8,80.95,False,65.99,11.52,Vendor/date evidence insufficient for automatic match
-TXN-6115,INV-0464,77.39,REVIEW,0.0,0.0,16,86.49,False,69.24,8.15,Vendor/date evidence insufficient for automatic match
-TXN-6036,INV-0468,77.38,REVIEW,0.0,0.0,15,85.71,False,64.76,12.62,Vendor/date evidence insufficient for automatic match
-TXN-6164,INV-0077,77.38,REVIEW,0.0,0.0,15,85.71,False,61.19,16.19,Vendor/date evidence insufficient for automatic match
-TXN-6196,INV-0292,77.38,REVIEW,0.0,0.0,15,85.71,False,54.33,23.05,Vendor/date evidence insufficient for automatic match
-TXN-6014,INV-0482,77.32,REVIEW,0.0,0.0,9,81.08,False,65.25,12.07,Vendor/date evidence insufficient for automatic match
-TXN-6174,INV-0481,77.28,REVIEW,0.0,0.0,9,80.95,False,56.05,21.23,Vendor/date evidence insufficient for automatic match
+TXN-6024,INV-0353,77.51,REVIEW,0.0,0.0,8,80.95,False,65.99,11.52,Evidence insufficient for safe automatic reconciliation
+TXN-6115,INV-0464,77.39,REVIEW,0.0,0.0,16,86.49,False,69.24,8.15,Evidence insufficient for safe automatic reconciliation
+TXN-6036,INV-0468,77.38,REVIEW,0.0,0.0,15,85.71,False,64.76,12.62,Evidence insufficient for safe automatic reconciliation
+TXN-6164,INV-0077,77.38,REVIEW,0.0,0.0,15,85.71,False,61.19,16.19,Evidence insufficient for safe automatic reconciliation
+TXN-6196,INV-0292,77.38,REVIEW,0.0,0.0,15,85.71,False,54.33,23.05,Evidence insufficient for safe automatic reconciliation
+TXN-6014,INV-0482,77.32,REVIEW,0.0,0.0,9,81.08,False,65.25,12.07,Evidence insufficient for safe automatic reconciliation
+TXN-6174,INV-0481,77.28,REVIEW,0.0,0.0,9,80.95,False,56.05,21.23,Evidence insufficient for safe automatic reconciliation
 TXN-6026,INV-0102,77.22,REVIEW,0.0,0.0,20,88.89,False,69.81,7.41,Ambiguous: competing invoice candidates have similar evidence
 TXN-6133,INV-0113,77.17,REVIEW,0.0,0.0,17,86.49,False,70.64,6.53,Ambiguous: competing invoice candidates have similar evidence
 TXN-6082,INV-0227,77.16,REVIEW,0.0,0.0,16,85.71,False,70.03,7.13,Ambiguous: competing invoice candidates have similar evidence
-TXN-6233,INV-0251,77.16,REVIEW,0.0,0.0,16,85.71,False,67.48,9.68,Vendor/date evidence insufficient for automatic match
-TXN-6333,INV-0041,77.16,REVIEW,0.0,0.0,16,85.71,False,66.42,10.74,Vendor/date evidence insufficient for automatic match
-TXN-6168,INV-0257,77.06,REVIEW,0.0,0.0,10,80.95,False,66.0,11.06,Vendor/date evidence insufficient for automatic match
-TXN-6184,INV-0319,76.93,REVIEW,0.0,0.0,17,85.71,False,63.88,13.05,Vendor/date evidence insufficient for automatic match
-TXN-6364,INV-0295,76.93,REVIEW,0.0,0.0,17,85.71,False,60.46,16.47,Vendor/date evidence insufficient for automatic match
-TXN-6157,INV-0145,76.88,REVIEW,0.0,0.0,11,81.08,False,57.18,19.7,Vendor/date evidence insufficient for automatic match
+TXN-6233,INV-0251,77.16,REVIEW,0.0,0.0,16,85.71,False,67.48,9.68,Evidence insufficient for safe automatic reconciliation
+TXN-6333,INV-0041,77.16,REVIEW,0.0,0.0,16,85.71,False,66.42,10.74,Evidence insufficient for safe automatic reconciliation
+TXN-6168,INV-0257,77.06,REVIEW,0.0,0.0,10,80.95,False,66.0,11.06,Evidence insufficient for safe automatic reconciliation
+TXN-6184,INV-0319,76.93,REVIEW,0.0,0.0,17,85.71,False,63.88,13.05,Evidence insufficient for safe automatic reconciliation
+TXN-6364,INV-0295,76.93,REVIEW,0.0,0.0,17,85.71,False,60.46,16.47,Evidence insufficient for safe automatic reconciliation
+TXN-6157,INV-0145,76.88,REVIEW,0.0,0.0,11,81.08,False,57.18,19.7,Evidence insufficient for safe automatic reconciliation
 TXN-6457,INV-0291,76.88,REVIEW,0.0,0.0,11,81.08,False,60.36,16.52,Invoice already assigned; possible duplicate payment
 TXN-6301,INV-0280,76.84,REVIEW,0.0,0.0,11,80.95,False,71.32,5.52,Ambiguous: competing invoice candidates have similar evidence
-TXN-6034,INV-0125,76.71,REVIEW,0.0,0.0,18,85.71,False,67.64,9.07,Vendor/date evidence insufficient for automatic match
-TXN-6094,INV-0491,76.71,REVIEW,0.0,0.0,18,85.71,False,64.51,12.2,Vendor/date evidence insufficient for automatic match
-TXN-6367,INV-0270,76.71,REVIEW,0.0,0.0,18,85.71,False,62.15,14.56,Vendor/date evidence insufficient for automatic match
+TXN-6034,INV-0125,76.71,REVIEW,0.0,0.0,18,85.71,False,67.64,9.07,Evidence insufficient for safe automatic reconciliation
+TXN-6094,INV-0491,76.71,REVIEW,0.0,0.0,18,85.71,False,64.51,12.2,Evidence insufficient for safe automatic reconciliation
+TXN-6367,INV-0270,76.71,REVIEW,0.0,0.0,18,85.71,False,62.15,14.56,Evidence insufficient for safe automatic reconciliation
 TXN-6054,INV-0347,76.66,REVIEW,0.0,0.0,13,81.82,False,69.04,7.62,Ambiguous: competing invoice candidates have similar evidence
-TXN-6262,INV-0436,76.66,REVIEW,0.0,0.0,13,81.82,False,55.07,21.59,Vendor/date evidence insufficient for automatic match
-TXN-6351,INV-0484,76.5,REVIEW,0.0,0.0,20,86.49,False,67.23,9.27,Vendor/date evidence insufficient for automatic match
-TXN-6344,INV-0064,76.49,REVIEW,0.0,0.0,19,85.71,False,67.88,8.61,Vendor/date evidence insufficient for automatic match
-TXN-6312,INV-0492,76.21,REVIEW,0.0,0.0,14,81.08,False,53.86,22.35,Vendor/date evidence insufficient for automatic match
+TXN-6262,INV-0436,76.66,REVIEW,0.0,0.0,13,81.82,False,55.07,21.59,Evidence insufficient for safe automatic reconciliation
+TXN-6351,INV-0484,76.5,REVIEW,0.0,0.0,20,86.49,False,67.23,9.27,Evidence insufficient for safe automatic reconciliation
+TXN-6344,INV-0064,76.49,REVIEW,0.0,0.0,19,85.71,False,67.88,8.61,Evidence insufficient for safe automatic reconciliation
+TXN-6312,INV-0492,76.21,REVIEW,0.0,0.0,14,81.08,False,53.86,22.35,Evidence insufficient for safe automatic reconciliation
 TXN-6340,INV-0085,76.21,REVIEW,0.0,0.0,15,81.82,False,68.87,7.34,Ambiguous: competing invoice candidates have similar evidence
-TXN-6004,INV-0424,75.99,REVIEW,0.0,0.0,15,81.08,False,61.53,14.46,Vendor/date evidence insufficient for automatic match
+TXN-6004,INV-0424,75.99,REVIEW,0.0,0.0,15,81.08,False,61.53,14.46,Evidence insufficient for safe automatic reconciliation
 TXN-6201,INV-0351,75.73,REVIEW,0.0,0.0,16,80.95,False,67.95,7.78,Ambiguous: competing invoice candidates have similar evidence
-TXN-6117,INV-0008,75.55,REVIEW,0.0,0.0,18,81.82,False,66.47,9.08,Vendor/date evidence insufficient for automatic match
-TXN-6311,INV-0015,75.55,REVIEW,0.0,0.0,18,81.82,False,65.64,9.91,Vendor/date evidence insufficient for automatic match
-TXN-6112,INV-0200,75.32,REVIEW,0.0,0.0,19,81.82,False,66.79,8.53,Vendor/date evidence insufficient for automatic match
-TXN-6107,INV-0201,75.06,REVIEW,0.0,0.0,19,80.95,False,56.94,18.12,Vendor/date evidence insufficient for automatic match
-TXN-6056,INV-0237,78.42,REVIEW,0.0,0.0,1,78.79,False,63.66,14.76,Vendor/date evidence insufficient for automatic match
-TXN-6159,INV-0271,78.24,REVIEW,0.0,0.0,2,78.95,False,0.0,78.24,Vendor/date evidence insufficient for automatic match
-TXN-6175,INV-0117,77.97,REVIEW,0.0,0.0,3,78.79,False,61.56,16.41,Vendor/date evidence insufficient for automatic match
-TXN-6097,INV-0316,77.8,REVIEW,0.0,0.0,4,78.95,False,59.74,18.06,Vendor/date evidence insufficient for automatic match
-TXN-6354,INV-0177,77.75,REVIEW,0.0,0.0,4,78.79,False,56.25,21.5,Vendor/date evidence insufficient for automatic match
-TXN-6012,INV-0224,77.35,REVIEW,0.0,0.0,6,78.95,False,59.63,17.72,Vendor/date evidence insufficient for automatic match
-TXN-6359,INV-0363,77.3,REVIEW,0.0,0.0,6,78.79,False,65.37,11.93,Vendor/date evidence insufficient for automatic match
-TXN-6448,INV-0489,77.13,REVIEW,0.0,0.0,7,78.95,False,62.79,14.34,Vendor/date evidence insufficient for automatic match
-TXN-6269,INV-0127,77.08,REVIEW,0.0,0.0,7,78.79,False,66.75,10.33,Vendor/date evidence insufficient for automatic match
-TXN-6140,INV-0330,77.06,REVIEW,0.0,0.0,2,75.0,False,56.5,20.56,Vendor/date evidence insufficient for automatic match
-TXN-6219,INV-0418,77.06,REVIEW,0.0,0.0,2,75.0,False,66.59,10.47,Vendor/date evidence insufficient for automatic match
-TXN-6241,INV-0056,76.86,REVIEW,0.0,0.0,8,78.79,False,62.11,14.75,Vendor/date evidence insufficient for automatic match
-TXN-6298,INV-0248,76.39,REVIEW,0.0,0.0,5,75.0,False,54.58,21.81,Vendor/date evidence insufficient for automatic match
-TXN-6449,INV-0489,76.24,REVIEW,0.0,0.0,11,78.95,False,62.79,13.45,Vendor/date evidence insufficient for automatic match
-TXN-6041,INV-0311,76.22,REVIEW,0.0,0.0,2,72.22,False,57.2,19.02,Vendor/date evidence insufficient for automatic match
+TXN-6117,INV-0008,75.55,REVIEW,0.0,0.0,18,81.82,False,66.47,9.08,Evidence insufficient for safe automatic reconciliation
+TXN-6311,INV-0015,75.55,REVIEW,0.0,0.0,18,81.82,False,65.64,9.91,Evidence insufficient for safe automatic reconciliation
+TXN-6112,INV-0200,75.32,REVIEW,0.0,0.0,19,81.82,False,66.79,8.53,Evidence insufficient for safe automatic reconciliation
+TXN-6107,INV-0201,75.06,REVIEW,0.0,0.0,19,80.95,False,56.94,18.12,Evidence insufficient for safe automatic reconciliation
+TXN-6056,INV-0237,78.42,REVIEW,0.0,0.0,1,78.79,False,63.66,14.76,Evidence insufficient for safe automatic reconciliation
+TXN-6159,INV-0271,78.24,REVIEW,0.0,0.0,2,78.95,False,0.0,78.24,Evidence insufficient for safe automatic reconciliation
+TXN-6175,INV-0117,77.97,REVIEW,0.0,0.0,3,78.79,False,61.56,16.41,Evidence insufficient for safe automatic reconciliation
+TXN-6097,INV-0316,77.8,REVIEW,0.0,0.0,4,78.95,False,59.74,18.06,Evidence insufficient for safe automatic reconciliation
+TXN-6354,INV-0177,77.75,REVIEW,0.0,0.0,4,78.79,False,56.25,21.5,Evidence insufficient for safe automatic reconciliation
+TXN-6012,INV-0224,77.35,REVIEW,0.0,0.0,6,78.95,False,59.63,17.72,Evidence insufficient for safe automatic reconciliation
+TXN-6359,INV-0363,77.3,REVIEW,0.0,0.0,6,78.79,False,65.37,11.93,Evidence insufficient for safe automatic reconciliation
+TXN-6448,INV-0489,77.13,REVIEW,0.0,0.0,7,78.95,False,62.79,14.34,Evidence insufficient for safe automatic reconciliation
+TXN-6269,INV-0127,77.08,REVIEW,0.0,0.0,7,78.79,False,66.75,10.33,Evidence insufficient for safe automatic reconciliation
+TXN-6140,INV-0330,77.06,REVIEW,0.0,0.0,2,75.0,False,56.5,20.56,Evidence insufficient for safe automatic reconciliation
+TXN-6219,INV-0418,77.06,REVIEW,0.0,0.0,2,75.0,False,66.59,10.47,Evidence insufficient for safe automatic reconciliation
+TXN-6241,INV-0056,76.86,REVIEW,0.0,0.0,8,78.79,False,62.11,14.75,Evidence insufficient for safe automatic reconciliation
+TXN-6298,INV-0248,76.39,REVIEW,0.0,0.0,5,75.0,False,54.58,21.81,Evidence insufficient for safe automatic reconciliation
+TXN-6449,INV-0489,76.24,REVIEW,0.0,0.0,11,78.95,False,62.79,13.45,Evidence insufficient for safe automatic reconciliation
+TXN-6041,INV-0311,76.22,REVIEW,0.0,0.0,2,72.22,False,57.2,19.02,Evidence insufficient for safe automatic reconciliation
 TXN-6001,INV-0020,76.19,REVIEW,0.0,0.0,11,78.79,False,68.33,7.86,Ambiguous: competing invoice candidates have similar evidence
-TXN-6242,INV-0062,76.17,REVIEW,0.0,0.0,6,75.0,False,67.47,8.7,Vendor/date evidence insufficient for automatic match
-TXN-6225,INV-0217,76.02,REVIEW,0.0,0.0,12,78.95,False,61.87,14.15,Vendor/date evidence insufficient for automatic match
-TXN-6050,INV-0276,75.97,REVIEW,0.0,0.0,12,78.79,False,56.59,19.38,Vendor/date evidence insufficient for automatic match
-TXN-6103,INV-0069,75.97,REVIEW,0.0,0.0,12,78.79,False,65.05,10.92,Vendor/date evidence insufficient for automatic match
+TXN-6242,INV-0062,76.17,REVIEW,0.0,0.0,6,75.0,False,67.47,8.7,Evidence insufficient for safe automatic reconciliation
+TXN-6225,INV-0217,76.02,REVIEW,0.0,0.0,12,78.95,False,61.87,14.15,Evidence insufficient for safe automatic reconciliation
+TXN-6050,INV-0276,75.97,REVIEW,0.0,0.0,12,78.79,False,56.59,19.38,Evidence insufficient for safe automatic reconciliation
+TXN-6103,INV-0069,75.97,REVIEW,0.0,0.0,12,78.79,False,65.05,10.92,Evidence insufficient for safe automatic reconciliation
 TXN-6432,INV-0071,75.78,REVIEW,0.0,0.0,4,72.22,False,61.94,13.84,Invoice already assigned; possible duplicate payment
-TXN-6078,INV-0097,75.64,REVIEW,0.0,0.0,2,70.27,False,60.34,15.3,Vendor/date evidence insufficient for automatic match
+TXN-6078,INV-0097,75.64,REVIEW,0.0,0.0,2,70.27,False,60.34,15.3,Evidence insufficient for safe automatic reconciliation
 TXN-6304,INV-0214,75.57,REVIEW,0.0,0.0,14,78.95,False,68.69,6.88,Ambiguous: competing invoice candidates have similar evidence
-TXN-6049,INV-0372,75.55,REVIEW,0.0,0.0,5,72.22,False,57.88,17.67,Vendor/date evidence insufficient for automatic match
-TXN-6271,INV-0137,75.53,REVIEW,0.0,0.0,14,78.79,False,63.92,11.61,Vendor/date evidence insufficient for automatic match
-TXN-6365,INV-0210,75.53,REVIEW,0.0,0.0,14,78.79,False,63.18,12.35,Vendor/date evidence insufficient for automatic match
-TXN-6136,INV-0151,75.5,REVIEW,0.0,0.0,9,75.0,False,57.76,17.74,Vendor/date evidence insufficient for automatic match
-TXN-6309,INV-0024,75.41,REVIEW,0.0,0.0,3,70.27,False,63.58,11.83,Vendor/date evidence insufficient for automatic match
-TXN-6061,INV-0486,75.19,REVIEW,0.0,0.0,4,70.27,False,61.71,13.48,Vendor/date evidence insufficient for automatic match
-TXN-6153,INV-0095,74.97,REVIEW,0.0,0.0,5,70.27,False,62.81,12.16,Vendor/date evidence insufficient for automatic match
+TXN-6049,INV-0372,75.55,REVIEW,0.0,0.0,5,72.22,False,57.88,17.67,Evidence insufficient for safe automatic reconciliation
+TXN-6271,INV-0137,75.53,REVIEW,0.0,0.0,14,78.79,False,63.92,11.61,Evidence insufficient for safe automatic reconciliation
+TXN-6365,INV-0210,75.53,REVIEW,0.0,0.0,14,78.79,False,63.18,12.35,Evidence insufficient for safe automatic reconciliation
+TXN-6136,INV-0151,75.5,REVIEW,0.0,0.0,9,75.0,False,57.76,17.74,Evidence insufficient for safe automatic reconciliation
+TXN-6309,INV-0024,75.41,REVIEW,0.0,0.0,3,70.27,False,63.58,11.83,Evidence insufficient for safe automatic reconciliation
+TXN-6061,INV-0486,75.19,REVIEW,0.0,0.0,4,70.27,False,61.71,13.48,Evidence insufficient for safe automatic reconciliation
+TXN-6153,INV-0095,74.97,REVIEW,0.0,0.0,5,70.27,False,62.81,12.16,Evidence insufficient for safe automatic reconciliation
 TXN-6466,INV-0399,74.97,REVIEW,0.0,0.0,5,70.27,False,60.0,14.97,Invoice already assigned; possible duplicate payment
-TXN-6336,INV-0404,74.44,REVIEW,0.0,0.0,10,72.22,False,59.03,15.41,Vendor/date evidence insufficient for automatic match
+TXN-6336,INV-0404,74.44,REVIEW,0.0,0.0,10,72.22,False,59.03,15.41,Evidence insufficient for safe automatic reconciliation
 TXN-6211,INV-0144,74.39,REVIEW,0.0,0.0,14,75.0,False,67.05,7.34,Ambiguous: competing invoice candidates have similar evidence
 TXN-6186,INV-0299,73.86,REVIEW,0.0,0.0,10,70.27,False,70.52,3.34,Ambiguous: competing invoice candidates have similar evidence
-TXN-6285,INV-0175,73.86,REVIEW,0.0,0.0,10,70.27,False,57.24,16.62,Vendor/date evidence insufficient for automatic match
-TXN-6272,INV-0388,73.55,REVIEW,0.0,0.0,14,72.22,False,64.34,9.21,Vendor/date evidence insufficient for automatic match
-TXN-6077,INV-0119,72.97,REVIEW,0.0,0.0,14,70.27,False,61.07,11.9,Vendor/date evidence insufficient for automatic match
-TXN-6188,INV-0037,72.97,REVIEW,0.0,0.0,14,70.27,False,30.72,42.25,Vendor/date evidence insufficient for automatic match
+TXN-6285,INV-0175,73.86,REVIEW,0.0,0.0,10,70.27,False,57.24,16.62,Evidence insufficient for safe automatic reconciliation
+TXN-6272,INV-0388,73.55,REVIEW,0.0,0.0,14,72.22,False,64.34,9.21,Evidence insufficient for safe automatic reconciliation
+TXN-6077,INV-0119,72.97,REVIEW,0.0,0.0,14,70.27,False,61.07,11.9,Evidence insufficient for safe automatic reconciliation
+TXN-6188,INV-0037,72.97,REVIEW,0.0,0.0,14,70.27,False,30.72,42.25,Evidence insufficient for safe automatic reconciliation
 TXN-6398,INV-0154,88.38,REVIEW,50.0,0.01,7,66.67,True,62.22,26.16,Amount mismatch prevents automatic reconciliation
 TXN-6380,INV-0444,87.58,REVIEW,50.0,0.04,6,63.64,True,53.37,34.21,Amount mismatch prevents automatic reconciliation
 TXN-6406,INV-0164,87.25,REVIEW,150.0,0.03,2,59.46,True,64.35,22.9,Amount mismatch prevents automatic reconciliation
@@ -444,24 +444,24 @@ TXN-6391,INV-0457,76.38,REVIEW,50.0,0.12,8,78.95,False,66.09,10.29,Amount mismat
 TXN-6400,INV-0278,76.35,REVIEW,100.0,0.03,19,85.71,False,65.06,11.29,Amount mismatch prevents automatic reconciliation
 TXN-6379,INV-0189,75.49,REVIEW,500.0,4.61,17,100.0,True,40.92,34.57,Amount mismatch prevents automatic reconciliation
 TXN-6126,INV-0393,75.13,REVIEW,0.0,0.0,16,78.95,False,68.09,7.04,Ambiguous: competing invoice candidates have similar evidence
-TXN-6025,INV-0335,75.08,REVIEW,0.0,0.0,16,78.79,False,66.76,8.32,Vendor/date evidence insufficient for automatic match
-TXN-6079,INV-0374,74.86,REVIEW,0.0,0.0,17,78.79,False,58.28,16.58,Vendor/date evidence insufficient for automatic match
-TXN-6091,INV-0194,74.56,REVIEW,0.0,0.0,2,66.67,False,58.37,16.19,Vendor/date evidence insufficient for automatic match
-TXN-6208,INV-0142,74.33,REVIEW,0.0,0.0,3,66.67,False,54.45,19.88,Vendor/date evidence insufficient for automatic match
+TXN-6025,INV-0335,75.08,REVIEW,0.0,0.0,16,78.79,False,66.76,8.32,Evidence insufficient for safe automatic reconciliation
+TXN-6079,INV-0374,74.86,REVIEW,0.0,0.0,17,78.79,False,58.28,16.58,Evidence insufficient for safe automatic reconciliation
+TXN-6091,INV-0194,74.56,REVIEW,0.0,0.0,2,66.67,False,58.37,16.19,Evidence insufficient for safe automatic reconciliation
+TXN-6208,INV-0142,74.33,REVIEW,0.0,0.0,3,66.67,False,54.45,19.88,Evidence insufficient for safe automatic reconciliation
 TXN-6461,INV-0186,73.89,REVIEW,0.0,0.0,5,66.67,False,54.08,19.81,Invoice already assigned; possible duplicate payment
-TXN-6086,INV-0307,73.72,REVIEW,0.0,0.0,17,75.0,False,64.36,9.36,Vendor/date evidence insufficient for automatic match
-TXN-6319,INV-0304,73.67,REVIEW,0.0,0.0,6,66.67,False,54.63,19.04,Vendor/date evidence insufficient for automatic match
+TXN-6086,INV-0307,73.72,REVIEW,0.0,0.0,17,75.0,False,64.36,9.36,Evidence insufficient for safe automatic reconciliation
+TXN-6319,INV-0304,73.67,REVIEW,0.0,0.0,6,66.67,False,54.63,19.04,Evidence insufficient for safe automatic reconciliation
 TXN-6384,INV-0253,73.63,REVIEW,50.0,0.02,17,75.0,False,64.44,9.19,Amount mismatch prevents automatic reconciliation
-TXN-6224,INV-0028,73.28,REVIEW,0.0,0.0,19,75.0,False,63.04,10.24,Vendor/date evidence insufficient for automatic match
+TXN-6224,INV-0028,73.28,REVIEW,0.0,0.0,19,75.0,False,63.04,10.24,Evidence insufficient for safe automatic reconciliation
 TXN-6409,INV-0447,73.24,REVIEW,500.0,0.46,19,81.82,False,58.59,14.65,Amount mismatch prevents automatic reconciliation
 TXN-6213,INV-0383,73.11,REVIEW,0.0,0.0,16,72.22,False,65.78,7.33,Ambiguous: competing invoice candidates have similar evidence
-TXN-6002,INV-0421,72.67,REVIEW,0.0,0.0,18,72.22,False,62.33,10.34,Vendor/date evidence insufficient for automatic match
-TXN-6214,INV-0387,72.67,REVIEW,0.0,0.0,18,72.22,False,60.23,12.44,Vendor/date evidence insufficient for automatic match
-TXN-6220,INV-0477,72.56,REVIEW,0.0,0.0,11,66.67,False,57.32,15.24,Vendor/date evidence insufficient for automatic match
-TXN-6109,INV-0370,71.86,REVIEW,0.0,0.0,19,70.27,False,56.92,14.94,Vendor/date evidence insufficient for automatic match
+TXN-6002,INV-0421,72.67,REVIEW,0.0,0.0,18,72.22,False,62.33,10.34,Evidence insufficient for safe automatic reconciliation
+TXN-6214,INV-0387,72.67,REVIEW,0.0,0.0,18,72.22,False,60.23,12.44,Evidence insufficient for safe automatic reconciliation
+TXN-6220,INV-0477,72.56,REVIEW,0.0,0.0,11,66.67,False,57.32,15.24,Evidence insufficient for safe automatic reconciliation
+TXN-6109,INV-0370,71.86,REVIEW,0.0,0.0,19,70.27,False,56.92,14.94,Evidence insufficient for safe automatic reconciliation
 TXN-6104,INV-0169,71.67,REVIEW,0.0,0.0,15,66.67,False,65.96,5.71,Ambiguous: competing invoice candidates have similar evidence
-TXN-6131,INV-0306,71.22,REVIEW,0.0,0.0,17,66.67,False,49.72,21.5,Vendor/date evidence insufficient for automatic match
-TXN-6260,INV-0168,71.22,REVIEW,0.0,0.0,17,66.67,False,57.85,13.37,Vendor/date evidence insufficient for automatic match
+TXN-6131,INV-0306,71.22,REVIEW,0.0,0.0,17,66.67,False,49.72,21.5,Evidence insufficient for safe automatic reconciliation
+TXN-6260,INV-0168,71.22,REVIEW,0.0,0.0,17,66.67,False,57.85,13.37,Evidence insufficient for safe automatic reconciliation
 TXN-6383,INV-0434,71.15,REVIEW,500.0,0.16,19,70.27,False,63.71,7.44,Amount mismatch prevents automatic reconciliation
 TXN-6240,INV-0150,71.0,REVIEW,0.0,0.0,18,66.67,False,63.34,7.66,Ambiguous: competing invoice candidates have similar evidence
 TXN-6405,INV-0342,70.84,REVIEW,150.0,0.08,17,66.67,False,58.09,12.75,Amount mismatch prevents automatic reconciliation
