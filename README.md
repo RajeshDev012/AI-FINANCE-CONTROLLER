@@ -59,7 +59,7 @@ Instead of relying only on machine learning or only on rules, the system combine
                 ▼
              Audit Logset.
 
---Installation section
+--Installation section..
 
 git clone <YOUR_GITHUB_REPOSITORY_URL>
 cd AI_FINANCE_CONTROLLER
